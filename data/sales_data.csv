@@ -1,0 +1,2001 @@
+Order ID,Order Date,Product Name,Category,Region,Sales,Profit,Quantity
+ORD-49829,2022-01-01,A4 Paper Ream,Office Supplies,South,43.62,8.37,7
+ORD-30636,2022-01-01,A4 Paper Ream,Office Supplies,West,9.24,1.52,1
+ORD-42550,2022-01-01,Glass Coffee Table,Furniture,West,2432.26,259.26,7
+ORD-16832,2022-01-02,Herman Miller Chair,Furniture,West,871.11,84.33,1
+ORD-74003,2022-01-03,Logitech Wireless Mouse,Technology,Central,315.72,74.68,10
+ORD-98940,2022-01-03,Sony Headphones,Technology,West,1756.99,313.04,10
+ORD-96154,2022-01-03,Logitech Wireless Mouse,Technology,East,280.25,95.32,6
+ORD-37973,2022-01-03,Filing Cabinet,Furniture,East,399.13,60.51,2
+ORD-22697,2022-01-04,Whiteboard Markers,Office Supplies,East,39.38,11.68,3
+ORD-50737,2022-01-04,Whiteboard Markers,Office Supplies,West,84.51,17.05,6
+ORD-65982,2022-01-05,Stapler Set,Office Supplies,South,139.04,49.86,9
+ORD-61173,2022-01-05,Herman Miller Chair,Furniture,West,6831.02,997.99,7
+ORD-36644,2022-01-06,Highlighter Pack,Office Supplies,West,28.43,7.59,2
+ORD-91600,2022-01-08,A4 Paper Ream,Office Supplies,East,30.76,9.19,3
+ORD-81584,2022-01-09,Sony Headphones,Technology,South,355.65,95.08,3
+ORD-92141,2022-01-09,Logitech Wireless Mouse,Technology,West,39.19,6.78,1
+ORD-11682,2022-01-09,Sticky Notes Pack,Office Supplies,West,37.4,11.05,3
+ORD-83100,2022-01-10,Samsung Galaxy Tab,Technology,South,2694.84,337.4,7
+ORD-66403,2022-01-11,Apple MacBook Pro,Technology,Central,5606.91,1376.05,5
+ORD-30760,2022-01-11,Wooden Bookshelf,Furniture,Central,2072.27,308.98,10
+ORD-55838,2022-01-11,Sticky Notes Pack,Office Supplies,South,41.21,14.54,5
+ORD-63668,2022-01-14,Herman Miller Chair,Furniture,Central,1816.25,261.65,2
+ORD-73564,2022-01-14,HP LaserJet Printer,Technology,South,1150.29,139.47,5
+ORD-42075,2022-01-14,Leather Sofa,Furniture,East,13418.14,2536.86,10
+ORD-57555,2022-01-14,Sticky Notes Pack,Office Supplies,West,74.52,23.53,7
+ORD-42154,2022-01-14,Canon DSLR Camera,Technology,Central,5186.15,1011.66,7
+ORD-85757,2022-01-15,Pen Set,Office Supplies,Central,106.27,21.17,5
+ORD-33516,2022-01-15,Sony Headphones,Technology,East,191.35,35.21,1
+ORD-46671,2022-01-17,Binder Clips Box,Office Supplies,South,36.32,6.55,6
+ORD-66928,2022-01-17,Apple MacBook Pro,Technology,South,7376.91,938.83,7
+ORD-49252,2022-01-18,Pen Set,Office Supplies,West,188.03,57.32,9
+ORD-18906,2022-01-18,Binder Clips Box,Office Supplies,West,51.46,16.5,6
+ORD-18729,2022-01-18,Pen Set,Office Supplies,South,16.9,5.38,1
+ORD-89995,2022-01-18,HP LaserJet Printer,Technology,East,3677.63,531.79,9
+ORD-39329,2022-01-18,Sony Headphones,Technology,West,549.11,113.25,3
+ORD-30750,2022-01-19,Filing Cabinet,Furniture,Central,809.39,75.31,5
+ORD-77213,2022-01-19,HP LaserJet Printer,Technology,West,3020.49,501.91,10
+ORD-25036,2022-01-19,Pen Set,Office Supplies,Central,170.07,46.14,9
+ORD-39769,2022-01-21,Canon DSLR Camera,Technology,West,1615.57,200.19,2
+ORD-69429,2022-01-22,Highlighter Pack,Office Supplies,Central,51.76,14.56,4
+ORD-28184,2022-01-22,Stapler Set,Office Supplies,East,69.14,-4.51,4
+ORD-71457,2022-01-22,Glass Coffee Table,Furniture,Central,640.76,86.97,2
+ORD-32521,2022-01-23,Herman Miller Chair,Furniture,South,6329.59,742.23,9
+ORD-93084,2022-01-24,Herman Miller Chair,Furniture,West,8152.33,1350.67,10
+ORD-44761,2022-01-24,Dell XPS 15,Technology,South,7450.32,1404.68,8
+ORD-71866,2022-01-25,Wooden Bookshelf,Furniture,Central,1665.26,225.44,7
+ORD-42053,2022-01-26,Pen Set,Office Supplies,East,22.7,6.64,1
+ORD-26293,2022-01-26,Filing Cabinet,Furniture,South,1842.65,187.4,10
+ORD-63296,2022-01-26,Leather Sofa,Furniture,West,2543.95,433.06,2
+ORD-11231,2022-01-28,Dell XPS 15,Technology,South,2421.74,341.8,3
+ORD-56219,2022-01-28,Whiteboard Markers,Office Supplies,Central,63.19,19.79,5
+ORD-99710,2022-01-28,HP LaserJet Printer,Technology,South,2214.45,333.9,9
+ORD-32509,2022-01-28,Apple MacBook Pro,Technology,Central,2297.63,473.26,2
+ORD-99517,2022-01-28,Wooden Bookshelf,Furniture,East,459.41,70.57,2
+ORD-90777,2022-01-29,Glass Coffee Table,Furniture,East,2506.34,418.69,7
+ORD-82384,2022-01-29,Highlighter Pack,Office Supplies,West,46.76,13.13,3
+ORD-66113,2022-01-30,Sony Headphones,Technology,Central,784.46,212.87,5
+ORD-22224,2022-01-31,Glass Coffee Table,Furniture,East,363.34,37.63,1
+ORD-91650,2022-02-01,HP LaserJet Printer,Technology,South,595.05,82.34,2
+ORD-28873,2022-02-02,A4 Paper Ream,Office Supplies,West,10.02,-0.7,1
+ORD-34670,2022-02-02,Apple MacBook Pro,Technology,West,2708.0,549.99,2
+ORD-10866,2022-02-02,Herman Miller Chair,Furniture,Central,7110.2,971.93,8
+ORD-24933,2022-02-03,Glass Coffee Table,Furniture,East,3299.32,613.78,9
+ORD-44018,2022-02-05,Binder Clips Box,Office Supplies,Central,14.47,3.18,2
+ORD-84352,2022-02-05,Sony Headphones,Technology,East,196.28,38.25,1
+ORD-90801,2022-02-06,IKEA Standing Desk,Furniture,West,2966.75,370.53,7
+ORD-94366,2022-02-06,IKEA Standing Desk,Furniture,East,1901.72,166.74,5
+ORD-89761,2022-02-06,Highlighter Pack,Office Supplies,South,87.24,-6.75,8
+ORD-14141,2022-02-06,Glass Coffee Table,Furniture,South,2398.97,330.79,9
+ORD-57526,2022-02-07,Binder Clips Box,Office Supplies,East,62.06,12.37,7
+ORD-45279,2022-02-08,Herman Miller Chair,Furniture,Central,3671.67,510.38,4
+ORD-75234,2022-02-08,Dell XPS 15,Technology,South,7451.32,1182.52,8
+ORD-70260,2022-02-08,Filing Cabinet,Furniture,East,1338.51,183.96,7
+ORD-85456,2022-02-10,Canon DSLR Camera,Technology,Central,4333.06,534.43,7
+ORD-80571,2022-02-10,Herman Miller Chair,Furniture,South,2412.78,292.26,3
+ORD-99417,2022-02-11,Samsung Galaxy Tab,Technology,Central,4234.28,618.1,9
+ORD-91439,2022-02-11,Apple MacBook Pro,Technology,West,5504.98,746.02,4
+ORD-37292,2022-02-12,Canon DSLR Camera,Technology,Central,1135.28,177.0,2
+ORD-52568,2022-02-12,Wooden Bookshelf,Furniture,East,2104.23,236.7,7
+ORD-59514,2022-02-13,Highlighter Pack,Office Supplies,South,87.44,29.9,8
+ORD-75392,2022-02-13,Sony Headphones,Technology,Central,291.29,74.78,2
+ORD-50653,2022-02-13,Sony Headphones,Technology,West,849.05,196.62,5
+ORD-87292,2022-02-14,Canon DSLR Camera,Technology,West,2917.95,546.07,4
+ORD-15210,2022-02-14,Canon DSLR Camera,Technology,Central,6102.55,1034.45,9
+ORD-34223,2022-02-14,Sticky Notes Pack,Office Supplies,East,78.25,-5.03,7
+ORD-51486,2022-02-15,Herman Miller Chair,Furniture,Central,8349.97,1230.13,10
+ORD-54967,2022-02-16,Samsung Galaxy Tab,Technology,East,1109.26,150.04,2
+ORD-84393,2022-02-17,Highlighter Pack,Office Supplies,Central,126.85,22.93,9
+ORD-13655,2022-02-17,Samsung Galaxy Tab,Technology,South,1111.39,198.9,3
+ORD-87664,2022-02-19,Binder Clips Box,Office Supplies,East,7.32,2.04,1
+ORD-73263,2022-02-21,Dell XPS 15,Technology,Central,8396.61,1095.31,9
+ORD-27275,2022-02-22,Whiteboard Markers,Office Supplies,West,28.39,9.96,2
+ORD-23924,2022-02-22,Herman Miller Chair,Furniture,South,1840.13,327.64,3
+ORD-58436,2022-02-22,Highlighter Pack,Office Supplies,West,17.59,4.66,1
+ORD-57303,2022-02-23,HP LaserJet Printer,Technology,West,2377.8,304.02,8
+ORD-89788,2022-02-23,Whiteboard Markers,Office Supplies,East,135.75,29.05,9
+ORD-89822,2022-02-23,Glass Coffee Table,Furniture,West,1887.0,309.51,7
+ORD-57089,2022-02-23,Pen Set,Office Supplies,West,205.87,67.29,10
+ORD-65170,2022-02-24,Leather Sofa,Furniture,East,10634.28,2283.17,9
+ORD-21003,2022-02-25,Stapler Set,Office Supplies,Central,131.69,49.97,10
+ORD-60667,2022-02-26,Samsung Galaxy Tab,Technology,East,3019.22,396.11,5
+ORD-16828,2022-02-26,Glass Coffee Table,Furniture,South,2001.21,297.76,8
+ORD-42189,2022-02-26,Dell XPS 15,Technology,West,4309.09,894.86,4
+ORD-56095,2022-02-27,Logitech Wireless Mouse,Technology,South,351.74,117.92,10
+ORD-20646,2022-02-28,Pen Set,Office Supplies,South,196.53,-18.55,10
+ORD-43868,2022-03-01,Stapler Set,Office Supplies,West,56.35,15.66,3
+ORD-21898,2022-03-01,Canon DSLR Camera,Technology,West,4703.38,521.81,6
+ORD-92578,2022-03-01,Filing Cabinet,Furniture,Central,311.58,39.76,2
+ORD-73577,2022-03-01,Apple MacBook Pro,Technology,West,3784.62,871.15,3
+ORD-32815,2022-03-02,Dell XPS 15,Technology,Central,5047.99,1136.6,6
+ORD-82737,2022-03-02,Whiteboard Markers,Office Supplies,East,82.37,26.39,5
+ORD-93115,2022-03-02,Glass Coffee Table,Furniture,Central,1502.93,205.01,6
+ORD-80248,2022-03-02,Binder Clips Box,Office Supplies,South,10.93,2.66,2
+ORD-22280,2022-03-03,Binder Clips Box,Office Supplies,East,89.85,24.62,10
+ORD-31012,2022-03-05,Leather Sofa,Furniture,South,8531.63,1183.88,10
+ORD-40833,2022-03-05,Pen Set,Office Supplies,South,40.39,8.28,2
+ORD-38905,2022-03-05,Highlighter Pack,Office Supplies,Central,117.09,36.73,8
+ORD-25362,2022-03-06,Samsung Galaxy Tab,Technology,East,1416.98,220.61,3
+ORD-57013,2022-03-08,Highlighter Pack,Office Supplies,South,47.94,15.03,4
+ORD-89310,2022-03-08,Whiteboard Markers,Office Supplies,South,75.43,20.05,7
+ORD-54308,2022-03-08,Stapler Set,Office Supplies,Central,69.44,21.91,5
+ORD-75860,2022-03-08,Highlighter Pack,Office Supplies,Central,97.53,25.4,8
+ORD-33865,2022-03-08,Apple MacBook Pro,Technology,Central,13168.85,2218.64,10
+ORD-96122,2022-03-08,Whiteboard Markers,Office Supplies,West,98.73,26.57,7
+ORD-54937,2022-03-09,A4 Paper Ream,Office Supplies,Central,26.52,6.64,3
+ORD-33508,2022-03-09,Dell XPS 15,Technology,South,7691.23,1240.67,9
+ORD-59465,2022-03-10,Sticky Notes Pack,Office Supplies,East,27.19,9.59,2
+ORD-77024,2022-03-11,Highlighter Pack,Office Supplies,East,133.72,42.14,8
+ORD-45918,2022-03-11,Filing Cabinet,Furniture,South,1175.98,153.8,7
+ORD-47287,2022-03-12,Leather Sofa,Furniture,Central,1084.94,218.29,1
+ORD-97235,2022-03-13,Wooden Bookshelf,Furniture,West,1071.29,133.36,4
+ORD-86418,2022-03-14,Leather Sofa,Furniture,Central,6815.98,836.65,7
+ORD-58393,2022-03-15,Dell XPS 15,Technology,East,3731.57,503.37,3
+ORD-96530,2022-03-17,SanDisk SSD 1TB,Technology,East,740.74,143.97,7
+ORD-59177,2022-03-18,A4 Paper Ream,Office Supplies,East,62.79,11.3,6
+ORD-85534,2022-03-18,Binder Clips Box,Office Supplies,East,91.23,20.57,10
+ORD-11214,2022-03-18,Leather Sofa,Furniture,West,5727.57,1130.86,5
+ORD-48026,2022-03-18,Highlighter Pack,Office Supplies,Central,118.97,28.33,8
+ORD-85008,2022-03-22,Pen Set,Office Supplies,West,59.98,10.88,3
+ORD-50492,2022-03-22,Highlighter Pack,Office Supplies,West,34.87,9.42,2
+ORD-73609,2022-03-22,Filing Cabinet,Furniture,West,858.66,121.29,5
+ORD-80756,2022-03-23,Canon DSLR Camera,Technology,West,733.95,113.63,1
+ORD-71689,2022-03-24,Apple MacBook Pro,Technology,Central,1303.84,271.36,1
+ORD-32962,2022-03-24,Canon DSLR Camera,Technology,East,3754.43,454.96,5
+ORD-38183,2022-03-24,Dell XPS 15,Technology,West,5095.81,1088.6,5
+ORD-28274,2022-03-24,Sticky Notes Pack,Office Supplies,South,20.05,5.67,2
+ORD-20780,2022-03-25,A4 Paper Ream,Office Supplies,Central,41.95,8.53,6
+ORD-22761,2022-03-26,Filing Cabinet,Furniture,South,1327.38,139.22,9
+ORD-70981,2022-03-26,Leather Sofa,Furniture,South,3957.08,520.04,4
+ORD-51365,2022-03-27,IKEA Standing Desk,Furniture,East,1808.59,200.95,4
+ORD-22693,2022-03-27,Samsung Galaxy Tab,Technology,East,4614.48,967.2,10
+ORD-86162,2022-03-28,SanDisk SSD 1TB,Technology,West,103.18,16.73,1
+ORD-65492,2022-03-29,Canon DSLR Camera,Technology,West,2045.83,367.32,3
+ORD-18683,2022-03-30,Sony Headphones,Technology,East,929.13,170.32,5
+ORD-96363,2022-03-30,Stapler Set,Office Supplies,Central,130.51,26.39,9
+ORD-26762,2022-03-30,SanDisk SSD 1TB,Technology,East,491.04,66.67,4
+ORD-27324,2022-03-31,Herman Miller Chair,Furniture,East,894.03,96.74,1
+ORD-93318,2022-03-31,Pen Set,Office Supplies,East,169.02,53.92,7
+ORD-32398,2022-03-31,Highlighter Pack,Office Supplies,West,112.21,33.88,7
+ORD-17928,2022-04-01,IKEA Standing Desk,Furniture,West,1302.68,109.75,3
+ORD-39418,2022-04-01,SanDisk SSD 1TB,Technology,Central,634.87,114.69,8
+ORD-41077,2022-04-02,Pen Set,Office Supplies,West,39.51,8.25,2
+ORD-83890,2022-04-02,Canon DSLR Camera,Technology,South,1288.33,231.12,2
+ORD-40603,2022-04-02,Highlighter Pack,Office Supplies,Central,133.84,-8.92,10
+ORD-23476,2022-04-02,Samsung Galaxy Tab,Technology,East,489.44,56.23,1
+ORD-26803,2022-04-03,Whiteboard Markers,Office Supplies,South,62.3,-5.98,6
+ORD-83731,2022-04-04,Logitech Wireless Mouse,Technology,South,233.51,76.96,7
+ORD-19514,2022-04-04,Apple MacBook Pro,Technology,East,15990.37,2352.88,10
+ORD-31516,2022-04-04,Glass Coffee Table,Furniture,South,522.59,82.22,2
+ORD-10702,2022-04-04,IKEA Standing Desk,Furniture,Central,1911.3,145.38,6
+ORD-53750,2022-04-04,Canon DSLR Camera,Technology,Central,4817.02,535.29,7
+ORD-87736,2022-04-04,HP LaserJet Printer,Technology,South,1151.07,217.58,4
+ORD-49085,2022-04-04,Pen Set,Office Supplies,South,47.32,-3.45,3
+ORD-62550,2022-04-05,Stapler Set,Office Supplies,West,73.42,22.45,4
+ORD-93000,2022-04-06,Logitech Wireless Mouse,Technology,East,265.75,56.38,7
+ORD-15230,2022-04-06,Leather Sofa,Furniture,Central,9073.1,1651.19,8
+ORD-24371,2022-04-07,HP LaserJet Printer,Technology,Central,683.81,123.66,2
+ORD-61554,2022-04-07,Herman Miller Chair,Furniture,South,5883.14,605.2,8
+ORD-12376,2022-04-07,IKEA Standing Desk,Furniture,West,3821.25,344.13,9
+ORD-62219,2022-04-08,Pen Set,Office Supplies,South,129.97,39.54,8
+ORD-95948,2022-04-08,Canon DSLR Camera,Technology,South,3127.1,351.42,6
+ORD-42077,2022-04-10,Apple MacBook Pro,Technology,Central,10320.72,2025.3,10
+ORD-81847,2022-04-11,Herman Miller Chair,Furniture,Central,6959.96,951.13,10
+ORD-98338,2022-04-12,Whiteboard Markers,Office Supplies,East,15.75,6.13,1
+ORD-32018,2022-04-14,Herman Miller Chair,Furniture,East,7036.0,751.3,8
+ORD-22097,2022-04-15,Glass Coffee Table,Furniture,Central,1311.7,146.88,5
+ORD-47700,2022-04-16,SanDisk SSD 1TB,Technology,South,541.64,80.67,7
+ORD-88838,2022-04-16,Dell XPS 15,Technology,Central,3721.61,570.12,4
+ORD-85740,2022-04-16,Sticky Notes Pack,Office Supplies,West,102.69,33.24,10
+ORD-43092,2022-04-16,Leather Sofa,Furniture,South,3282.86,471.63,3
+ORD-31068,2022-04-17,SanDisk SSD 1TB,Technology,South,669.53,108.2,9
+ORD-25380,2022-04-18,Logitech Wireless Mouse,Technology,Central,105.68,19.36,3
+ORD-10110,2022-04-19,Samsung Galaxy Tab,Technology,East,2786.67,315.87,6
+ORD-61964,2022-04-20,Wooden Bookshelf,Furniture,East,1602.05,244.42,7
+ORD-40128,2022-04-22,Highlighter Pack,Office Supplies,Central,14.81,2.88,1
+ORD-21096,2022-04-22,Stapler Set,Office Supplies,Central,141.56,49.58,9
+ORD-39218,2022-04-22,A4 Paper Ream,Office Supplies,Central,53.77,11.47,6
+ORD-57294,2022-04-22,Glass Coffee Table,Furniture,Central,715.61,88.81,3
+ORD-18305,2022-04-22,Glass Coffee Table,Furniture,Central,1495.2,188.12,5
+ORD-81939,2022-04-22,Highlighter Pack,Office Supplies,South,48.8,-4.14,4
+ORD-11007,2022-04-23,Whiteboard Markers,Office Supplies,East,56.29,21.46,4
+ORD-95626,2022-04-23,Whiteboard Markers,Office Supplies,West,13.66,3.25,1
+ORD-26274,2022-04-24,Binder Clips Box,Office Supplies,West,19.91,6.14,3
+ORD-74272,2022-04-25,Leather Sofa,Furniture,Central,4770.12,698.58,5
+ORD-38758,2022-04-25,A4 Paper Ream,Office Supplies,South,56.86,16.01,9
+ORD-28061,2022-04-25,Sticky Notes Pack,Office Supplies,West,49.12,11.72,4
+ORD-36201,2022-04-26,Stapler Set,Office Supplies,East,116.02,-7.47,7
+ORD-81557,2022-04-27,Canon DSLR Camera,Technology,South,3759.03,672.03,7
+ORD-42088,2022-04-27,Filing Cabinet,Furniture,East,2014.39,194.09,10
+ORD-58331,2022-04-27,Leather Sofa,Furniture,Central,1127.82,233.91,1
+ORD-92045,2022-04-28,Glass Coffee Table,Furniture,South,1649.44,241.44,6
+ORD-19835,2022-04-28,Logitech Wireless Mouse,Technology,Central,156.47,51.68,5
+ORD-83242,2022-04-29,IKEA Standing Desk,Furniture,Central,3007.99,309.95,8
+ORD-85965,2022-04-30,Leather Sofa,Furniture,West,8799.87,1347.06,7
+ORD-16830,2022-05-01,Pen Set,Office Supplies,South,36.79,-3.88,2
+ORD-78674,2022-05-01,Sony Headphones,Technology,West,1463.1,228.03,9
+ORD-28256,2022-05-02,Wooden Bookshelf,Furniture,West,1390.67,207.49,6
+ORD-94207,2022-05-03,Binder Clips Box,Office Supplies,East,45.13,-4.19,5
+ORD-56598,2022-05-03,Herman Miller Chair,Furniture,South,644.84,61.6,1
+ORD-31747,2022-05-03,Samsung Galaxy Tab,Technology,West,993.37,159.1,2
+ORD-46779,2022-05-03,IKEA Standing Desk,Furniture,East,3921.89,441.82,10
+ORD-43847,2022-05-04,SanDisk SSD 1TB,Technology,Central,584.65,153.14,6
+ORD-62163,2022-05-04,Stapler Set,Office Supplies,East,101.22,20.93,5
+ORD-51104,2022-05-05,Samsung Galaxy Tab,Technology,West,466.93,66.0,1
+ORD-21866,2022-05-06,Highlighter Pack,Office Supplies,Central,77.99,16.67,6
+ORD-67923,2022-05-07,Filing Cabinet,Furniture,East,652.17,107.46,3
+ORD-29808,2022-05-07,Wooden Bookshelf,Furniture,West,1378.07,151.3,5
+ORD-67014,2022-05-08,SanDisk SSD 1TB,Technology,East,1014.0,166.78,10
+ORD-45107,2022-05-11,Glass Coffee Table,Furniture,South,2437.18,309.65,9
+ORD-72021,2022-05-11,SanDisk SSD 1TB,Technology,East,191.88,46.72,2
+ORD-60432,2022-05-11,HP LaserJet Printer,Technology,Central,2824.15,310.0,10
+ORD-62328,2022-05-12,Apple MacBook Pro,Technology,West,11365.46,1979.29,8
+ORD-54846,2022-05-12,SanDisk SSD 1TB,Technology,East,556.05,120.38,5
+ORD-48630,2022-05-13,Binder Clips Box,Office Supplies,West,43.66,14.11,5
+ORD-31945,2022-05-13,Sticky Notes Pack,Office Supplies,West,21.58,6.14,2
+ORD-26702,2022-05-14,Pen Set,Office Supplies,West,43.28,9.42,2
+ORD-53213,2022-05-15,Wooden Bookshelf,Furniture,East,1623.75,143.18,6
+ORD-56118,2022-05-16,HP LaserJet Printer,Technology,South,2353.56,244.64,9
+ORD-50654,2022-05-16,HP LaserJet Printer,Technology,South,2141.9,315.76,7
+ORD-42858,2022-05-18,Filing Cabinet,Furniture,East,952.54,131.6,5
+ORD-38647,2022-05-18,Samsung Galaxy Tab,Technology,South,397.43,52.35,1
+ORD-74315,2022-05-18,Canon DSLR Camera,Technology,East,4777.81,640.97,7
+ORD-40932,2022-05-18,Sony Headphones,Technology,East,533.38,147.86,3
+ORD-83499,2022-05-18,Stapler Set,Office Supplies,South,75.95,29.02,6
+ORD-60157,2022-05-19,Sony Headphones,Technology,East,925.51,193.94,5
+ORD-15856,2022-05-19,Sticky Notes Pack,Office Supplies,East,25.97,8.29,2
+ORD-98501,2022-05-20,Dell XPS 15,Technology,West,2332.78,390.43,2
+ORD-75291,2022-05-20,A4 Paper Ream,Office Supplies,East,19.64,3.08,2
+ORD-95426,2022-05-21,Pen Set,Office Supplies,East,160.72,51.49,6
+ORD-33908,2022-05-21,Binder Clips Box,Office Supplies,South,38.56,9.27,7
+ORD-79822,2022-05-22,Dell XPS 15,Technology,East,10404.78,2099.73,8
+ORD-71589,2022-05-23,Pen Set,Office Supplies,East,158.07,36.58,6
+ORD-16006,2022-05-23,Highlighter Pack,Office Supplies,South,118.6,31.0,10
+ORD-60579,2022-05-23,Pen Set,Office Supplies,Central,18.35,5.49,1
+ORD-35362,2022-05-23,Binder Clips Box,Office Supplies,West,17.6,4.25,2
+ORD-49405,2022-05-24,Whiteboard Markers,Office Supplies,East,41.75,13.98,3
+ORD-60446,2022-05-25,Logitech Wireless Mouse,Technology,Central,40.01,7.62,1
+ORD-85361,2022-05-25,HP LaserJet Printer,Technology,South,2212.65,370.27,9
+ORD-63580,2022-05-26,Whiteboard Markers,Office Supplies,Central,87.33,24.77,8
+ORD-92719,2022-05-26,Pen Set,Office Supplies,West,212.65,48.66,10
+ORD-79243,2022-05-26,Canon DSLR Camera,Technology,Central,7365.92,848.09,10
+ORD-49599,2022-05-26,SanDisk SSD 1TB,Technology,East,692.31,138.14,6
+ORD-50812,2022-05-26,Samsung Galaxy Tab,Technology,West,1344.43,195.35,3
+ORD-54657,2022-05-28,Apple MacBook Pro,Technology,South,6817.28,1336.17,7
+ORD-11220,2022-05-29,Samsung Galaxy Tab,Technology,Central,2718.41,413.94,6
+ORD-69692,2022-05-30,Canon DSLR Camera,Technology,Central,5988.39,1146.38,10
+ORD-17852,2022-05-30,SanDisk SSD 1TB,Technology,South,670.99,122.47,8
+ORD-12187,2022-05-30,Wooden Bookshelf,Furniture,West,1750.48,224.56,8
+ORD-46344,2022-06-01,Binder Clips Box,Office Supplies,South,34.54,8.17,5
+ORD-52875,2022-06-02,Logitech Wireless Mouse,Technology,East,145.35,35.53,4
+ORD-74828,2022-06-03,Highlighter Pack,Office Supplies,West,60.83,14.09,4
+ORD-85228,2022-06-03,A4 Paper Ream,Office Supplies,West,17.55,4.33,2
+ORD-12441,2022-06-04,Canon DSLR Camera,Technology,South,1274.53,202.67,2
+ORD-28449,2022-06-04,Highlighter Pack,Office Supplies,South,28.69,9.37,2
+ORD-57067,2022-06-05,Sony Headphones,Technology,West,752.5,112.85,5
+ORD-37563,2022-06-06,SanDisk SSD 1TB,Technology,East,771.75,167.11,8
+ORD-15910,2022-06-06,Wooden Bookshelf,Furniture,East,2306.77,244.47,9
+ORD-25278,2022-06-06,Pen Set,Office Supplies,East,148.54,35.97,7
+ORD-23791,2022-06-06,Glass Coffee Table,Furniture,East,1892.96,312.94,6
+ORD-41462,2022-06-07,Wooden Bookshelf,Furniture,East,477.19,66.14,2
+ORD-20011,2022-06-07,SanDisk SSD 1TB,Technology,Central,161.71,35.71,2
+ORD-77353,2022-06-07,Whiteboard Markers,Office Supplies,East,65.93,13.67,5
+ORD-24334,2022-06-07,SanDisk SSD 1TB,Technology,West,435.09,72.04,5
+ORD-65680,2022-06-10,IKEA Standing Desk,Furniture,West,1076.94,102.99,3
+ORD-59947,2022-06-10,Wooden Bookshelf,Furniture,Central,1985.55,200.57,8
+ORD-98580,2022-06-10,IKEA Standing Desk,Furniture,East,783.09,57.96,2
+ORD-61873,2022-06-11,SanDisk SSD 1TB,Technology,Central,742.83,194.45,9
+ORD-77017,2022-06-11,Pen Set,Office Supplies,West,124.01,-13.2,5
+ORD-70174,2022-06-11,Binder Clips Box,Office Supplies,Central,56.17,10.02,7
+ORD-84946,2022-06-11,Highlighter Pack,Office Supplies,West,14.06,4.36,1
+ORD-17854,2022-06-12,SanDisk SSD 1TB,Technology,West,1005.65,187.26,10
+ORD-72601,2022-06-12,Binder Clips Box,Office Supplies,East,45.71,13.38,5
+ORD-48420,2022-06-13,Filing Cabinet,Furniture,East,608.59,55.39,3
+ORD-37600,2022-06-13,HP LaserJet Printer,Technology,West,1446.62,253.92,5
+ORD-77965,2022-06-14,Dell XPS 15,Technology,Central,5878.54,938.02,7
+ORD-99486,2022-06-14,Leather Sofa,Furniture,Central,7995.01,1164.28,7
+ORD-28136,2022-06-15,Wooden Bookshelf,Furniture,South,1859.61,178.68,9
+ORD-95686,2022-06-15,A4 Paper Ream,Office Supplies,West,44.49,12.81,5
+ORD-46780,2022-06-17,Leather Sofa,Furniture,East,4325.72,831.62,3
+ORD-58738,2022-06-18,Herman Miller Chair,Furniture,South,3846.44,517.71,5
+ORD-93956,2022-06-18,Whiteboard Markers,Office Supplies,Central,88.97,23.09,7
+ORD-24526,2022-06-18,IKEA Standing Desk,Furniture,South,2122.16,250.61,6
+ORD-28844,2022-06-19,Filing Cabinet,Furniture,East,944.81,116.88,5
+ORD-75517,2022-06-19,Herman Miller Chair,Furniture,East,3085.2,403.23,3
+ORD-66223,2022-06-19,Wooden Bookshelf,Furniture,South,1723.12,150.72,8
+ORD-56269,2022-06-19,Dell XPS 15,Technology,South,4595.97,601.93,5
+ORD-26591,2022-06-20,Logitech Wireless Mouse,Technology,West,157.43,45.0,4
+ORD-23622,2022-06-20,Stapler Set,Office Supplies,East,136.66,46.7,7
+ORD-47128,2022-06-21,Samsung Galaxy Tab,Technology,Central,1627.98,264.85,4
+ORD-18585,2022-06-23,A4 Paper Ream,Office Supplies,West,34.47,5.91,4
+ORD-35221,2022-06-24,Binder Clips Box,Office Supplies,South,61.35,15.96,9
+ORD-38389,2022-06-25,Glass Coffee Table,Furniture,East,1550.72,288.16,5
+ORD-51035,2022-06-25,Sony Headphones,Technology,Central,910.56,163.49,6
+ORD-65897,2022-06-26,Dell XPS 15,Technology,Central,814.39,169.59,1
+ORD-49498,2022-06-28,Pen Set,Office Supplies,East,73.79,16.64,3
+ORD-50063,2022-06-28,Leather Sofa,Furniture,West,5433.56,992.06,5
+ORD-75393,2022-06-28,HP LaserJet Printer,Technology,South,2651.92,454.83,9
+ORD-53684,2022-06-28,Samsung Galaxy Tab,Technology,East,6207.32,1279.94,10
+ORD-19600,2022-06-29,Filing Cabinet,Furniture,South,152.67,21.69,1
+ORD-26395,2022-06-29,Highlighter Pack,Office Supplies,South,88.28,21.93,7
+ORD-83727,2022-06-29,HP LaserJet Printer,Technology,West,930.91,139.88,3
+ORD-99381,2022-06-29,Sony Headphones,Technology,West,1477.13,304.81,8
+ORD-42142,2022-07-01,Glass Coffee Table,Furniture,East,3122.46,406.33,9
+ORD-57555,2022-07-02,SanDisk SSD 1TB,Technology,East,610.64,155.82,6
+ORD-34633,2022-07-02,Sticky Notes Pack,Office Supplies,South,47.61,10.46,5
+ORD-23425,2022-07-02,A4 Paper Ream,Office Supplies,Central,15.33,2.51,2
+ORD-19323,2022-07-02,Samsung Galaxy Tab,Technology,South,2397.02,428.21,6
+ORD-24474,2022-07-02,Sticky Notes Pack,Office Supplies,South,36.51,-3.58,4
+ORD-70774,2022-07-03,Filing Cabinet,Furniture,West,1289.89,147.1,7
+ORD-23824,2022-07-03,Pen Set,Office Supplies,West,85.33,28.26,4
+ORD-41205,2022-07-04,Dell XPS 15,Technology,South,7377.42,1537.88,8
+ORD-17362,2022-07-04,IKEA Standing Desk,Furniture,Central,366.3,38.95,1
+ORD-48680,2022-07-04,Herman Miller Chair,Furniture,South,2087.53,308.74,3
+ORD-75622,2022-07-05,HP LaserJet Printer,Technology,Central,2404.21,442.54,8
+ORD-57887,2022-07-05,Whiteboard Markers,Office Supplies,Central,11.2,4.44,1
+ORD-25026,2022-07-06,Logitech Wireless Mouse,Technology,Central,195.92,59.89,5
+ORD-39102,2022-07-07,Glass Coffee Table,Furniture,West,2100.91,257.98,7
+ORD-55685,2022-07-08,Wooden Bookshelf,Furniture,Central,953.14,145.22,4
+ORD-66168,2022-07-09,A4 Paper Ream,Office Supplies,South,22.14,5.29,3
+ORD-50449,2022-07-10,Herman Miller Chair,Furniture,East,5869.55,858.22,6
+ORD-62802,2022-07-10,Leather Sofa,Furniture,Central,2243.83,361.31,2
+ORD-20142,2022-07-10,Samsung Galaxy Tab,Technology,South,1325.74,160.81,3
+ORD-62288,2022-07-10,Pen Set,Office Supplies,East,127.03,32.11,5
+ORD-40352,2022-07-11,HP LaserJet Printer,Technology,Central,551.2,88.02,2
+ORD-87709,2022-07-13,Pen Set,Office Supplies,Central,103.91,23.35,5
+ORD-50966,2022-07-14,Leather Sofa,Furniture,Central,8373.55,1634.78,7
+ORD-79226,2022-07-15,Filing Cabinet,Furniture,South,1486.16,179.88,10
+ORD-66734,2022-07-15,Highlighter Pack,Office Supplies,West,80.54,14.23,6
+ORD-76247,2022-07-15,Filing Cabinet,Furniture,East,2065.8,221.6,10
+ORD-91123,2022-07-15,Canon DSLR Camera,Technology,East,7466.5,1510.19,9
+ORD-16505,2022-07-16,Pen Set,Office Supplies,South,98.97,26.85,5
+ORD-38695,2022-07-17,Sticky Notes Pack,Office Supplies,South,81.73,17.08,9
+ORD-33255,2022-07-17,Canon DSLR Camera,Technology,Central,2127.27,362.68,3
+ORD-57052,2022-07-18,Herman Miller Chair,Furniture,East,5753.5,1020.05,7
+ORD-48086,2022-07-19,Samsung Galaxy Tab,Technology,East,3486.76,586.85,6
+ORD-53426,2022-07-19,Leather Sofa,Furniture,South,3042.13,660.64,3
+ORD-14782,2022-07-19,Stapler Set,Office Supplies,Central,49.9,18.82,3
+ORD-74010,2022-07-20,Glass Coffee Table,Furniture,Central,1599.66,165.32,6
+ORD-65769,2022-07-20,Sony Headphones,Technology,Central,813.91,191.56,6
+ORD-85777,2022-07-22,Pen Set,Office Supplies,West,183.6,35.02,9
+ORD-14170,2022-07-22,Dell XPS 15,Technology,Central,3379.01,724.72,4
+ORD-16286,2022-07-22,Pen Set,Office Supplies,South,142.68,35.77,9
+ORD-19814,2022-07-22,Binder Clips Box,Office Supplies,West,29.65,9.17,4
+ORD-37235,2022-07-23,Pen Set,Office Supplies,East,214.09,58.51,10
+ORD-92074,2022-07-23,Wooden Bookshelf,Furniture,East,263.71,34.45,1
+ORD-93037,2022-07-24,Stapler Set,Office Supplies,Central,33.17,12.86,2
+ORD-59528,2022-07-24,Herman Miller Chair,Furniture,West,873.12,134.88,1
+ORD-23845,2022-07-25,SanDisk SSD 1TB,Technology,West,320.01,43.72,3
+ORD-28351,2022-07-25,Binder Clips Box,Office Supplies,Central,31.13,-2.77,4
+ORD-78327,2022-07-25,Logitech Wireless Mouse,Technology,East,269.68,56.68,7
+ORD-42487,2022-07-25,Glass Coffee Table,Furniture,West,949.76,144.71,3
+ORD-74361,2022-07-26,Wooden Bookshelf,Furniture,West,1735.01,213.72,7
+ORD-11246,2022-07-26,Canon DSLR Camera,Technology,Central,5431.67,762.55,8
+ORD-59823,2022-07-26,A4 Paper Ream,Office Supplies,South,14.11,2.73,2
+ORD-12751,2022-07-27,Apple MacBook Pro,Technology,West,6910.13,1071.41,5
+ORD-54514,2022-07-27,Leather Sofa,Furniture,Central,11549.78,1464.97,10
+ORD-46937,2022-07-28,IKEA Standing Desk,Furniture,East,1776.95,154.02,4
+ORD-98809,2022-07-28,Samsung Galaxy Tab,Technology,Central,969.47,120.13,2
+ORD-95678,2022-07-29,Sony Headphones,Technology,West,1189.83,277.36,7
+ORD-62879,2022-07-30,Herman Miller Chair,Furniture,Central,785.27,121.93,1
+ORD-60272,2022-07-30,A4 Paper Ream,Office Supplies,West,50.05,11.39,6
+ORD-56357,2022-07-30,Logitech Wireless Mouse,Technology,West,168.2,54.67,4
+ORD-14569,2022-07-31,Binder Clips Box,Office Supplies,East,68.76,19.27,8
+ORD-27601,2022-08-01,Pen Set,Office Supplies,East,242.41,54.51,9
+ORD-21749,2022-08-01,Filing Cabinet,Furniture,East,493.6,74.74,2
+ORD-99849,2022-08-01,SanDisk SSD 1TB,Technology,East,895.83,173.34,9
+ORD-72094,2022-08-01,Dell XPS 15,Technology,West,4057.62,869.34,4
+ORD-77054,2022-08-03,Pen Set,Office Supplies,West,163.66,55.12,7
+ORD-69546,2022-08-03,Leather Sofa,Furniture,South,2878.97,602.87,3
+ORD-31895,2022-08-04,Pen Set,Office Supplies,East,224.6,-20.66,9
+ORD-26187,2022-08-04,SanDisk SSD 1TB,Technology,West,662.73,133.04,7
+ORD-66822,2022-08-05,Herman Miller Chair,Furniture,Central,6064.77,953.29,8
+ORD-31544,2022-08-05,HP LaserJet Printer,Technology,East,1042.52,175.11,3
+ORD-75239,2022-08-06,Pen Set,Office Supplies,East,127.71,-12.43,5
+ORD-51827,2022-08-06,IKEA Standing Desk,Furniture,South,3016.45,392.01,9
+ORD-21995,2022-08-07,Highlighter Pack,Office Supplies,West,98.42,32.02,7
+ORD-18561,2022-08-07,Samsung Galaxy Tab,Technology,West,4808.31,832.8,9
+ORD-70812,2022-08-08,Whiteboard Markers,Office Supplies,Central,74.42,25.82,7
+ORD-33704,2022-08-08,Pen Set,Office Supplies,West,173.69,42.8,8
+ORD-22624,2022-08-08,Herman Miller Chair,Furniture,Central,2079.43,249.88,3
+ORD-52879,2022-08-09,A4 Paper Ream,Office Supplies,West,8.48,1.48,1
+ORD-12500,2022-08-09,Filing Cabinet,Furniture,South,1008.35,116.12,6
+ORD-66482,2022-08-09,Highlighter Pack,Office Supplies,Central,62.02,20.1,5
+ORD-12772,2022-08-09,Binder Clips Box,Office Supplies,Central,20.32,-1.98,3
+ORD-89599,2022-08-09,Leather Sofa,Furniture,South,5396.79,876.87,6
+ORD-45903,2022-08-10,Dell XPS 15,Technology,West,7919.02,1111.31,7
+ORD-60140,2022-08-10,Highlighter Pack,Office Supplies,West,84.35,26.9,5
+ORD-95664,2022-08-10,Whiteboard Markers,Office Supplies,East,129.64,28.64,10
+ORD-73142,2022-08-10,Glass Coffee Table,Furniture,South,1358.67,213.06,5
+ORD-85849,2022-08-10,Binder Clips Box,Office Supplies,East,22.19,6.33,3
+ORD-99850,2022-08-11,Leather Sofa,Furniture,East,11445.94,1601.0,10
+ORD-69193,2022-08-12,Glass Coffee Table,Furniture,East,3463.69,647.09,9
+ORD-90698,2022-08-12,Glass Coffee Table,Furniture,South,757.73,90.78,3
+ORD-17808,2022-08-14,Logitech Wireless Mouse,Technology,Central,90.48,25.85,3
+ORD-26926,2022-08-15,Leather Sofa,Furniture,Central,3127.04,584.23,3
+ORD-23879,2022-08-16,Stapler Set,Office Supplies,East,143.73,39.89,8
+ORD-89144,2022-08-17,Wooden Bookshelf,Furniture,South,195.52,23.75,1
+ORD-48469,2022-08-17,Dell XPS 15,Technology,South,4548.32,773.11,6
+ORD-17148,2022-08-19,Logitech Wireless Mouse,Technology,West,73.53,22.37,2
+ORD-63907,2022-08-20,Stapler Set,Office Supplies,West,150.8,49.77,8
+ORD-90945,2022-08-22,Dell XPS 15,Technology,South,5866.17,1273.72,7
+ORD-95814,2022-08-23,Glass Coffee Table,Furniture,Central,525.26,67.3,2
+ORD-83920,2022-08-23,Canon DSLR Camera,Technology,West,5139.35,1080.81,8
+ORD-28664,2022-08-24,Dell XPS 15,Technology,South,962.33,213.43,1
+ORD-38437,2022-08-24,HP LaserJet Printer,Technology,West,1955.31,337.29,6
+ORD-73198,2022-08-25,Pen Set,Office Supplies,Central,59.1,20.83,3
+ORD-67403,2022-08-25,A4 Paper Ream,Office Supplies,Central,61.44,12.76,7
+ORD-39937,2022-08-25,Samsung Galaxy Tab,Technology,East,5463.98,1043.68,10
+ORD-48138,2022-08-25,Highlighter Pack,Office Supplies,Central,62.96,15.48,4
+ORD-22451,2022-08-26,Wooden Bookshelf,Furniture,South,1280.85,121.52,7
+ORD-10183,2022-08-26,Canon DSLR Camera,Technology,West,6949.51,1219.13,9
+ORD-77277,2022-08-28,Stapler Set,Office Supplies,East,138.85,45.6,9
+ORD-45737,2022-08-29,Glass Coffee Table,Furniture,South,1785.17,242.7,8
+ORD-48019,2022-08-30,Herman Miller Chair,Furniture,South,2539.02,279.32,4
+ORD-71674,2022-08-30,Glass Coffee Table,Furniture,South,1720.63,177.94,8
+ORD-37871,2022-08-30,Sticky Notes Pack,Office Supplies,West,87.84,22.35,9
+ORD-34134,2022-08-31,A4 Paper Ream,Office Supplies,South,14.14,3.42,2
+ORD-75803,2022-09-02,Whiteboard Markers,Office Supplies,South,24.0,4.9,2
+ORD-25286,2022-09-03,Sticky Notes Pack,Office Supplies,South,80.54,24.16,8
+ORD-15379,2022-09-04,Herman Miller Chair,Furniture,East,3008.15,290.8,3
+ORD-65353,2022-09-04,Sticky Notes Pack,Office Supplies,East,11.18,3.2,1
+ORD-77922,2022-09-04,Leather Sofa,Furniture,West,8424.35,1654.56,8
+ORD-80244,2022-09-05,Leather Sofa,Furniture,South,6344.25,1349.57,7
+ORD-59008,2022-09-06,Filing Cabinet,Furniture,Central,1385.8,207.61,8
+ORD-56018,2022-09-06,Highlighter Pack,Office Supplies,South,81.41,-5.64,6
+ORD-80111,2022-09-07,Sticky Notes Pack,Office Supplies,South,53.09,15.54,6
+ORD-42631,2022-09-07,Samsung Galaxy Tab,Technology,Central,436.32,53.35,1
+ORD-49311,2022-09-07,Sony Headphones,Technology,Central,167.8,44.85,1
+ORD-61664,2022-09-07,Stapler Set,Office Supplies,South,14.46,5.31,1
+ORD-11262,2022-09-08,Wooden Bookshelf,Furniture,West,1289.09,126.19,6
+ORD-24034,2022-09-09,Stapler Set,Office Supplies,East,33.87,10.59,2
+ORD-27790,2022-09-09,Filing Cabinet,Furniture,Central,651.29,73.03,4
+ORD-97225,2022-09-10,IKEA Standing Desk,Furniture,South,2880.62,217.65,8
+ORD-21952,2022-09-11,Samsung Galaxy Tab,Technology,South,1141.21,190.51,3
+ORD-73886,2022-09-11,Dell XPS 15,Technology,West,7130.17,1158.28,7
+ORD-88878,2022-09-11,Filing Cabinet,Furniture,East,473.96,77.22,2
+ORD-50481,2022-09-12,Binder Clips Box,Office Supplies,East,30.37,-2.81,4
+ORD-71433,2022-09-12,Glass Coffee Table,Furniture,South,2196.41,349.46,8
+ORD-79660,2022-09-13,Canon DSLR Camera,Technology,East,4284.41,849.16,5
+ORD-80466,2022-09-14,Sony Headphones,Technology,Central,678.94,112.27,4
+ORD-67464,2022-09-14,Stapler Set,Office Supplies,West,34.4,12.54,2
+ORD-49926,2022-09-15,Pen Set,Office Supplies,East,109.33,21.17,4
+ORD-62814,2022-09-15,Samsung Galaxy Tab,Technology,East,3492.71,548.01,7
+ORD-27206,2022-09-16,Canon DSLR Camera,Technology,South,4347.41,654.99,8
+ORD-76093,2022-09-16,A4 Paper Ream,Office Supplies,Central,29.43,-1.5,4
+ORD-46046,2022-09-16,Logitech Wireless Mouse,Technology,West,87.41,23.58,2
+ORD-76619,2022-09-16,IKEA Standing Desk,Furniture,East,2383.79,258.53,5
+ORD-67788,2022-09-17,Dell XPS 15,Technology,East,7009.92,1590.2,6
+ORD-37021,2022-09-17,Samsung Galaxy Tab,Technology,Central,3568.86,693.46,8
+ORD-39808,2022-09-18,Wooden Bookshelf,Furniture,South,1668.32,194.98,8
+ORD-73539,2022-09-18,Sticky Notes Pack,Office Supplies,Central,28.54,-1.57,3
+ORD-76577,2022-09-18,IKEA Standing Desk,Furniture,South,1682.18,124.65,6
+ORD-91560,2022-09-19,Highlighter Pack,Office Supplies,Central,42.37,9.02,3
+ORD-62732,2022-09-19,SanDisk SSD 1TB,Technology,Central,472.63,87.79,6
+ORD-50051,2022-09-20,Stapler Set,Office Supplies,South,35.98,12.7,3
+ORD-17097,2022-09-20,Whiteboard Markers,Office Supplies,Central,44.06,11.94,4
+ORD-22055,2022-09-21,Dell XPS 15,Technology,West,7684.52,1027.82,8
+ORD-91567,2022-09-21,Pen Set,Office Supplies,West,230.84,78.19,10
+ORD-32713,2022-09-22,Samsung Galaxy Tab,Technology,East,4081.89,479.77,8
+ORD-90541,2022-09-23,HP LaserJet Printer,Technology,Central,553.57,109.98,2
+ORD-90209,2022-09-23,Pen Set,Office Supplies,South,130.05,25.48,8
+ORD-45456,2022-09-23,Pen Set,Office Supplies,East,235.81,56.38,9
+ORD-59277,2022-09-24,Stapler Set,Office Supplies,East,35.61,13.6,2
+ORD-84205,2022-09-25,Wooden Bookshelf,Furniture,South,1832.83,157.67,9
+ORD-93507,2022-09-25,Sticky Notes Pack,Office Supplies,South,10.16,-0.99,1
+ORD-34856,2022-09-25,Sticky Notes Pack,Office Supplies,East,21.99,-1.23,2
+ORD-11882,2022-09-25,Stapler Set,Office Supplies,Central,156.06,-10.92,10
+ORD-88282,2022-09-26,Highlighter Pack,Office Supplies,East,104.23,25.34,6
+ORD-47752,2022-09-26,Herman Miller Chair,Furniture,West,4562.22,445.64,5
+ORD-57060,2022-09-26,Leather Sofa,Furniture,Central,5250.55,636.37,5
+ORD-22178,2022-09-27,IKEA Standing Desk,Furniture,East,3157.12,420.13,8
+ORD-72115,2022-09-28,Apple MacBook Pro,Technology,South,7109.27,1420.39,7
+ORD-21750,2022-09-28,Sony Headphones,Technology,South,938.24,247.4,8
+ORD-50172,2022-09-28,Leather Sofa,Furniture,South,10398.38,1807.3,10
+ORD-84847,2022-09-28,A4 Paper Ream,Office Supplies,South,53.81,12.45,8
+ORD-11990,2022-09-28,SanDisk SSD 1TB,Technology,Central,324.17,81.23,4
+ORD-24230,2022-09-28,Pen Set,Office Supplies,East,89.8,21.13,4
+ORD-95208,2022-09-29,Binder Clips Box,Office Supplies,South,39.58,8.99,6
+ORD-36894,2022-09-29,IKEA Standing Desk,Furniture,East,3313.47,277.33,9
+ORD-90713,2022-09-29,Dell XPS 15,Technology,South,4330.84,532.59,5
+ORD-45446,2022-09-30,Herman Miller Chair,Furniture,West,4463.91,428.45,5
+ORD-93544,2022-09-30,Herman Miller Chair,Furniture,Central,5120.69,491.85,7
+ORD-77329,2022-10-01,A4 Paper Ream,Office Supplies,West,15.84,4.49,2
+ORD-61713,2022-10-01,Canon DSLR Camera,Technology,South,590.7,72.98,1
+ORD-51049,2022-10-02,A4 Paper Ream,Office Supplies,South,74.88,14.13,10
+ORD-54922,2022-10-02,Leather Sofa,Furniture,South,5959.53,701.22,7
+ORD-92660,2022-10-03,HP LaserJet Printer,Technology,Central,2444.85,478.61,8
+ORD-21013,2022-10-03,A4 Paper Ream,Office Supplies,South,39.03,8.64,5
+ORD-50954,2022-10-03,Highlighter Pack,Office Supplies,South,37.19,11.47,3
+ORD-49384,2022-10-03,Filing Cabinet,Furniture,East,776.81,116.19,4
+ORD-10403,2022-10-06,Binder Clips Box,Office Supplies,West,56.57,19.05,8
+ORD-72869,2022-10-07,Herman Miller Chair,Furniture,Central,6477.01,584.09,9
+ORD-35575,2022-10-07,Logitech Wireless Mouse,Technology,East,297.47,80.39,8
+ORD-30644,2022-10-07,Logitech Wireless Mouse,Technology,South,199.39,36.78,6
+ORD-55073,2022-10-07,Herman Miller Chair,Furniture,East,9915.67,1652.23,9
+ORD-36117,2022-10-08,Whiteboard Markers,Office Supplies,Central,38.63,11.64,3
+ORD-60164,2022-10-08,Logitech Wireless Mouse,Technology,South,177.22,34.54,5
+ORD-64949,2022-10-09,Sticky Notes Pack,Office Supplies,East,27.56,5.82,2
+ORD-86474,2022-10-10,Pen Set,Office Supplies,Central,91.55,30.88,5
+ORD-63131,2022-10-11,Binder Clips Box,Office Supplies,East,68.14,16.12,8
+ORD-13365,2022-10-12,Apple MacBook Pro,Technology,Central,9525.77,1316.83,7
+ORD-72970,2022-10-13,Logitech Wireless Mouse,Technology,East,153.63,37.53,4
+ORD-23434,2022-10-13,Stapler Set,Office Supplies,East,86.61,33.79,5
+ORD-42325,2022-10-13,Sticky Notes Pack,Office Supplies,Central,82.58,-5.22,8
+ORD-59501,2022-10-14,Logitech Wireless Mouse,Technology,South,167.57,34.45,5
+ORD-20279,2022-10-14,Filing Cabinet,Furniture,South,968.35,134.24,7
+ORD-52987,2022-10-14,Sticky Notes Pack,Office Supplies,West,114.82,32.46,10
+ORD-40938,2022-10-15,Wooden Bookshelf,Furniture,East,1877.78,236.86,7
+ORD-74080,2022-10-17,A4 Paper Ream,Office Supplies,West,20.16,-1.51,2
+ORD-19077,2022-10-18,Filing Cabinet,Furniture,West,354.86,46.5,2
+ORD-14701,2022-10-18,Pen Set,Office Supplies,West,42.08,11.75,2
+ORD-55656,2022-10-18,Leather Sofa,Furniture,East,2577.77,532.24,2
+ORD-24538,2022-10-18,Herman Miller Chair,Furniture,East,3073.03,413.72,3
+ORD-39697,2022-10-19,Highlighter Pack,Office Supplies,East,77.14,-4.49,4
+ORD-87283,2022-10-19,Leather Sofa,Furniture,East,4510.64,747.47,3
+ORD-46677,2022-10-19,SanDisk SSD 1TB,Technology,Central,87.88,20.36,1
+ORD-96535,2022-10-21,Highlighter Pack,Office Supplies,South,44.51,14.09,4
+ORD-13236,2022-10-21,Herman Miller Chair,Furniture,Central,4016.91,473.04,5
+ORD-62205,2022-10-23,Herman Miller Chair,Furniture,West,9895.19,1213.3,10
+ORD-48905,2022-10-24,Herman Miller Chair,Furniture,Central,5108.24,501.76,6
+ORD-21855,2022-10-24,Dell XPS 15,Technology,Central,5121.71,691.56,5
+ORD-52432,2022-10-24,Herman Miller Chair,Furniture,West,1540.65,222.8,2
+ORD-27038,2022-10-24,IKEA Standing Desk,Furniture,East,2325.8,227.9,5
+ORD-33444,2022-10-24,Glass Coffee Table,Furniture,West,829.77,116.94,3
+ORD-71822,2022-10-25,Filing Cabinet,Furniture,East,446.38,52.49,2
+ORD-96013,2022-10-25,Filing Cabinet,Furniture,West,1332.85,159.06,7
+ORD-13771,2022-10-26,Binder Clips Box,Office Supplies,West,54.08,13.84,7
+ORD-28035,2022-10-27,Logitech Wireless Mouse,Technology,East,289.55,77.21,6
+ORD-48070,2022-10-27,SanDisk SSD 1TB,Technology,Central,551.6,94.14,6
+ORD-17345,2022-10-27,Highlighter Pack,Office Supplies,East,104.01,-9.44,6
+ORD-73373,2022-10-27,Sony Headphones,Technology,West,478.45,97.04,3
+ORD-18130,2022-10-27,IKEA Standing Desk,Furniture,South,1418.96,147.87,5
+ORD-22308,2022-10-28,Whiteboard Markers,Office Supplies,West,127.74,28.75,9
+ORD-69589,2022-10-29,Pen Set,Office Supplies,Central,136.56,34.96,8
+ORD-13201,2022-10-29,Samsung Galaxy Tab,Technology,West,2082.25,391.27,4
+ORD-84086,2022-10-29,Whiteboard Markers,Office Supplies,South,90.79,33.21,8
+ORD-44253,2022-10-30,Herman Miller Chair,Furniture,South,626.58,85.64,1
+ORD-27326,2022-10-31,SanDisk SSD 1TB,Technology,South,590.25,127.02,7
+ORD-86563,2022-10-31,Herman Miller Chair,Furniture,West,4883.48,555.21,6
+ORD-26207,2022-10-31,Pen Set,Office Supplies,Central,146.11,51.48,8
+ORD-72784,2022-10-31,IKEA Standing Desk,Furniture,Central,2345.96,281.51,6
+ORD-95964,2022-11-01,Wooden Bookshelf,Furniture,East,245.36,33.36,1
+ORD-92178,2022-11-01,Binder Clips Box,Office Supplies,South,60.56,19.94,10
+ORD-69372,2022-11-02,HP LaserJet Printer,Technology,East,1211.63,151.4,3
+ORD-49306,2022-11-02,Filing Cabinet,Furniture,Central,1157.66,166.15,7
+ORD-71995,2022-11-03,Leather Sofa,Furniture,West,3592.11,415.43,3
+ORD-81932,2022-11-03,Stapler Set,Office Supplies,East,19.89,4.96,1
+ORD-53694,2022-11-04,SanDisk SSD 1TB,Technology,South,462.64,122.52,5
+ORD-13104,2022-11-04,Filing Cabinet,Furniture,East,2093.73,251.65,9
+ORD-33456,2022-11-04,Sony Headphones,Technology,South,1054.42,238.53,7
+ORD-28004,2022-11-05,Sticky Notes Pack,Office Supplies,South,64.89,-4.53,7
+ORD-63963,2022-11-07,A4 Paper Ream,Office Supplies,Central,43.47,10.05,6
+ORD-73505,2022-11-07,Sticky Notes Pack,Office Supplies,West,38.66,10.09,4
+ORD-16505,2022-11-08,Pen Set,Office Supplies,Central,76.31,27.14,4
+ORD-74923,2022-11-08,Highlighter Pack,Office Supplies,Central,102.71,22.54,7
+ORD-82463,2022-11-09,Leather Sofa,Furniture,East,6175.8,965.29,5
+ORD-72163,2022-11-09,Wooden Bookshelf,Furniture,South,1042.31,127.44,6
+ORD-89140,2022-11-10,Binder Clips Box,Office Supplies,West,16.16,-1.17,2
+ORD-16621,2022-11-10,A4 Paper Ream,Office Supplies,South,64.05,15.73,9
+ORD-31135,2022-11-11,A4 Paper Ream,Office Supplies,South,23.51,3.65,3
+ORD-52287,2022-11-11,Leather Sofa,Furniture,West,1103.22,133.82,1
+ORD-13113,2022-11-11,Binder Clips Box,Office Supplies,Central,12.49,2.2,2
+ORD-13784,2022-11-11,Glass Coffee Table,Furniture,East,2161.44,238.2,6
+ORD-59807,2022-11-12,Whiteboard Markers,Office Supplies,West,22.97,-2.41,2
+ORD-47810,2022-11-12,SanDisk SSD 1TB,Technology,South,485.66,107.74,7
+ORD-32439,2022-11-12,Whiteboard Markers,Office Supplies,East,112.53,28.74,9
+ORD-76127,2022-11-12,Pen Set,Office Supplies,South,84.37,18.34,5
+ORD-25807,2022-11-12,SanDisk SSD 1TB,Technology,Central,437.46,62.18,5
+ORD-41956,2022-11-13,Sticky Notes Pack,Office Supplies,West,61.73,16.75,5
+ORD-19807,2022-11-13,Sticky Notes Pack,Office Supplies,East,36.59,10.61,3
+ORD-64379,2022-11-13,Binder Clips Box,Office Supplies,Central,72.71,23.4,10
+ORD-45697,2022-11-15,Herman Miller Chair,Furniture,East,8407.71,1328.42,9
+ORD-38221,2022-11-15,SanDisk SSD 1TB,Technology,South,417.29,95.03,5
+ORD-76412,2022-11-17,Binder Clips Box,Office Supplies,Central,63.0,15.45,8
+ORD-93623,2022-11-18,IKEA Standing Desk,Furniture,South,2966.02,246.63,10
+ORD-76265,2022-11-18,Pen Set,Office Supplies,East,26.65,8.29,1
+ORD-57477,2022-11-19,Binder Clips Box,Office Supplies,South,25.81,6.78,4
+ORD-63334,2022-11-20,Highlighter Pack,Office Supplies,West,13.8,3.5,1
+ORD-13956,2022-11-20,Dell XPS 15,Technology,East,10010.34,2099.5,8
+ORD-47757,2022-11-20,Filing Cabinet,Furniture,South,342.66,41.63,2
+ORD-92465,2022-11-21,Filing Cabinet,Furniture,South,1107.04,142.95,6
+ORD-72216,2022-11-22,Highlighter Pack,Office Supplies,Central,108.64,29.63,9
+ORD-40369,2022-11-22,Highlighter Pack,Office Supplies,Central,27.16,-1.85,2
+ORD-52258,2022-11-22,SanDisk SSD 1TB,Technology,South,675.74,122.11,9
+ORD-89129,2022-11-22,Samsung Galaxy Tab,Technology,Central,3460.62,702.07,8
+ORD-14081,2022-11-24,Binder Clips Box,Office Supplies,Central,41.9,9.04,6
+ORD-53383,2022-11-24,Stapler Set,Office Supplies,West,68.46,19.3,4
+ORD-75619,2022-11-25,Samsung Galaxy Tab,Technology,South,2529.44,283.6,6
+ORD-97320,2022-11-25,Filing Cabinet,Furniture,South,167.13,15.56,1
+ORD-45755,2022-11-25,Dell XPS 15,Technology,South,1883.56,314.49,2
+ORD-19830,2022-11-26,Logitech Wireless Mouse,Technology,West,299.56,52.86,7
+ORD-53228,2022-11-26,Wooden Bookshelf,Furniture,South,370.64,48.24,2
+ORD-11617,2022-11-27,Sticky Notes Pack,Office Supplies,West,49.71,17.63,5
+ORD-91506,2022-11-28,Binder Clips Box,Office Supplies,South,46.57,13.9,8
+ORD-28333,2022-11-28,Herman Miller Chair,Furniture,Central,6400.22,813.32,8
+ORD-23143,2022-11-28,Stapler Set,Office Supplies,West,144.64,54.51,8
+ORD-70199,2022-11-28,Apple MacBook Pro,Technology,Central,5928.64,1381.79,5
+ORD-35457,2022-11-29,Dell XPS 15,Technology,Central,10215.18,1279.03,10
+ORD-23424,2022-11-30,Leather Sofa,Furniture,Central,7454.87,1136.13,6
+ORD-71228,2022-12-01,Apple MacBook Pro,Technology,Central,5638.91,957.71,5
+ORD-67496,2022-12-04,IKEA Standing Desk,Furniture,South,2569.14,327.35,9
+ORD-44741,2022-12-05,HP LaserJet Printer,Technology,Central,3055.99,579.06,9
+ORD-77388,2022-12-06,Wooden Bookshelf,Furniture,East,1023.11,141.93,4
+ORD-67366,2022-12-06,IKEA Standing Desk,Furniture,West,1304.94,166.98,3
+ORD-13251,2022-12-06,Stapler Set,Office Supplies,Central,64.14,16.59,5
+ORD-25538,2022-12-06,Pen Set,Office Supplies,South,30.91,8.81,2
+ORD-29978,2022-12-07,Leather Sofa,Furniture,East,2895.45,569.81,2
+ORD-88766,2022-12-07,Canon DSLR Camera,Technology,Central,5317.63,1023.4,9
+ORD-49251,2022-12-07,Herman Miller Chair,Furniture,East,6633.99,621.38,8
+ORD-74178,2022-12-08,Sony Headphones,Technology,West,1338.73,238.46,9
+ORD-24818,2022-12-08,Filing Cabinet,Furniture,Central,1319.99,164.8,7
+ORD-19570,2022-12-08,Apple MacBook Pro,Technology,Central,1292.62,306.67,1
+ORD-58193,2022-12-08,Herman Miller Chair,Furniture,Central,6956.86,823.53,10
+ORD-81265,2022-12-09,HP LaserJet Printer,Technology,East,3176.67,425.31,10
+ORD-34102,2022-12-09,Wooden Bookshelf,Furniture,Central,1549.68,205.86,7
+ORD-89415,2022-12-10,Sony Headphones,Technology,South,835.86,118.1,6
+ORD-52421,2022-12-11,Logitech Wireless Mouse,Technology,South,283.46,84.46,10
+ORD-17383,2022-12-11,HP LaserJet Printer,Technology,Central,2253.02,391.56,7
+ORD-10633,2022-12-12,Logitech Wireless Mouse,Technology,South,224.93,67.03,7
+ORD-98410,2022-12-12,Binder Clips Box,Office Supplies,East,73.51,12.84,10
+ORD-55838,2022-12-13,Wooden Bookshelf,Furniture,East,1500.77,213.35,5
+ORD-85085,2022-12-13,Herman Miller Chair,Furniture,Central,8864.34,1374.44,10
+ORD-17721,2022-12-13,HP LaserJet Printer,Technology,South,1832.17,238.72,7
+ORD-84349,2022-12-15,IKEA Standing Desk,Furniture,East,2507.46,320.42,6
+ORD-21536,2022-12-15,Logitech Wireless Mouse,Technology,Central,142.38,45.04,4
+ORD-96194,2022-12-15,Binder Clips Box,Office Supplies,Central,38.23,9.77,6
+ORD-99024,2022-12-16,HP LaserJet Printer,Technology,South,557.55,71.42,2
+ORD-78712,2022-12-16,Highlighter Pack,Office Supplies,West,13.95,3.07,1
+ORD-12367,2022-12-16,Sony Headphones,Technology,South,456.15,108.22,3
+ORD-38752,2022-12-16,Glass Coffee Table,Furniture,Central,1944.5,362.72,8
+ORD-80010,2022-12-17,Samsung Galaxy Tab,Technology,East,5063.27,737.95,10
+ORD-79065,2022-12-17,IKEA Standing Desk,Furniture,South,1664.22,171.86,6
+ORD-21171,2022-12-17,Wooden Bookshelf,Furniture,South,2022.98,281.8,9
+ORD-43022,2022-12-18,Wooden Bookshelf,Furniture,Central,467.04,69.44,2
+ORD-80402,2022-12-18,Canon DSLR Camera,Technology,West,3686.32,688.69,5
+ORD-70249,2022-12-21,Whiteboard Markers,Office Supplies,Central,123.21,45.97,9
+ORD-73999,2022-12-21,Dell XPS 15,Technology,South,7644.56,1699.31,8
+ORD-26827,2022-12-22,Glass Coffee Table,Furniture,West,2846.44,513.48,10
+ORD-82350,2022-12-22,A4 Paper Ream,Office Supplies,South,16.03,4.19,2
+ORD-87728,2022-12-22,Leather Sofa,Furniture,West,5379.63,1050.79,5
+ORD-33081,2022-12-22,Highlighter Pack,Office Supplies,Central,78.09,15.12,6
+ORD-38697,2022-12-23,Canon DSLR Camera,Technology,West,3883.4,538.13,5
+ORD-14073,2022-12-23,Stapler Set,Office Supplies,South,69.8,16.29,5
+ORD-60342,2022-12-23,Highlighter Pack,Office Supplies,West,33.58,6.36,2
+ORD-47304,2022-12-24,Pen Set,Office Supplies,West,230.88,74.62,10
+ORD-75991,2022-12-24,Wooden Bookshelf,Furniture,South,645.49,99.91,3
+ORD-15170,2022-12-24,Leather Sofa,Furniture,East,2308.65,267.05,2
+ORD-64401,2022-12-25,Wooden Bookshelf,Furniture,South,1473.04,140.69,7
+ORD-63363,2022-12-25,Glass Coffee Table,Furniture,East,1537.24,162.42,5
+ORD-38063,2022-12-25,IKEA Standing Desk,Furniture,West,714.41,58.52,2
+ORD-92050,2022-12-25,A4 Paper Ream,Office Supplies,Central,35.53,7.45,5
+ORD-25655,2022-12-26,Glass Coffee Table,Furniture,East,1588.83,280.2,5
+ORD-44242,2022-12-26,HP LaserJet Printer,Technology,Central,1619.52,315.11,6
+ORD-14763,2022-12-27,Binder Clips Box,Office Supplies,East,21.9,7.47,3
+ORD-43552,2022-12-28,Logitech Wireless Mouse,Technology,West,171.73,49.2,5
+ORD-82963,2022-12-29,Leather Sofa,Furniture,East,1243.3,242.64,1
+ORD-82450,2022-12-29,Sony Headphones,Technology,Central,993.79,147.81,6
+ORD-14202,2022-12-30,Herman Miller Chair,Furniture,West,1881.09,332.98,2
+ORD-31146,2023-01-01,Apple MacBook Pro,Technology,East,10243.98,1287.19,7
+ORD-14099,2023-01-01,Dell XPS 15,Technology,East,3447.74,558.96,3
+ORD-72463,2023-01-01,Binder Clips Box,Office Supplies,South,12.33,3.63,2
+ORD-52182,2023-01-02,Sticky Notes Pack,Office Supplies,South,72.36,22.91,8
+ORD-68170,2023-01-02,Glass Coffee Table,Furniture,South,1405.98,262.25,5
+ORD-44116,2023-01-03,IKEA Standing Desk,Furniture,East,4637.18,601.96,10
+ORD-84895,2023-01-04,Leather Sofa,Furniture,South,9094.08,1648.68,8
+ORD-77717,2023-01-04,Apple MacBook Pro,Technology,West,6892.0,1635.15,5
+ORD-47040,2023-01-05,Apple MacBook Pro,Technology,West,10660.02,1376.02,8
+ORD-32058,2023-01-05,Herman Miller Chair,Furniture,West,3751.7,674.57,5
+ORD-85502,2023-01-05,Sony Headphones,Technology,Central,1315.55,288.53,8
+ORD-64386,2023-01-05,Stapler Set,Office Supplies,Central,16.56,3.39,1
+ORD-88525,2023-01-06,Dell XPS 15,Technology,West,2293.61,336.99,2
+ORD-86720,2023-01-07,Glass Coffee Table,Furniture,Central,1432.88,143.14,5
+ORD-91685,2023-01-08,Glass Coffee Table,Furniture,West,2942.9,312.56,10
+ORD-80310,2023-01-09,Wooden Bookshelf,Furniture,South,1470.05,140.93,7
+ORD-58929,2023-01-10,Canon DSLR Camera,Technology,South,1043.41,212.08,2
+ORD-43496,2023-01-10,HP LaserJet Printer,Technology,South,878.13,128.03,3
+ORD-59278,2023-01-11,Glass Coffee Table,Furniture,Central,2423.62,450.73,9
+ORD-38939,2023-01-12,Filing Cabinet,Furniture,West,543.33,75.11,3
+ORD-34430,2023-01-13,Sticky Notes Pack,Office Supplies,Central,40.62,10.5,4
+ORD-28430,2023-01-14,Whiteboard Markers,Office Supplies,East,89.44,30.96,7
+ORD-33083,2023-01-14,Sony Headphones,Technology,West,1481.66,364.81,8
+ORD-63127,2023-01-14,Dell XPS 15,Technology,South,1680.53,315.1,2
+ORD-65675,2023-01-16,Highlighter Pack,Office Supplies,Central,104.79,35.59,7
+ORD-32779,2023-01-18,Leather Sofa,Furniture,West,2538.92,408.43,2
+ORD-57945,2023-01-18,Highlighter Pack,Office Supplies,East,186.57,-14.27,10
+ORD-44964,2023-01-19,Stapler Set,Office Supplies,West,16.44,4.7,1
+ORD-53536,2023-01-19,Filing Cabinet,Furniture,East,596.97,52.22,3
+ORD-37665,2023-01-19,Glass Coffee Table,Furniture,South,1387.73,219.52,6
+ORD-23994,2023-01-20,Leather Sofa,Furniture,South,2632.76,343.93,3
+ORD-19103,2023-01-20,HP LaserJet Printer,Technology,Central,3350.22,528.93,10
+ORD-25218,2023-01-21,Dell XPS 15,Technology,East,6344.88,1034.65,6
+ORD-52143,2023-01-21,Glass Coffee Table,Furniture,East,3051.21,556.16,8
+ORD-87015,2023-01-21,Leather Sofa,Furniture,East,2706.05,413.54,2
+ORD-24790,2023-01-22,Wooden Bookshelf,Furniture,West,1083.56,116.29,5
+ORD-61347,2023-01-22,Whiteboard Markers,Office Supplies,West,109.88,32.73,9
+ORD-87489,2023-01-22,Highlighter Pack,Office Supplies,East,140.01,24.24,9
+ORD-84278,2023-01-24,Sticky Notes Pack,Office Supplies,South,92.75,20.69,9
+ORD-43386,2023-01-25,Glass Coffee Table,Furniture,East,2255.78,428.9,7
+ORD-22363,2023-01-25,Sticky Notes Pack,Office Supplies,West,78.52,25.47,8
+ORD-63645,2023-01-25,Dell XPS 15,Technology,South,3071.94,634.89,4
+ORD-16755,2023-01-26,Sony Headphones,Technology,South,244.21,65.25,2
+ORD-99080,2023-01-27,IKEA Standing Desk,Furniture,South,1179.3,145.77,4
+ORD-49173,2023-01-27,HP LaserJet Printer,Technology,East,2281.27,432.07,7
+ORD-71504,2023-01-29,Sticky Notes Pack,Office Supplies,East,31.11,7.15,3
+ORD-42311,2023-01-29,Whiteboard Markers,Office Supplies,South,59.14,14.88,5
+ORD-16829,2023-01-30,Dell XPS 15,Technology,Central,2131.47,245.26,2
+ORD-47560,2023-01-30,Highlighter Pack,Office Supplies,South,52.46,16.06,4
+ORD-24156,2023-01-30,Binder Clips Box,Office Supplies,East,68.51,20.81,8
+ORD-57352,2023-01-30,Binder Clips Box,Office Supplies,West,17.2,3.8,2
+ORD-51359,2023-01-30,Wooden Bookshelf,Furniture,West,547.95,87.6,2
+ORD-62227,2023-01-31,IKEA Standing Desk,Furniture,West,375.46,31.46,1
+ORD-96486,2023-02-01,Glass Coffee Table,Furniture,Central,725.06,81.51,3
+ORD-85132,2023-02-01,Apple MacBook Pro,Technology,East,14395.23,1821.18,10
+ORD-69606,2023-02-03,Whiteboard Markers,Office Supplies,South,57.84,21.55,5
+ORD-45378,2023-02-03,Apple MacBook Pro,Technology,South,7135.38,1475.54,7
+ORD-28764,2023-02-04,Highlighter Pack,Office Supplies,East,114.36,19.91,7
+ORD-86471,2023-02-04,Herman Miller Chair,Furniture,South,680.46,87.86,1
+ORD-36956,2023-02-05,Whiteboard Markers,Office Supplies,Central,111.79,39.34,10
+ORD-71548,2023-02-05,Sony Headphones,Technology,Central,261.39,44.31,2
+ORD-35362,2023-02-07,IKEA Standing Desk,Furniture,South,2712.15,322.93,10
+ORD-57739,2023-02-08,SanDisk SSD 1TB,Technology,East,1106.85,184.74,9
+ORD-68926,2023-02-09,Binder Clips Box,Office Supplies,Central,45.98,-4.61,7
+ORD-42102,2023-02-09,Stapler Set,Office Supplies,Central,121.76,31.36,8
+ORD-73762,2023-02-10,Logitech Wireless Mouse,Technology,West,120.93,40.81,3
+ORD-35837,2023-02-10,Sticky Notes Pack,Office Supplies,Central,55.14,15.41,6
+ORD-72114,2023-02-11,Filing Cabinet,Furniture,West,1439.4,202.55,7
+ORD-19961,2023-02-11,Samsung Galaxy Tab,Technology,Central,2682.28,332.12,7
+ORD-93200,2023-02-11,Sony Headphones,Technology,South,385.25,100.9,3
+ORD-44312,2023-02-11,Canon DSLR Camera,Technology,East,7071.25,899.82,8
+ORD-30032,2023-02-12,Dell XPS 15,Technology,South,7138.14,1349.13,9
+ORD-54385,2023-02-12,HP LaserJet Printer,Technology,East,2305.13,258.3,6
+ORD-88966,2023-02-12,Glass Coffee Table,Furniture,South,740.5,80.52,3
+ORD-95181,2023-02-12,Canon DSLR Camera,Technology,East,6295.58,806.14,9
+ORD-70402,2023-02-12,Leather Sofa,Furniture,West,1161.91,135.4,1
+ORD-58903,2023-02-13,Herman Miller Chair,Furniture,East,8946.26,1370.76,9
+ORD-42770,2023-02-13,Sticky Notes Pack,Office Supplies,South,85.77,-8.5,10
+ORD-89254,2023-02-13,Leather Sofa,Furniture,Central,3393.19,511.16,3
+ORD-87624,2023-02-14,Wooden Bookshelf,Furniture,East,2259.61,204.12,10
+ORD-53746,2023-02-15,Dell XPS 15,Technology,South,856.78,137.28,1
+ORD-72411,2023-02-15,Canon DSLR Camera,Technology,West,5826.18,866.14,9
+ORD-93958,2023-02-15,Highlighter Pack,Office Supplies,East,115.08,20.3,7
+ORD-57746,2023-02-15,Glass Coffee Table,Furniture,East,3256.44,458.0,9
+ORD-72784,2023-02-16,A4 Paper Ream,Office Supplies,South,46.0,11.45,6
+ORD-37487,2023-02-16,Pen Set,Office Supplies,South,184.81,41.85,9
+ORD-50857,2023-02-16,Highlighter Pack,Office Supplies,Central,57.64,18.99,4
+ORD-17553,2023-02-16,Apple MacBook Pro,Technology,West,5994.17,862.45,4
+ORD-27322,2023-02-16,Filing Cabinet,Furniture,Central,533.24,68.68,3
+ORD-46913,2023-02-17,Glass Coffee Table,Furniture,West,319.05,41.7,1
+ORD-93674,2023-02-18,Apple MacBook Pro,Technology,South,4659.94,605.17,4
+ORD-69596,2023-02-18,Herman Miller Chair,Furniture,West,7230.81,981.6,8
+ORD-79934,2023-02-18,Pen Set,Office Supplies,South,88.2,31.71,5
+ORD-29879,2023-02-18,Logitech Wireless Mouse,Technology,Central,155.67,49.78,5
+ORD-56913,2023-02-18,Canon DSLR Camera,Technology,South,5011.41,1007.43,9
+ORD-80592,2023-02-18,Filing Cabinet,Furniture,Central,681.91,81.0,4
+ORD-28102,2023-02-19,A4 Paper Ream,Office Supplies,West,29.79,5.47,3
+ORD-85065,2023-02-19,Stapler Set,Office Supplies,East,156.77,56.96,9
+ORD-69255,2023-02-20,Binder Clips Box,Office Supplies,East,37.57,12.54,4
+ORD-91338,2023-02-20,Whiteboard Markers,Office Supplies,East,12.96,3.03,1
+ORD-93130,2023-02-21,Glass Coffee Table,Furniture,West,1697.65,176.3,6
+ORD-14356,2023-02-21,Dell XPS 15,Technology,East,2302.09,288.74,2
+ORD-19248,2023-02-22,Filing Cabinet,Furniture,West,1680.32,175.03,9
+ORD-18668,2023-02-23,Leather Sofa,Furniture,West,5336.58,1006.28,4
+ORD-40973,2023-02-23,A4 Paper Ream,Office Supplies,West,27.78,-1.31,3
+ORD-81358,2023-02-25,Pen Set,Office Supplies,West,166.36,42.42,7
+ORD-79443,2023-02-25,Filing Cabinet,Furniture,South,350.08,41.36,2
+ORD-99881,2023-02-25,Samsung Galaxy Tab,Technology,Central,1160.29,239.63,3
+ORD-46483,2023-02-26,Sticky Notes Pack,Office Supplies,Central,10.79,2.21,1
+ORD-80484,2023-02-26,Highlighter Pack,Office Supplies,West,107.44,30.7,7
+ORD-67958,2023-02-27,Dell XPS 15,Technology,Central,4921.68,974.82,5
+ORD-18819,2023-02-27,SanDisk SSD 1TB,Technology,East,399.4,92.87,4
+ORD-27030,2023-02-27,Sticky Notes Pack,Office Supplies,Central,21.9,4.66,2
+ORD-34125,2023-02-28,Highlighter Pack,Office Supplies,Central,104.14,18.0,7
+ORD-77880,2023-02-28,Wooden Bookshelf,Furniture,West,222.2,19.51,1
+ORD-37124,2023-02-28,Whiteboard Markers,Office Supplies,Central,36.2,7.58,3
+ORD-81002,2023-03-01,Glass Coffee Table,Furniture,West,3344.45,559.36,10
+ORD-71974,2023-03-03,Highlighter Pack,Office Supplies,East,129.69,25.24,9
+ORD-85680,2023-03-03,Whiteboard Markers,Office Supplies,South,102.35,36.95,9
+ORD-46231,2023-03-03,Glass Coffee Table,Furniture,West,2168.79,259.3,8
+ORD-87401,2023-03-04,Sony Headphones,Technology,East,1216.32,177.11,6
+ORD-95950,2023-03-04,IKEA Standing Desk,Furniture,East,403.34,39.11,1
+ORD-62162,2023-03-06,Logitech Wireless Mouse,Technology,West,186.59,40.44,5
+ORD-72185,2023-03-06,Pen Set,Office Supplies,West,137.9,46.56,7
+ORD-87060,2023-03-06,Sony Headphones,Technology,East,702.45,136.02,4
+ORD-67469,2023-03-06,A4 Paper Ream,Office Supplies,East,83.71,14.8,8
+ORD-31001,2023-03-07,Herman Miller Chair,Furniture,West,5051.88,854.92,5
+ORD-86588,2023-03-07,Pen Set,Office Supplies,South,82.11,15.76,4
+ORD-49986,2023-03-07,A4 Paper Ream,Office Supplies,Central,14.52,4.18,2
+ORD-87436,2023-03-08,Filing Cabinet,Furniture,Central,1575.21,225.53,8
+ORD-39500,2023-03-08,Sticky Notes Pack,Office Supplies,East,67.05,15.06,6
+ORD-97862,2023-03-08,HP LaserJet Printer,Technology,East,710.22,107.64,2
+ORD-59732,2023-03-08,Wooden Bookshelf,Furniture,East,242.91,30.61,1
+ORD-86486,2023-03-11,Pen Set,Office Supplies,South,189.55,62.39,10
+ORD-94109,2023-03-11,Dell XPS 15,Technology,Central,2179.59,350.03,2
+ORD-86697,2023-03-12,Filing Cabinet,Furniture,Central,1180.8,160.98,6
+ORD-30280,2023-03-12,Whiteboard Markers,Office Supplies,South,19.29,6.79,2
+ORD-14804,2023-03-12,Binder Clips Box,Office Supplies,East,92.01,17.67,10
+ORD-34331,2023-03-12,Dell XPS 15,Technology,Central,9795.37,1199.3,10
+ORD-10292,2023-03-13,Leather Sofa,Furniture,South,4978.55,873.19,5
+ORD-76307,2023-03-13,Glass Coffee Table,Furniture,East,576.32,61.57,2
+ORD-23878,2023-03-14,Leather Sofa,Furniture,East,5096.82,570.02,4
+ORD-70997,2023-03-14,Filing Cabinet,Furniture,East,1471.52,144.15,6
+ORD-47664,2023-03-15,Filing Cabinet,Furniture,East,1865.03,189.28,9
+ORD-18418,2023-03-15,Canon DSLR Camera,Technology,Central,2061.7,316.69,3
+ORD-90199,2023-03-16,Stapler Set,Office Supplies,South,60.19,19.75,5
+ORD-59308,2023-03-17,Apple MacBook Pro,Technology,East,11345.85,2817.51,9
+ORD-27590,2023-03-17,Canon DSLR Camera,Technology,West,3114.35,409.02,5
+ORD-96108,2023-03-17,Logitech Wireless Mouse,Technology,West,75.94,22.94,2
+ORD-33996,2023-03-18,Herman Miller Chair,Furniture,South,3791.75,447.68,5
+ORD-69905,2023-03-18,Canon DSLR Camera,Technology,East,5813.52,1229.34,7
+ORD-47089,2023-03-18,IKEA Standing Desk,Furniture,Central,1509.96,143.56,4
+ORD-78089,2023-03-19,Dell XPS 15,Technology,South,1666.99,280.73,2
+ORD-40539,2023-03-19,A4 Paper Ream,Office Supplies,East,82.27,23.83,9
+ORD-67941,2023-03-19,Canon DSLR Camera,Technology,East,6378.18,950.49,9
+ORD-74682,2023-03-21,Filing Cabinet,Furniture,South,301.19,40.2,2
+ORD-88562,2023-03-21,Apple MacBook Pro,Technology,East,1235.74,164.54,1
+ORD-17398,2023-03-21,Stapler Set,Office Supplies,Central,129.45,48.59,8
+ORD-42435,2023-03-24,Pen Set,Office Supplies,Central,188.92,51.79,9
+ORD-27507,2023-03-25,Stapler Set,Office Supplies,South,73.75,17.16,6
+ORD-87025,2023-03-26,Leather Sofa,Furniture,West,11566.19,1340.87,9
+ORD-99733,2023-03-26,A4 Paper Ream,Office Supplies,West,69.47,18.6,8
+ORD-45774,2023-03-26,Glass Coffee Table,Furniture,West,2285.07,365.77,8
+ORD-27875,2023-03-27,Sony Headphones,Technology,West,1483.74,336.07,9
+ORD-22661,2023-03-28,Logitech Wireless Mouse,Technology,West,87.33,22.4,2
+ORD-48844,2023-03-28,Glass Coffee Table,Furniture,South,1253.95,121.56,5
+ORD-68454,2023-03-28,Pen Set,Office Supplies,East,120.63,-9.32,5
+ORD-44469,2023-03-28,HP LaserJet Printer,Technology,Central,2331.88,421.12,7
+ORD-23970,2023-03-31,Highlighter Pack,Office Supplies,West,144.33,30.73,9
+ORD-38157,2023-03-31,Stapler Set,Office Supplies,West,72.55,-6.48,5
+ORD-99957,2023-04-01,Pen Set,Office Supplies,West,139.35,35.88,6
+ORD-27133,2023-04-01,Dell XPS 15,Technology,East,1291.41,242.19,1
+ORD-87564,2023-04-01,Highlighter Pack,Office Supplies,West,68.46,20.73,4
+ORD-89700,2023-04-01,Canon DSLR Camera,Technology,East,2886.44,519.52,4
+ORD-77681,2023-04-02,Highlighter Pack,Office Supplies,East,152.07,38.56,9
+ORD-40182,2023-04-02,Sony Headphones,Technology,West,189.42,27.71,1
+ORD-87280,2023-04-03,Whiteboard Markers,Office Supplies,Central,36.48,7.34,3
+ORD-32193,2023-04-04,Wooden Bookshelf,Furniture,Central,1501.97,219.65,8
+ORD-85493,2023-04-04,Sony Headphones,Technology,East,920.7,184.79,6
+ORD-25907,2023-04-05,HP LaserJet Printer,Technology,South,2205.68,229.58,9
+ORD-12717,2023-04-05,SanDisk SSD 1TB,Technology,Central,839.46,210.1,10
+ORD-84108,2023-04-05,A4 Paper Ream,Office Supplies,Central,16.82,4.56,2
+ORD-13018,2023-04-06,Dell XPS 15,Technology,Central,9287.15,1535.5,9
+ORD-94886,2023-04-06,Binder Clips Box,Office Supplies,West,59.84,-5.89,7
+ORD-49418,2023-04-07,IKEA Standing Desk,Furniture,Central,1492.42,167.95,4
+ORD-98826,2023-04-07,HP LaserJet Printer,Technology,West,1206.39,124.39,4
+ORD-95240,2023-04-07,Stapler Set,Office Supplies,East,16.43,3.56,1
+ORD-55353,2023-04-07,A4 Paper Ream,Office Supplies,South,22.43,3.64,3
+ORD-78494,2023-04-08,Dell XPS 15,Technology,Central,9699.67,1209.86,10
+ORD-10433,2023-04-08,Leather Sofa,Furniture,East,12925.18,1856.66,9
+ORD-78084,2023-04-09,Herman Miller Chair,Furniture,West,9590.46,1462.76,10
+ORD-21846,2023-04-11,Dell XPS 15,Technology,West,4463.81,566.37,5
+ORD-64700,2023-04-11,Dell XPS 15,Technology,Central,9349.69,1760.69,9
+ORD-21738,2023-04-11,Binder Clips Box,Office Supplies,South,38.94,10.12,6
+ORD-65531,2023-04-11,Sticky Notes Pack,Office Supplies,South,83.02,15.55,10
+ORD-12810,2023-04-12,Leather Sofa,Furniture,Central,5445.04,880.39,5
+ORD-22898,2023-04-12,Samsung Galaxy Tab,Technology,East,2350.9,486.68,5
+ORD-64239,2023-04-13,Highlighter Pack,Office Supplies,West,113.38,34.06,7
+ORD-42441,2023-04-16,Binder Clips Box,Office Supplies,Central,70.44,21.6,9
+ORD-89569,2023-04-17,Apple MacBook Pro,Technology,Central,5227.02,1073.12,5
+ORD-20104,2023-04-17,HP LaserJet Printer,Technology,Central,867.65,121.37,3
+ORD-49968,2023-04-18,Canon DSLR Camera,Technology,West,6747.31,804.8,9
+ORD-10946,2023-04-19,SanDisk SSD 1TB,Technology,South,716.78,173.69,10
+ORD-18239,2023-04-20,Herman Miller Chair,Furniture,West,6485.69,801.58,8
+ORD-48974,2023-04-21,IKEA Standing Desk,Furniture,South,579.25,74.21,2
+ORD-19963,2023-04-21,Binder Clips Box,Office Supplies,South,5.69,-0.57,1
+ORD-80143,2023-04-21,Filing Cabinet,Furniture,East,410.82,38.84,2
+ORD-25000,2023-04-22,A4 Paper Ream,Office Supplies,West,94.11,25.76,10
+ORD-48074,2023-04-22,Binder Clips Box,Office Supplies,Central,62.49,17.07,8
+ORD-75984,2023-04-22,Sticky Notes Pack,Office Supplies,Central,95.9,32.15,9
+ORD-89529,2023-04-24,Whiteboard Markers,Office Supplies,East,78.69,24.99,6
+ORD-19789,2023-04-24,Highlighter Pack,Office Supplies,South,86.66,21.21,6
+ORD-55839,2023-04-26,Logitech Wireless Mouse,Technology,East,411.34,97.24,10
+ORD-41726,2023-04-26,Binder Clips Box,Office Supplies,West,54.73,10.36,8
+ORD-82789,2023-04-28,Canon DSLR Camera,Technology,East,3967.61,760.6,5
+ORD-18142,2023-04-29,Pen Set,Office Supplies,East,122.68,40.67,5
+ORD-63197,2023-04-29,Filing Cabinet,Furniture,West,934.75,147.1,5
+ORD-57537,2023-04-29,Whiteboard Markers,Office Supplies,West,98.69,23.24,8
+ORD-92956,2023-04-29,Herman Miller Chair,Furniture,West,1660.64,225.1,2
+ORD-31299,2023-04-30,Highlighter Pack,Office Supplies,Central,132.36,25.19,10
+ORD-59986,2023-05-01,SanDisk SSD 1TB,Technology,Central,180.17,44.6,2
+ORD-76467,2023-05-02,Herman Miller Chair,Furniture,West,940.42,92.71,1
+ORD-49472,2023-05-02,Pen Set,Office Supplies,Central,39.41,8.01,2
+ORD-54669,2023-05-04,Whiteboard Markers,Office Supplies,South,49.44,-3.53,4
+ORD-80730,2023-05-04,Highlighter Pack,Office Supplies,West,49.72,15.38,3
+ORD-74124,2023-05-04,Apple MacBook Pro,Technology,West,1296.37,261.75,1
+ORD-32312,2023-05-04,HP LaserJet Printer,Technology,Central,1286.24,186.38,5
+ORD-84946,2023-05-05,Sticky Notes Pack,Office Supplies,Central,53.82,12.11,6
+ORD-32878,2023-05-05,Samsung Galaxy Tab,Technology,Central,3111.51,450.65,7
+ORD-94887,2023-05-05,HP LaserJet Printer,Technology,South,1192.45,172.55,5
+ORD-52034,2023-05-05,A4 Paper Ream,Office Supplies,East,96.27,28.83,10
+ORD-17592,2023-05-06,Dell XPS 15,Technology,South,4334.91,583.91,5
+ORD-57344,2023-05-06,Filing Cabinet,Furniture,South,917.44,97.18,6
+ORD-88250,2023-05-06,Herman Miller Chair,Furniture,East,4125.06,547.16,4
+ORD-30700,2023-05-06,Dell XPS 15,Technology,Central,1078.88,127.86,1
+ORD-43158,2023-05-06,Herman Miller Chair,Furniture,East,983.17,100.8,1
+ORD-84277,2023-05-08,Samsung Galaxy Tab,Technology,West,5069.67,882.67,10
+ORD-83812,2023-05-08,Filing Cabinet,Furniture,Central,1228.9,152.37,6
+ORD-17441,2023-05-08,Binder Clips Box,Office Supplies,South,28.38,-2.36,4
+ORD-28818,2023-05-11,Sony Headphones,Technology,East,1488.12,348.28,9
+ORD-67119,2023-05-11,Canon DSLR Camera,Technology,Central,1699.49,316.75,3
+ORD-67373,2023-05-12,Sticky Notes Pack,Office Supplies,Central,85.14,-6.72,8
+ORD-14138,2023-05-12,Binder Clips Box,Office Supplies,Central,18.94,6.16,3
+ORD-26505,2023-05-14,Pen Set,Office Supplies,East,23.08,7.38,1
+ORD-69871,2023-05-15,Whiteboard Markers,Office Supplies,Central,104.5,26.56,8
+ORD-15226,2023-05-15,Whiteboard Markers,Office Supplies,Central,41.4,9.51,4
+ORD-81820,2023-05-15,Sticky Notes Pack,Office Supplies,Central,98.11,30.54,10
+ORD-48327,2023-05-16,Logitech Wireless Mouse,Technology,South,312.69,75.46,10
+ORD-58434,2023-05-16,IKEA Standing Desk,Furniture,South,541.44,60.76,2
+ORD-20101,2023-05-17,Logitech Wireless Mouse,Technology,West,71.2,19.25,2
+ORD-59559,2023-05-18,Canon DSLR Camera,Technology,South,2595.99,332.11,4
+ORD-29871,2023-05-18,Wooden Bookshelf,Furniture,Central,1240.03,112.15,6
+ORD-21359,2023-05-18,Filing Cabinet,Furniture,South,853.52,97.28,6
+ORD-33401,2023-05-19,Filing Cabinet,Furniture,West,1210.84,137.08,6
+ORD-27940,2023-05-19,IKEA Standing Desk,Furniture,East,459.98,60.89,1
+ORD-75288,2023-05-20,HP LaserJet Printer,Technology,Central,563.03,57.11,2
+ORD-85880,2023-05-20,SanDisk SSD 1TB,Technology,East,956.75,218.55,10
+ORD-41765,2023-05-21,Whiteboard Markers,Office Supplies,East,98.74,39.11,7
+ORD-64559,2023-05-24,SanDisk SSD 1TB,Technology,West,546.41,74.63,6
+ORD-30669,2023-05-25,Sticky Notes Pack,Office Supplies,West,68.37,20.31,6
+ORD-24559,2023-05-25,Sticky Notes Pack,Office Supplies,Central,20.69,7.12,2
+ORD-78562,2023-05-25,IKEA Standing Desk,Furniture,West,1665.26,122.51,5
+ORD-25906,2023-05-26,Sony Headphones,Technology,East,1420.88,365.08,9
+ORD-40539,2023-05-27,Samsung Galaxy Tab,Technology,South,3899.2,579.98,10
+ORD-59105,2023-05-27,Stapler Set,Office Supplies,East,139.48,47.45,7
+ORD-17455,2023-05-27,Filing Cabinet,Furniture,East,244.11,34.25,1
+ORD-81146,2023-05-27,Filing Cabinet,Furniture,South,329.54,33.82,2
+ORD-19880,2023-05-27,IKEA Standing Desk,Furniture,South,2676.38,317.31,8
+ORD-91080,2023-05-27,IKEA Standing Desk,Furniture,West,1643.64,177.9,4
+ORD-25004,2023-05-28,Herman Miller Chair,Furniture,East,9821.35,1294.04,10
+ORD-13390,2023-05-28,Apple MacBook Pro,Technology,Central,8042.41,1345.09,6
+ORD-98835,2023-05-29,IKEA Standing Desk,Furniture,West,3303.12,359.18,10
+ORD-28051,2023-05-30,Filing Cabinet,Furniture,East,184.27,26.35,1
+ORD-82512,2023-05-30,Glass Coffee Table,Furniture,Central,2659.28,369.3,9
+ORD-42321,2023-05-31,Leather Sofa,Furniture,East,8779.6,1863.94,6
+ORD-35307,2023-05-31,Wooden Bookshelf,Furniture,West,1386.05,200.95,5
+ORD-52372,2023-06-01,Sony Headphones,Technology,East,1184.52,225.56,6
+ORD-56457,2023-06-01,A4 Paper Ream,Office Supplies,West,38.4,5.79,4
+ORD-37180,2023-06-02,Highlighter Pack,Office Supplies,South,95.05,17.97,7
+ORD-49612,2023-06-02,SanDisk SSD 1TB,Technology,West,742.46,168.74,7
+ORD-83445,2023-06-02,A4 Paper Ream,Office Supplies,East,29.31,5.81,3
+ORD-56590,2023-06-03,Stapler Set,Office Supplies,Central,96.57,-7.42,7
+ORD-48609,2023-06-03,Highlighter Pack,Office Supplies,West,31.16,8.0,2
+ORD-44249,2023-06-04,Herman Miller Chair,Furniture,West,7015.49,936.7,7
+ORD-72460,2023-06-05,HP LaserJet Printer,Technology,East,1310.8,201.32,4
+ORD-57187,2023-06-05,A4 Paper Ream,Office Supplies,Central,63.57,14.76,9
+ORD-98673,2023-06-05,SanDisk SSD 1TB,Technology,Central,158.96,27.32,2
+ORD-90065,2023-06-05,IKEA Standing Desk,Furniture,Central,748.95,58.11,2
+ORD-10739,2023-06-07,IKEA Standing Desk,Furniture,West,3948.58,505.85,10
+ORD-47938,2023-06-08,Samsung Galaxy Tab,Technology,West,1311.79,208.85,3
+ORD-35856,2023-06-09,Canon DSLR Camera,Technology,East,2359.45,520.87,3
+ORD-67939,2023-06-09,Sony Headphones,Technology,South,1137.52,218.67,8
+ORD-16433,2023-06-09,Binder Clips Box,Office Supplies,Central,55.16,11.3,8
+ORD-24160,2023-06-10,Canon DSLR Camera,Technology,East,5172.22,1069.81,6
+ORD-57638,2023-06-13,Canon DSLR Camera,Technology,West,7949.51,1621.93,10
+ORD-51910,2023-06-13,SanDisk SSD 1TB,Technology,West,256.53,64.01,3
+ORD-54606,2023-06-13,Dell XPS 15,Technology,West,8052.31,1797.96,8
+ORD-81932,2023-06-14,Pen Set,Office Supplies,West,92.23,29.29,4
+ORD-39098,2023-06-14,Herman Miller Chair,Furniture,East,1639.49,160.17,2
+ORD-83273,2023-06-14,A4 Paper Ream,Office Supplies,South,12.52,2.97,2
+ORD-11244,2023-06-15,Pen Set,Office Supplies,Central,145.31,48.62,8
+ORD-19828,2023-06-15,SanDisk SSD 1TB,Technology,South,167.24,33.73,2
+ORD-43743,2023-06-15,Binder Clips Box,Office Supplies,West,7.79,2.46,1
+ORD-63581,2023-06-16,Apple MacBook Pro,Technology,West,4607.72,1123.95,4
+ORD-15646,2023-06-16,Logitech Wireless Mouse,Technology,East,45.73,9.21,1
+ORD-34530,2023-06-16,Stapler Set,Office Supplies,South,90.24,29.79,6
+ORD-30410,2023-06-17,Wooden Bookshelf,Furniture,South,1560.38,191.11,7
+ORD-59689,2023-06-17,Sticky Notes Pack,Office Supplies,West,98.57,28.98,8
+ORD-90315,2023-06-18,Leather Sofa,Furniture,West,4569.75,843.02,4
+ORD-47602,2023-06-18,SanDisk SSD 1TB,Technology,West,1026.46,167.34,10
+ORD-25314,2023-06-18,Filing Cabinet,Furniture,Central,531.63,66.92,3
+ORD-60275,2023-06-19,Wooden Bookshelf,Furniture,West,273.82,26.46,1
+ORD-33405,2023-06-19,Sticky Notes Pack,Office Supplies,South,10.2,-0.73,1
+ORD-23726,2023-06-19,Samsung Galaxy Tab,Technology,East,2908.16,583.45,6
+ORD-57139,2023-06-20,Leather Sofa,Furniture,South,4234.39,864.8,5
+ORD-97910,2023-06-22,IKEA Standing Desk,Furniture,Central,782.86,96.62,2
+ORD-78248,2023-06-23,Wooden Bookshelf,Furniture,East,1936.17,191.88,7
+ORD-55688,2023-06-23,Samsung Galaxy Tab,Technology,East,3899.28,796.25,8
+ORD-90396,2023-06-23,Pen Set,Office Supplies,West,71.0,-4.03,3
+ORD-75612,2023-06-24,IKEA Standing Desk,Furniture,Central,301.11,39.42,1
+ORD-67637,2023-06-24,IKEA Standing Desk,Furniture,Central,377.41,39.89,1
+ORD-27512,2023-06-25,Whiteboard Markers,Office Supplies,South,70.28,-7.39,6
+ORD-53165,2023-06-25,Apple MacBook Pro,Technology,South,2271.95,346.62,2
+ORD-77760,2023-06-25,Wooden Bookshelf,Furniture,South,1694.35,204.73,10
+ORD-50291,2023-06-26,IKEA Standing Desk,Furniture,South,1465.65,110.65,5
+ORD-91927,2023-06-26,Highlighter Pack,Office Supplies,Central,30.6,9.49,2
+ORD-61876,2023-06-28,IKEA Standing Desk,Furniture,South,1362.43,139.56,4
+ORD-25509,2023-06-28,Sony Headphones,Technology,Central,926.17,259.27,6
+ORD-79339,2023-06-29,Sticky Notes Pack,Office Supplies,South,9.73,1.77,1
+ORD-29871,2023-06-30,Apple MacBook Pro,Technology,East,11335.23,2172.15,7
+ORD-41295,2023-06-30,Dell XPS 15,Technology,East,1143.37,195.14,1
+ORD-89377,2023-07-01,HP LaserJet Printer,Technology,East,4017.88,661.27,10
+ORD-16929,2023-07-02,Pen Set,Office Supplies,West,69.5,-6.9,3
+ORD-74634,2023-07-04,Sticky Notes Pack,Office Supplies,West,32.02,8.99,3
+ORD-25473,2023-07-05,Pen Set,Office Supplies,South,49.63,10.01,3
+ORD-92288,2023-07-05,Sticky Notes Pack,Office Supplies,Central,31.97,7.46,3
+ORD-33957,2023-07-06,Wooden Bookshelf,Furniture,West,2559.71,417.03,10
+ORD-87883,2023-07-06,Sony Headphones,Technology,Central,1291.23,319.77,8
+ORD-63849,2023-07-06,Stapler Set,Office Supplies,Central,55.62,18.4,4
+ORD-90281,2023-07-07,Whiteboard Markers,Office Supplies,East,70.33,14.66,5
+ORD-36504,2023-07-07,Filing Cabinet,Furniture,West,1090.77,166.98,6
+ORD-23399,2023-07-07,Samsung Galaxy Tab,Technology,Central,2461.16,312.58,6
+ORD-28696,2023-07-09,Wooden Bookshelf,Furniture,West,513.95,68.23,2
+ORD-64246,2023-07-11,Stapler Set,Office Supplies,South,70.27,18.75,6
+ORD-47313,2023-07-11,SanDisk SSD 1TB,Technology,West,968.53,168.48,9
+ORD-53904,2023-07-13,Binder Clips Box,Office Supplies,South,39.66,9.04,7
+ORD-88363,2023-07-14,Apple MacBook Pro,Technology,East,11790.6,1690.42,8
+ORD-47721,2023-07-15,A4 Paper Ream,Office Supplies,Central,54.18,12.65,6
+ORD-11292,2023-07-15,Wooden Bookshelf,Furniture,West,1099.5,119.35,4
+ORD-37444,2023-07-15,A4 Paper Ream,Office Supplies,South,7.16,-0.36,1
+ORD-44513,2023-07-15,Whiteboard Markers,Office Supplies,East,134.25,39.29,9
+ORD-28512,2023-07-15,Logitech Wireless Mouse,Technology,East,73.4,21.79,2
+ORD-35146,2023-07-16,Glass Coffee Table,Furniture,West,2397.76,426.28,9
+ORD-26899,2023-07-16,Leather Sofa,Furniture,East,3808.57,444.03,3
+ORD-57408,2023-07-16,Wooden Bookshelf,Furniture,Central,220.16,31.19,1
+ORD-65212,2023-07-17,Sony Headphones,Technology,Central,144.25,33.56,1
+ORD-34987,2023-07-17,Logitech Wireless Mouse,Technology,South,172.19,54.19,5
+ORD-80220,2023-07-17,Pen Set,Office Supplies,Central,20.55,-1.55,1
+ORD-26406,2023-07-17,Whiteboard Markers,Office Supplies,East,80.07,30.76,5
+ORD-88470,2023-07-18,Logitech Wireless Mouse,Technology,South,224.95,43.24,8
+ORD-36975,2023-07-18,Dell XPS 15,Technology,West,888.67,131.32,1
+ORD-65194,2023-07-20,Dell XPS 15,Technology,West,6558.42,881.23,7
+ORD-82848,2023-07-20,Wooden Bookshelf,Furniture,South,1106.44,147.66,5
+ORD-79410,2023-07-20,IKEA Standing Desk,Furniture,Central,999.73,103.55,3
+ORD-86637,2023-07-20,Wooden Bookshelf,Furniture,East,777.63,70.35,3
+ORD-65965,2023-07-21,Filing Cabinet,Furniture,East,1523.48,210.34,8
+ORD-57118,2023-07-21,IKEA Standing Desk,Furniture,West,3001.03,288.95,7
+ORD-44229,2023-07-22,Logitech Wireless Mouse,Technology,South,168.09,29.75,6
+ORD-95969,2023-07-22,HP LaserJet Printer,Technology,Central,277.08,38.49,1
+ORD-65455,2023-07-24,Pen Set,Office Supplies,West,152.52,40.26,7
+ORD-10851,2023-07-24,Pen Set,Office Supplies,Central,69.39,23.31,4
+ORD-97649,2023-07-25,Wooden Bookshelf,Furniture,East,762.23,96.66,3
+ORD-28481,2023-07-25,Wooden Bookshelf,Furniture,East,994.68,84.66,4
+ORD-42717,2023-07-25,A4 Paper Ream,Office Supplies,South,43.99,7.45,7
+ORD-82954,2023-07-26,Pen Set,Office Supplies,East,185.35,-18.07,7
+ORD-91689,2023-07-27,Glass Coffee Table,Furniture,Central,2207.71,327.23,9
+ORD-14288,2023-07-27,Stapler Set,Office Supplies,Central,160.58,57.92,10
+ORD-66618,2023-07-27,SanDisk SSD 1TB,Technology,East,300.66,53.93,3
+ORD-89498,2023-07-28,Binder Clips Box,Office Supplies,South,24.35,7.53,4
+ORD-68459,2023-07-28,IKEA Standing Desk,Furniture,West,1669.65,225.44,5
+ORD-74597,2023-07-29,Sony Headphones,Technology,South,147.43,30.13,1
+ORD-14085,2023-07-29,Whiteboard Markers,Office Supplies,South,20.11,7.34,2
+ORD-25075,2023-07-30,HP LaserJet Printer,Technology,West,1309.8,204.42,4
+ORD-57263,2023-07-30,Herman Miller Chair,Furniture,West,7307.36,1266.91,8
+ORD-61488,2023-07-30,Sticky Notes Pack,Office Supplies,West,60.61,21.71,5
+ORD-99201,2023-07-30,Herman Miller Chair,Furniture,West,880.16,133.05,1
+ORD-74866,2023-07-31,Logitech Wireless Mouse,Technology,East,38.36,8.73,1
+ORD-87735,2023-08-03,Sony Headphones,Technology,East,771.64,138.0,4
+ORD-60779,2023-08-03,Pen Set,Office Supplies,West,130.56,31.81,6
+ORD-52358,2023-08-03,Binder Clips Box,Office Supplies,West,34.0,9.4,4
+ORD-13238,2023-08-03,Whiteboard Markers,Office Supplies,Central,27.5,10.81,2
+ORD-29119,2023-08-04,Sony Headphones,Technology,Central,409.4,107.61,3
+ORD-69892,2023-08-04,Leather Sofa,Furniture,East,10464.46,1904.81,7
+ORD-69910,2023-08-04,Leather Sofa,Furniture,West,1221.42,171.61,1
+ORD-38014,2023-08-05,Binder Clips Box,Office Supplies,West,68.72,22.15,9
+ORD-36305,2023-08-05,Pen Set,Office Supplies,East,104.96,37.18,5
+ORD-83284,2023-08-06,A4 Paper Ream,Office Supplies,East,19.7,3.45,2
+ORD-69552,2023-08-06,Glass Coffee Table,Furniture,East,1867.61,302.82,6
+ORD-71524,2023-08-06,Highlighter Pack,Office Supplies,Central,26.27,6.24,2
+ORD-13515,2023-08-07,Samsung Galaxy Tab,Technology,East,2284.6,450.63,4
+ORD-85552,2023-08-08,IKEA Standing Desk,Furniture,West,1813.41,168.24,5
+ORD-40735,2023-08-09,A4 Paper Ream,Office Supplies,South,57.81,-3.19,8
+ORD-82634,2023-08-09,HP LaserJet Printer,Technology,East,661.59,73.94,2
+ORD-52096,2023-08-12,Sticky Notes Pack,Office Supplies,Central,40.39,7.65,4
+ORD-94711,2023-08-13,Glass Coffee Table,Furniture,East,587.02,87.43,2
+ORD-74771,2023-08-13,Canon DSLR Camera,Technology,West,3345.25,445.86,5
+ORD-10407,2023-08-13,Canon DSLR Camera,Technology,South,3222.63,414.33,5
+ORD-47056,2023-08-14,Wooden Bookshelf,Furniture,East,1011.49,107.06,4
+ORD-19637,2023-08-15,Herman Miller Chair,Furniture,West,5738.05,773.83,6
+ORD-32047,2023-08-15,Herman Miller Chair,Furniture,South,2626.35,238.97,4
+ORD-68827,2023-08-15,IKEA Standing Desk,Furniture,Central,302.96,37.11,1
+ORD-72535,2023-08-16,Filing Cabinet,Furniture,Central,1132.62,116.45,7
+ORD-95597,2023-08-16,Herman Miller Chair,Furniture,East,7962.04,1276.47,8
+ORD-15279,2023-08-17,Highlighter Pack,Office Supplies,Central,28.26,-2.32,2
+ORD-94907,2023-08-17,Highlighter Pack,Office Supplies,South,22.48,4.63,2
+ORD-91762,2023-08-17,Sony Headphones,Technology,West,1403.72,363.19,9
+ORD-42949,2023-08-17,Whiteboard Markers,Office Supplies,East,49.83,10.49,4
+ORD-49315,2023-08-18,Filing Cabinet,Furniture,South,340.29,33.24,2
+ORD-38686,2023-08-19,A4 Paper Ream,Office Supplies,Central,91.76,18.06,10
+ORD-59259,2023-08-19,Highlighter Pack,Office Supplies,East,52.46,14.38,3
+ORD-92955,2023-08-20,IKEA Standing Desk,Furniture,Central,1802.07,151.0,6
+ORD-28982,2023-08-20,HP LaserJet Printer,Technology,Central,2711.55,418.73,8
+ORD-20739,2023-08-21,Apple MacBook Pro,Technology,West,4116.59,648.26,3
+ORD-76698,2023-08-21,Highlighter Pack,Office Supplies,West,123.8,28.08,8
+ORD-64238,2023-08-21,Logitech Wireless Mouse,Technology,Central,37.89,9.44,1
+ORD-34780,2023-08-21,Leather Sofa,Furniture,Central,1033.09,146.5,1
+ORD-67870,2023-08-22,Stapler Set,Office Supplies,West,84.28,19.67,6
+ORD-26551,2023-08-22,Herman Miller Chair,Furniture,East,9841.7,1641.31,9
+ORD-95674,2023-08-23,Filing Cabinet,Furniture,South,1034.62,92.12,6
+ORD-41985,2023-08-24,Sticky Notes Pack,Office Supplies,Central,65.1,14.83,6
+ORD-92397,2023-08-24,SanDisk SSD 1TB,Technology,East,879.22,138.73,9
+ORD-56984,2023-08-24,Apple MacBook Pro,Technology,South,1195.17,254.52,1
+ORD-52101,2023-08-25,Glass Coffee Table,Furniture,West,2783.63,478.77,9
+ORD-38632,2023-08-25,Logitech Wireless Mouse,Technology,South,186.29,61.76,6
+ORD-29472,2023-08-26,Apple MacBook Pro,Technology,West,13187.17,2114.03,9
+ORD-90364,2023-08-26,Leather Sofa,Furniture,West,9277.49,1228.18,7
+ORD-26691,2023-08-27,Pen Set,Office Supplies,West,153.1,43.88,7
+ORD-31164,2023-08-29,Sony Headphones,Technology,South,416.32,61.39,3
+ORD-23256,2023-08-29,HP LaserJet Printer,Technology,West,749.06,129.27,2
+ORD-44517,2023-08-29,A4 Paper Ream,Office Supplies,East,81.3,13.43,9
+ORD-39816,2023-08-30,Pen Set,Office Supplies,South,30.77,10.68,2
+ORD-47880,2023-09-02,Glass Coffee Table,Furniture,South,908.48,146.18,4
+ORD-85030,2023-09-03,Apple MacBook Pro,Technology,East,12344.59,2030.11,8
+ORD-18333,2023-09-03,Dell XPS 15,Technology,South,8656.21,1135.76,10
+ORD-61110,2023-09-03,Whiteboard Markers,Office Supplies,West,11.48,2.82,1
+ORD-84897,2023-09-04,SanDisk SSD 1TB,Technology,Central,668.83,127.31,7
+ORD-53399,2023-09-04,Herman Miller Chair,Furniture,West,841.82,135.15,1
+ORD-36047,2023-09-04,Stapler Set,Office Supplies,East,102.58,29.39,5
+ORD-70686,2023-09-04,Canon DSLR Camera,Technology,East,808.1,137.26,1
+ORD-61116,2023-09-04,Leather Sofa,Furniture,East,8929.07,1828.68,6
+ORD-87820,2023-09-05,Whiteboard Markers,Office Supplies,West,88.41,35.13,7
+ORD-72245,2023-09-06,Glass Coffee Table,Furniture,Central,2888.85,344.65,10
+ORD-93958,2023-09-07,Apple MacBook Pro,Technology,West,6545.54,855.54,5
+ORD-67067,2023-09-07,IKEA Standing Desk,Furniture,West,1081.97,140.97,3
+ORD-99687,2023-09-10,Binder Clips Box,Office Supplies,West,15.63,4.53,2
+ORD-91888,2023-09-10,A4 Paper Ream,Office Supplies,Central,21.77,5.54,3
+ORD-89503,2023-09-10,Glass Coffee Table,Furniture,East,1777.08,314.98,5
+ORD-73300,2023-09-11,Stapler Set,Office Supplies,Central,129.75,38.52,9
+ORD-86344,2023-09-11,Sony Headphones,Technology,South,704.66,171.77,6
+ORD-30837,2023-09-11,SanDisk SSD 1TB,Technology,West,261.95,37.55,3
+ORD-90173,2023-09-12,IKEA Standing Desk,Furniture,Central,2974.57,307.7,9
+ORD-40959,2023-09-12,Logitech Wireless Mouse,Technology,South,205.94,45.64,6
+ORD-38986,2023-09-13,Whiteboard Markers,Office Supplies,West,23.04,5.87,2
+ORD-14467,2023-09-13,SanDisk SSD 1TB,Technology,East,1077.67,186.79,10
+ORD-61633,2023-09-13,Highlighter Pack,Office Supplies,West,80.67,26.71,5
+ORD-65410,2023-09-15,Pen Set,Office Supplies,South,74.33,17.33,4
+ORD-21164,2023-09-15,Binder Clips Box,Office Supplies,East,28.5,-2.49,3
+ORD-91620,2023-09-15,Sticky Notes Pack,Office Supplies,East,82.76,20.12,6
+ORD-83886,2023-09-15,IKEA Standing Desk,Furniture,East,4229.47,323.31,10
+ORD-24425,2023-09-16,Herman Miller Chair,Furniture,Central,788.31,83.96,1
+ORD-76628,2023-09-16,Herman Miller Chair,Furniture,East,1912.32,322.43,2
+ORD-66980,2023-09-16,Whiteboard Markers,Office Supplies,South,106.37,37.8,10
+ORD-13769,2023-09-16,Sony Headphones,Technology,South,404.22,96.33,3
+ORD-21219,2023-09-17,SanDisk SSD 1TB,Technology,West,559.67,88.48,5
+ORD-40689,2023-09-18,Binder Clips Box,Office Supplies,West,8.14,2.0,1
+ORD-86568,2023-09-19,Leather Sofa,Furniture,Central,7334.09,1426.06,6
+ORD-68447,2023-09-20,Dell XPS 15,Technology,South,4142.32,763.87,5
+ORD-75809,2023-09-21,Stapler Set,Office Supplies,South,93.08,-5.75,6
+ORD-75191,2023-09-24,Sony Headphones,Technology,Central,1116.93,215.37,8
+ORD-57795,2023-09-24,Pen Set,Office Supplies,West,172.14,-14.31,7
+ORD-54541,2023-09-25,Highlighter Pack,Office Supplies,South,10.99,3.43,1
+ORD-34978,2023-09-26,Glass Coffee Table,Furniture,Central,1593.83,256.34,5
+ORD-18237,2023-09-29,Canon DSLR Camera,Technology,West,4208.91,742.95,6
+ORD-32715,2023-09-29,Herman Miller Chair,Furniture,South,3538.22,401.57,5
+ORD-46745,2023-09-29,Herman Miller Chair,Furniture,South,3520.28,459.84,5
+ORD-57522,2023-10-01,Apple MacBook Pro,Technology,Central,7216.01,1690.55,6
+ORD-90352,2023-10-02,Filing Cabinet,Furniture,East,1718.94,164.91,9
+ORD-12946,2023-10-02,Herman Miller Chair,Furniture,East,9009.53,1152.43,9
+ORD-34881,2023-10-03,IKEA Standing Desk,Furniture,West,2332.6,198.73,6
+ORD-64890,2023-10-05,Binder Clips Box,Office Supplies,East,29.37,-2.3,4
+ORD-96951,2023-10-05,Herman Miller Chair,Furniture,South,7194.06,842.27,10
+ORD-26127,2023-10-06,A4 Paper Ream,Office Supplies,East,84.95,13.02,9
+ORD-11620,2023-10-06,Herman Miller Chair,Furniture,East,4367.34,660.43,5
+ORD-59327,2023-10-07,Herman Miller Chair,Furniture,Central,6732.1,772.74,8
+ORD-37869,2023-10-07,Herman Miller Chair,Furniture,West,9043.97,851.77,10
+ORD-28327,2023-10-07,SanDisk SSD 1TB,Technology,South,619.15,136.94,7
+ORD-62645,2023-10-07,Dell XPS 15,Technology,East,7777.35,1326.6,6
+ORD-61505,2023-10-08,A4 Paper Ream,Office Supplies,West,37.96,5.8,5
+ORD-63588,2023-10-09,Stapler Set,Office Supplies,East,128.54,32.3,7
+ORD-62581,2023-10-09,Herman Miller Chair,Furniture,West,800.71,109.12,1
+ORD-44034,2023-10-11,Filing Cabinet,Furniture,South,1302.85,148.56,7
+ORD-83184,2023-10-11,A4 Paper Ream,Office Supplies,East,31.23,6.84,3
+ORD-15499,2023-10-12,Stapler Set,Office Supplies,West,132.75,48.66,9
+ORD-68008,2023-10-12,IKEA Standing Desk,Furniture,Central,2980.64,242.51,9
+ORD-54882,2023-10-12,SanDisk SSD 1TB,Technology,South,138.63,32.89,2
+ORD-94192,2023-10-12,Leather Sofa,Furniture,East,3611.12,537.44,3
+ORD-55327,2023-10-12,SanDisk SSD 1TB,Technology,South,456.9,120.01,5
+ORD-71993,2023-10-14,IKEA Standing Desk,Furniture,Central,355.17,41.76,1
+ORD-33385,2023-10-15,Pen Set,Office Supplies,Central,86.52,16.19,5
+ORD-45527,2023-10-15,Pen Set,Office Supplies,East,98.07,28.03,4
+ORD-55268,2023-10-16,Glass Coffee Table,Furniture,West,1591.14,192.16,6
+ORD-88265,2023-10-16,Wooden Bookshelf,Furniture,West,264.93,26.54,1
+ORD-85690,2023-10-16,Samsung Galaxy Tab,Technology,West,4715.49,916.07,10
+ORD-80769,2023-10-16,Sticky Notes Pack,Office Supplies,East,51.69,17.69,5
+ORD-57844,2023-10-17,Canon DSLR Camera,Technology,Central,4672.1,834.92,7
+ORD-84475,2023-10-18,A4 Paper Ream,Office Supplies,Central,26.43,7.15,3
+ORD-56230,2023-10-19,Sony Headphones,Technology,West,564.57,155.14,4
+ORD-62664,2023-10-19,Sony Headphones,Technology,East,1691.18,467.42,9
+ORD-47101,2023-10-21,Pen Set,Office Supplies,West,154.27,44.75,7
+ORD-24478,2023-10-22,Samsung Galaxy Tab,Technology,South,2670.22,462.52,7
+ORD-73269,2023-10-22,Sony Headphones,Technology,Central,815.83,185.87,5
+ORD-12179,2023-10-22,Filing Cabinet,Furniture,West,212.05,33.27,1
+ORD-42447,2023-10-22,HP LaserJet Printer,Technology,West,927.24,125.7,3
+ORD-70946,2023-10-22,IKEA Standing Desk,Furniture,Central,3928.68,333.93,10
+ORD-66280,2023-10-23,Herman Miller Chair,Furniture,East,2799.48,334.65,3
+ORD-92210,2023-10-24,Highlighter Pack,Office Supplies,Central,159.71,41.7,10
+ORD-99749,2023-10-25,Dell XPS 15,Technology,South,6373.41,776.79,7
+ORD-40347,2023-10-25,Dell XPS 15,Technology,Central,6484.65,1346.54,8
+ORD-12068,2023-10-26,Logitech Wireless Mouse,Technology,West,339.16,110.62,10
+ORD-43807,2023-10-26,Logitech Wireless Mouse,Technology,West,249.01,63.35,7
+ORD-74042,2023-10-26,IKEA Standing Desk,Furniture,East,3962.76,413.05,10
+ORD-58722,2023-10-27,Sony Headphones,Technology,South,925.64,233.46,6
+ORD-21706,2023-10-29,Leather Sofa,Furniture,Central,3567.46,703.3,3
+ORD-39855,2023-10-30,Logitech Wireless Mouse,Technology,West,80.1,15.46,2
+ORD-64927,2023-10-30,Stapler Set,Office Supplies,East,71.38,28.25,4
+ORD-60264,2023-10-31,Filing Cabinet,Furniture,East,587.45,81.87,3
+ORD-62743,2023-10-31,Samsung Galaxy Tab,Technology,South,2652.01,293.32,7
+ORD-87485,2023-11-01,Dell XPS 15,Technology,Central,2543.25,454.18,3
+ORD-97856,2023-11-01,Samsung Galaxy Tab,Technology,East,1779.17,322.09,3
+ORD-30019,2023-11-01,Stapler Set,Office Supplies,West,102.44,31.93,7
+ORD-21322,2023-11-02,Sony Headphones,Technology,South,763.91,192.38,5
+ORD-89964,2023-11-03,A4 Paper Ream,Office Supplies,Central,6.97,1.38,1
+ORD-26750,2023-11-04,Binder Clips Box,Office Supplies,East,39.6,12.31,5
+ORD-56861,2023-11-05,Apple MacBook Pro,Technology,West,4401.68,670.82,3
+ORD-68873,2023-11-06,HP LaserJet Printer,Technology,Central,1332.64,178.34,5
+ORD-97819,2023-11-07,Binder Clips Box,Office Supplies,South,18.57,6.01,3
+ORD-24855,2023-11-08,Binder Clips Box,Office Supplies,East,34.69,10.49,4
+ORD-94765,2023-11-08,A4 Paper Ream,Office Supplies,Central,29.62,5.98,4
+ORD-19287,2023-11-08,Canon DSLR Camera,Technology,East,856.92,128.78,1
+ORD-58717,2023-11-10,Highlighter Pack,Office Supplies,South,83.18,20.75,7
+ORD-54922,2023-11-10,Highlighter Pack,Office Supplies,South,13.25,4.08,1
+ORD-37395,2023-11-11,Leather Sofa,Furniture,Central,992.46,118.92,1
+ORD-82340,2023-11-12,Glass Coffee Table,Furniture,Central,1634.11,184.88,6
+ORD-27486,2023-11-12,IKEA Standing Desk,Furniture,East,4265.4,456.55,10
+ORD-32980,2023-11-12,Logitech Wireless Mouse,Technology,Central,106.46,35.9,3
+ORD-63964,2023-11-12,SanDisk SSD 1TB,Technology,East,297.56,56.62,3
+ORD-91289,2023-11-12,Samsung Galaxy Tab,Technology,East,3943.3,592.54,7
+ORD-49739,2023-11-13,Binder Clips Box,Office Supplies,West,60.9,20.33,8
+ORD-65360,2023-11-13,Sony Headphones,Technology,Central,1088.01,182.99,7
+ORD-27911,2023-11-14,Glass Coffee Table,Furniture,Central,485.51,64.32,2
+ORD-28116,2023-11-14,Leather Sofa,Furniture,Central,7395.88,1155.65,7
+ORD-32037,2023-11-14,Filing Cabinet,Furniture,South,553.16,90.81,4
+ORD-72094,2023-11-14,Sticky Notes Pack,Office Supplies,East,11.22,-0.82,1
+ORD-20722,2023-11-17,Herman Miller Chair,Furniture,Central,3403.25,606.81,4
+ORD-61117,2023-11-17,Herman Miller Chair,Furniture,East,7893.49,1177.41,9
+ORD-28058,2023-11-17,Sticky Notes Pack,Office Supplies,East,38.3,11.49,3
+ORD-22240,2023-11-18,Stapler Set,Office Supplies,South,139.2,34.58,9
+ORD-17184,2023-11-19,Pen Set,Office Supplies,West,47.17,16.28,2
+ORD-90753,2023-11-19,Binder Clips Box,Office Supplies,South,55.79,12.33,10
+ORD-13676,2023-11-19,Dell XPS 15,Technology,East,6290.1,725.37,6
+ORD-63961,2023-11-19,Apple MacBook Pro,Technology,West,12746.74,1670.05,9
+ORD-24860,2023-11-19,Glass Coffee Table,Furniture,Central,2877.88,406.55,9
+ORD-97670,2023-11-20,Leather Sofa,Furniture,East,10119.34,1716.83,7
+ORD-65846,2023-11-20,Filing Cabinet,Furniture,West,752.47,112.34,4
+ORD-87526,2023-11-21,Pen Set,Office Supplies,West,96.81,-5.31,5
+ORD-45830,2023-11-21,Binder Clips Box,Office Supplies,East,88.74,-5.21,10
+ORD-65288,2023-11-22,Whiteboard Markers,Office Supplies,Central,34.91,8.05,3
+ORD-48669,2023-11-22,Filing Cabinet,Furniture,West,189.02,30.39,1
+ORD-68192,2023-11-22,Pen Set,Office Supplies,South,165.55,39.53,8
+ORD-96184,2023-11-23,HP LaserJet Printer,Technology,Central,2304.82,286.07,9
+ORD-65369,2023-11-23,Highlighter Pack,Office Supplies,West,16.48,4.54,1
+ORD-15611,2023-11-23,Apple MacBook Pro,Technology,South,1178.37,221.71,1
+ORD-59692,2023-11-23,IKEA Standing Desk,Furniture,Central,1998.59,184.9,6
+ORD-12757,2023-11-24,Canon DSLR Camera,Technology,West,1234.9,181.29,2
+ORD-98142,2023-11-24,Pen Set,Office Supplies,East,75.07,14.39,3
+ORD-48121,2023-11-26,Pen Set,Office Supplies,South,137.17,37.72,8
+ORD-70225,2023-11-26,Stapler Set,Office Supplies,West,47.18,16.35,3
+ORD-24322,2023-11-26,Stapler Set,Office Supplies,East,19.47,4.67,1
+ORD-33260,2023-11-29,Glass Coffee Table,Furniture,West,888.71,107.96,3
+ORD-37294,2023-11-29,Sony Headphones,Technology,Central,323.9,52.55,2
+ORD-91465,2023-11-30,Wooden Bookshelf,Furniture,West,234.4,22.66,1
+ORD-61910,2023-12-01,Herman Miller Chair,Furniture,East,5912.41,788.05,6
+ORD-81372,2023-12-02,Pen Set,Office Supplies,Central,144.63,29.56,7
+ORD-69437,2023-12-03,Pen Set,Office Supplies,South,53.77,12.16,3
+ORD-48150,2023-12-04,Pen Set,Office Supplies,West,62.47,20.78,3
+ORD-67216,2023-12-04,Logitech Wireless Mouse,Technology,South,124.45,27.81,4
+ORD-48557,2023-12-04,Binder Clips Box,Office Supplies,West,36.87,10.07,5
+ORD-57962,2023-12-04,Whiteboard Markers,Office Supplies,West,66.65,17.65,5
+ORD-24585,2023-12-05,HP LaserJet Printer,Technology,South,283.07,33.55,1
+ORD-21053,2023-12-05,Sticky Notes Pack,Office Supplies,West,10.85,3.17,1
+ORD-39912,2023-12-05,Pen Set,Office Supplies,Central,45.91,-4.78,2
+ORD-37752,2023-12-06,Stapler Set,Office Supplies,South,57.07,19.14,4
+ORD-63856,2023-12-06,Highlighter Pack,Office Supplies,East,71.96,16.33,5
+ORD-26821,2023-12-07,Sony Headphones,Technology,Central,1351.38,319.81,9
+ORD-56052,2023-12-08,Wooden Bookshelf,Furniture,East,1356.31,188.94,5
+ORD-98842,2023-12-08,Logitech Wireless Mouse,Technology,Central,106.68,27.49,3
+ORD-42011,2023-12-08,Apple MacBook Pro,Technology,Central,10848.38,1574.86,9
+ORD-17120,2023-12-08,Sony Headphones,Technology,West,689.89,149.27,4
+ORD-51114,2023-12-09,Whiteboard Markers,Office Supplies,East,28.96,9.86,2
+ORD-87014,2023-12-09,Pen Set,Office Supplies,West,45.78,8.61,2
+ORD-68762,2023-12-12,Sticky Notes Pack,Office Supplies,Central,17.0,4.62,2
+ORD-51879,2023-12-12,Filing Cabinet,Furniture,East,803.61,125.81,4
+ORD-79827,2023-12-13,Highlighter Pack,Office Supplies,East,175.66,36.87,10
+ORD-20048,2023-12-13,Sony Headphones,Technology,Central,597.41,85.94,4
+ORD-86610,2023-12-14,Pen Set,Office Supplies,South,56.54,19.32,3
+ORD-66925,2023-12-14,Herman Miller Chair,Furniture,East,6085.1,787.32,6
+ORD-34967,2023-12-15,Stapler Set,Office Supplies,East,109.79,22.22,7
+ORD-53410,2023-12-16,Binder Clips Box,Office Supplies,Central,60.07,10.61,9
+ORD-38992,2023-12-17,Glass Coffee Table,Furniture,Central,482.61,52.22,2
+ORD-64932,2023-12-17,Wooden Bookshelf,Furniture,West,925.87,79.69,4
+ORD-55121,2023-12-18,IKEA Standing Desk,Furniture,Central,4008.18,387.35,10
+ORD-72737,2023-12-21,Dell XPS 15,Technology,Central,1876.17,316.3,2
+ORD-94080,2023-12-21,Wooden Bookshelf,Furniture,East,1169.47,127.99,5
+ORD-17398,2023-12-21,Wooden Bookshelf,Furniture,South,1333.84,127.34,7
+ORD-94599,2023-12-21,Dell XPS 15,Technology,West,5410.68,1163.26,6
+ORD-68606,2023-12-21,Binder Clips Box,Office Supplies,Central,23.28,7.78,3
+ORD-70012,2023-12-22,Glass Coffee Table,Furniture,East,1876.1,278.9,6
+ORD-32185,2023-12-23,Sticky Notes Pack,Office Supplies,Central,33.91,11.75,3
+ORD-89452,2023-12-23,Sticky Notes Pack,Office Supplies,South,84.77,19.23,9
+ORD-51853,2023-12-24,IKEA Standing Desk,Furniture,West,2362.21,275.2,7
+ORD-59015,2023-12-24,Leather Sofa,Furniture,West,12977.16,2113.02,10
+ORD-48616,2023-12-24,Glass Coffee Table,Furniture,South,1949.55,293.5,7
+ORD-41531,2023-12-24,Leather Sofa,Furniture,East,13667.79,2025.06,10
+ORD-82642,2023-12-26,Pen Set,Office Supplies,Central,40.78,-2.35,2
+ORD-19447,2023-12-27,SanDisk SSD 1TB,Technology,West,772.4,115.22,9
+ORD-28258,2023-12-28,Binder Clips Box,Office Supplies,Central,7.2,1.77,1
+ORD-68837,2023-12-28,Pen Set,Office Supplies,East,25.16,-2.18,1
+ORD-84752,2023-12-28,Leather Sofa,Furniture,West,7280.16,1130.41,7
+ORD-93055,2023-12-29,Canon DSLR Camera,Technology,East,5258.96,705.25,6
+ORD-31802,2023-12-29,Binder Clips Box,Office Supplies,East,17.65,3.65,2
+ORD-39272,2023-12-29,Logitech Wireless Mouse,Technology,East,156.36,48.18,4
+ORD-50952,2023-12-30,IKEA Standing Desk,Furniture,Central,3261.72,339.54,10
+ORD-30461,2023-12-30,Pen Set,Office Supplies,West,47.13,-3.76,2
+ORD-10772,2023-12-30,Glass Coffee Table,Furniture,Central,270.85,32.23,1
+ORD-61936,2023-12-30,IKEA Standing Desk,Furniture,East,1904.14,191.6,4
+ORD-82487,2023-12-30,Leather Sofa,Furniture,Central,3852.66,839.27,4
+ORD-72367,2023-12-31,Filing Cabinet,Furniture,South,1145.56,109.03,7
+ORD-53287,2023-12-31,Sticky Notes Pack,Office Supplies,Central,102.93,-10.37,10
+ORD-39260,2024-01-01,Sticky Notes Pack,Office Supplies,Central,66.32,17.85,6
+ORD-52624,2024-01-01,Highlighter Pack,Office Supplies,West,13.49,-1.34,1
+ORD-26805,2024-01-02,Canon DSLR Camera,Technology,Central,4484.31,520.67,6
+ORD-18855,2024-01-02,Wooden Bookshelf,Furniture,South,199.2,30.19,1
+ORD-38873,2024-01-02,Glass Coffee Table,Furniture,West,2812.27,423.64,8
+ORD-50788,2024-01-03,Samsung Galaxy Tab,Technology,Central,4213.25,549.22,9
+ORD-19552,2024-01-04,Stapler Set,Office Supplies,South,100.54,21.26,8
+ORD-18300,2024-01-04,Stapler Set,Office Supplies,East,154.05,37.43,8
+ORD-60692,2024-01-04,Logitech Wireless Mouse,Technology,Central,311.6,104.59,10
+ORD-34452,2024-01-04,Herman Miller Chair,Furniture,West,6294.3,760.59,8
+ORD-72873,2024-01-06,Canon DSLR Camera,Technology,East,5290.04,1030.28,7
+ORD-36013,2024-01-06,Filing Cabinet,Furniture,Central,200.01,27.19,1
+ORD-53704,2024-01-06,Filing Cabinet,Furniture,Central,398.58,63.31,2
+ORD-80373,2024-01-07,Highlighter Pack,Office Supplies,Central,138.48,-9.95,9
+ORD-15754,2024-01-08,Leather Sofa,Furniture,West,12379.95,1832.85,10
+ORD-14697,2024-01-08,Whiteboard Markers,Office Supplies,West,113.87,23.58,8
+ORD-83446,2024-01-08,Stapler Set,Office Supplies,Central,79.11,22.95,6
+ORD-36097,2024-01-09,Apple MacBook Pro,Technology,Central,1175.64,285.62,1
+ORD-18870,2024-01-09,Sticky Notes Pack,Office Supplies,West,19.45,5.85,2
+ORD-21115,2024-01-09,Herman Miller Chair,Furniture,South,1629.68,240.01,2
+ORD-83140,2024-01-10,Herman Miller Chair,Furniture,Central,878.61,137.09,1
+ORD-64986,2024-01-10,IKEA Standing Desk,Furniture,East,1788.47,123.58,5
+ORD-20237,2024-01-11,Highlighter Pack,Office Supplies,East,144.8,46.6,9
+ORD-87189,2024-01-11,Highlighter Pack,Office Supplies,West,89.33,23.61,6
+ORD-77271,2024-01-12,Dell XPS 15,Technology,Central,7189.71,1549.32,8
+ORD-85455,2024-01-12,Canon DSLR Camera,Technology,West,650.71,116.54,1
+ORD-22561,2024-01-13,Wooden Bookshelf,Furniture,South,1079.87,138.89,5
+ORD-47568,2024-01-15,A4 Paper Ream,Office Supplies,East,108.72,19.04,10
+ORD-47363,2024-01-16,HP LaserJet Printer,Technology,East,354.64,62.02,1
+ORD-87028,2024-01-19,Pen Set,Office Supplies,West,148.45,49.79,7
+ORD-70994,2024-01-19,Binder Clips Box,Office Supplies,South,5.88,-0.56,1
+ORD-15930,2024-01-20,Samsung Galaxy Tab,Technology,South,2914.6,522.02,7
+ORD-81046,2024-01-22,Stapler Set,Office Supplies,South,135.13,43.17,9
+ORD-77171,2024-01-22,Leather Sofa,Furniture,West,9681.04,1785.77,8
+ORD-25058,2024-01-23,Sticky Notes Pack,Office Supplies,West,22.78,4.52,2
+ORD-33500,2024-01-23,IKEA Standing Desk,Furniture,East,3454.41,239.27,8
+ORD-98251,2024-01-24,Sony Headphones,Technology,South,1200.77,187.03,8
+ORD-98188,2024-01-25,Glass Coffee Table,Furniture,East,2366.07,232.31,8
+ORD-25566,2024-01-27,Leather Sofa,Furniture,East,3951.52,605.35,3
+ORD-50846,2024-01-28,Leather Sofa,Furniture,South,2857.98,427.34,3
+ORD-35295,2024-01-29,Apple MacBook Pro,Technology,East,11622.5,1804.24,8
+ORD-56566,2024-01-29,Leather Sofa,Furniture,South,3069.66,381.58,3
+ORD-83281,2024-01-29,Glass Coffee Table,Furniture,Central,724.94,114.17,3
+ORD-20490,2024-01-30,Sticky Notes Pack,Office Supplies,East,26.45,9.04,2
+ORD-59996,2024-01-30,Whiteboard Markers,Office Supplies,East,140.48,31.1,9
+ORD-24201,2024-01-31,Binder Clips Box,Office Supplies,South,55.33,15.96,10
+ORD-82684,2024-01-31,Samsung Galaxy Tab,Technology,East,4929.01,968.51,8
+ORD-99262,2024-01-31,Canon DSLR Camera,Technology,South,6454.09,1060.95,10
+ORD-70776,2024-01-31,Leather Sofa,Furniture,South,8924.47,1447.77,8
+ORD-47767,2024-02-01,Samsung Galaxy Tab,Technology,West,4426.06,559.61,8
+ORD-54921,2024-02-03,Glass Coffee Table,Furniture,South,575.95,74.25,2
+ORD-11461,2024-02-04,Sticky Notes Pack,Office Supplies,South,29.99,8.48,3
+ORD-27878,2024-02-04,Sony Headphones,Technology,West,1042.35,270.8,7
+ORD-64505,2024-02-05,IKEA Standing Desk,Furniture,Central,3147.48,391.63,10
+ORD-14901,2024-02-06,Samsung Galaxy Tab,Technology,West,1075.72,174.1,2
+ORD-49748,2024-02-06,A4 Paper Ream,Office Supplies,East,49.13,10.79,6
+ORD-39430,2024-02-07,Whiteboard Markers,Office Supplies,West,101.07,40.42,7
+ORD-23294,2024-02-08,Leather Sofa,Furniture,Central,6990.99,1281.37,6
+ORD-38922,2024-02-09,Canon DSLR Camera,Technology,Central,2737.42,401.8,4
+ORD-30677,2024-02-10,Apple MacBook Pro,Technology,West,2892.7,557.13,2
+ORD-46739,2024-02-10,Glass Coffee Table,Furniture,West,1698.91,273.89,6
+ORD-86415,2024-02-11,Glass Coffee Table,Furniture,West,286.29,28.18,1
+ORD-83815,2024-02-12,Glass Coffee Table,Furniture,South,2080.77,310.34,8
+ORD-82443,2024-02-12,Highlighter Pack,Office Supplies,East,32.05,7.4,2
+ORD-26401,2024-02-13,Samsung Galaxy Tab,Technology,East,4730.52,570.23,9
+ORD-90863,2024-02-13,SanDisk SSD 1TB,Technology,South,612.79,129.27,8
+ORD-54092,2024-02-16,Leather Sofa,Furniture,West,8998.15,1221.12,8
+ORD-18869,2024-02-16,Samsung Galaxy Tab,Technology,South,2609.14,334.66,6
+ORD-98777,2024-02-16,Whiteboard Markers,Office Supplies,West,54.54,16.39,4
+ORD-52000,2024-02-16,Apple MacBook Pro,Technology,South,9870.4,1400.93,8
+ORD-99383,2024-02-16,Apple MacBook Pro,Technology,West,13095.0,1999.01,9
+ORD-32345,2024-02-16,Herman Miller Chair,Furniture,Central,5903.75,719.58,8
+ORD-57002,2024-02-17,Glass Coffee Table,Furniture,Central,771.57,148.53,3
+ORD-84683,2024-02-17,Canon DSLR Camera,Technology,South,2393.55,425.99,4
+ORD-21232,2024-02-18,Leather Sofa,Furniture,West,12107.97,2107.29,10
+ORD-76655,2024-02-19,Filing Cabinet,Furniture,Central,656.43,61.34,4
+ORD-51012,2024-02-19,Leather Sofa,Furniture,East,11922.62,2009.54,10
+ORD-22759,2024-02-19,Wooden Bookshelf,Furniture,East,1681.69,232.31,6
+ORD-78742,2024-02-20,Sticky Notes Pack,Office Supplies,Central,10.89,2.25,1
+ORD-95710,2024-02-21,Stapler Set,Office Supplies,South,82.95,29.01,7
+ORD-95166,2024-02-21,Herman Miller Chair,Furniture,South,3939.26,597.44,5
+ORD-13239,2024-02-23,Leather Sofa,Furniture,South,4699.87,951.1,5
+ORD-91226,2024-02-23,Binder Clips Box,Office Supplies,West,23.04,5.82,3
+ORD-63219,2024-02-23,Filing Cabinet,Furniture,Central,1090.5,128.23,6
+ORD-65481,2024-02-25,Logitech Wireless Mouse,Technology,Central,153.76,46.51,4
+ORD-65448,2024-02-25,A4 Paper Ream,Office Supplies,Central,64.14,14.68,7
+ORD-90658,2024-02-26,Dell XPS 15,Technology,East,5028.26,827.39,5
+ORD-74927,2024-02-26,Apple MacBook Pro,Technology,South,10390.0,1630.37,10
+ORD-49375,2024-02-26,Samsung Galaxy Tab,Technology,South,4432.33,762.04,10
+ORD-96386,2024-02-27,HP LaserJet Printer,Technology,Central,2602.05,412.11,8
+ORD-64875,2024-02-27,SanDisk SSD 1TB,Technology,South,717.04,144.82,9
+ORD-24733,2024-02-27,Logitech Wireless Mouse,Technology,South,137.2,29.92,4
+ORD-25083,2024-02-28,A4 Paper Ream,Office Supplies,Central,62.45,18.34,9
+ORD-29484,2024-02-28,Binder Clips Box,Office Supplies,West,57.12,14.32,8
+ORD-69301,2024-02-29,HP LaserJet Printer,Technology,West,1824.46,348.19,6
+ORD-47173,2024-02-29,Highlighter Pack,Office Supplies,South,51.42,13.92,4
+ORD-34832,2024-02-29,Dell XPS 15,Technology,West,8048.4,1152.7,9
+ORD-65386,2024-03-02,Sony Headphones,Technology,South,514.08,77.65,4
+ORD-34685,2024-03-02,SanDisk SSD 1TB,Technology,East,914.9,159.06,9
+ORD-59444,2024-03-03,Binder Clips Box,Office Supplies,East,72.9,22.6,9
+ORD-84498,2024-03-03,Logitech Wireless Mouse,Technology,South,100.33,33.11,3
+ORD-41340,2024-03-04,Glass Coffee Table,Furniture,Central,255.78,49.22,1
+ORD-64600,2024-03-04,Highlighter Pack,Office Supplies,South,13.04,3.82,1
+ORD-98862,2024-03-05,Leather Sofa,Furniture,East,2368.2,472.08,2
+ORD-90125,2024-03-06,Glass Coffee Table,Furniture,South,2463.46,242.89,10
+ORD-70591,2024-03-06,SanDisk SSD 1TB,Technology,East,390.44,88.77,4
+ORD-41142,2024-03-07,Herman Miller Chair,Furniture,West,7755.79,871.63,9
+ORD-34560,2024-03-08,Leather Sofa,Furniture,West,12093.67,1420.97,10
+ORD-98250,2024-03-08,Leather Sofa,Furniture,South,1041.26,164.0,1
+ORD-72205,2024-03-09,Leather Sofa,Furniture,West,9248.57,1472.28,7
+ORD-40924,2024-03-09,Stapler Set,Office Supplies,South,79.55,20.72,6
+ORD-50549,2024-03-09,Glass Coffee Table,Furniture,West,530.28,66.63,2
+ORD-64638,2024-03-10,Whiteboard Markers,Office Supplies,Central,39.66,7.96,3
+ORD-32079,2024-03-11,Stapler Set,Office Supplies,West,88.17,-9.85,5
+ORD-59980,2024-03-11,HP LaserJet Printer,Technology,West,2261.01,277.23,6
+ORD-70438,2024-03-12,Wooden Bookshelf,Furniture,East,1421.67,176.73,5
+ORD-26901,2024-03-13,HP LaserJet Printer,Technology,South,1430.26,219.7,5
+ORD-16674,2024-03-13,Canon DSLR Camera,Technology,South,5223.25,1027.17,10
+ORD-49203,2024-03-13,Binder Clips Box,Office Supplies,East,21.89,5.48,3
+ORD-34077,2024-03-14,A4 Paper Ream,Office Supplies,Central,68.54,-4.2,10
+ORD-79316,2024-03-15,Highlighter Pack,Office Supplies,West,82.4,-7.6,6
+ORD-15932,2024-03-15,Binder Clips Box,Office Supplies,Central,20.4,6.67,3
+ORD-43493,2024-03-15,Sony Headphones,Technology,Central,149.5,29.34,1
+ORD-96105,2024-03-15,IKEA Standing Desk,Furniture,West,2367.12,283.74,6
+ORD-30578,2024-03-16,Samsung Galaxy Tab,Technology,South,2794.78,586.83,8
+ORD-22755,2024-03-17,Filing Cabinet,Furniture,West,2023.37,310.0,9
+ORD-58915,2024-03-17,Pen Set,Office Supplies,East,73.88,23.21,3
+ORD-80405,2024-03-18,Highlighter Pack,Office Supplies,West,26.46,-2.63,2
+ORD-11824,2024-03-19,SanDisk SSD 1TB,Technology,South,147.22,20.99,2
+ORD-97983,2024-03-19,Glass Coffee Table,Furniture,Central,1548.66,214.92,5
+ORD-54433,2024-03-20,Binder Clips Box,Office Supplies,Central,43.42,9.42,7
+ORD-30400,2024-03-20,Logitech Wireless Mouse,Technology,South,113.52,23.26,4
+ORD-45553,2024-03-20,Wooden Bookshelf,Furniture,South,1001.87,150.99,5
+ORD-63143,2024-03-20,Samsung Galaxy Tab,Technology,Central,2800.33,433.65,6
+ORD-96602,2024-03-20,Samsung Galaxy Tab,Technology,Central,3570.16,641.01,7
+ORD-45976,2024-03-21,Whiteboard Markers,Office Supplies,South,56.57,-3.95,5
+ORD-10996,2024-03-21,Logitech Wireless Mouse,Technology,Central,225.11,56.69,7
+ORD-43352,2024-03-21,Filing Cabinet,Furniture,South,148.99,23.58,1
+ORD-86810,2024-03-21,Highlighter Pack,Office Supplies,South,22.03,4.61,2
+ORD-15144,2024-03-21,Herman Miller Chair,Furniture,West,6834.58,716.49,9
+ORD-24541,2024-03-22,Binder Clips Box,Office Supplies,West,7.81,1.92,1
+ORD-65524,2024-03-22,HP LaserJet Printer,Technology,West,365.44,73.0,1
+ORD-66769,2024-03-23,Dell XPS 15,Technology,West,2301.53,306.06,2
+ORD-93284,2024-03-23,Wooden Bookshelf,Furniture,Central,1932.32,259.05,9
+ORD-75823,2024-03-23,Stapler Set,Office Supplies,South,102.14,28.56,7
+ORD-74045,2024-03-23,Sticky Notes Pack,Office Supplies,West,11.28,-0.94,1
+ORD-14951,2024-03-23,Filing Cabinet,Furniture,Central,691.76,111.43,4
+ORD-82358,2024-03-24,Highlighter Pack,Office Supplies,East,38.37,12.95,2
+ORD-36698,2024-03-24,Sticky Notes Pack,Office Supplies,South,98.26,27.42,10
+ORD-95175,2024-03-25,Wooden Bookshelf,Furniture,South,1932.24,197.26,10
+ORD-74884,2024-03-25,Herman Miller Chair,Furniture,East,3689.75,486.24,4
+ORD-49918,2024-03-26,Sticky Notes Pack,Office Supplies,East,42.7,13.26,4
+ORD-28096,2024-03-26,Sticky Notes Pack,Office Supplies,South,51.09,14.73,5
+ORD-46160,2024-03-26,Logitech Wireless Mouse,Technology,South,33.87,10.49,1
+ORD-43444,2024-03-27,Dell XPS 15,Technology,Central,1665.5,281.67,2
+ORD-72420,2024-03-27,Whiteboard Markers,Office Supplies,East,12.51,3.78,1
+ORD-57447,2024-03-28,Pen Set,Office Supplies,South,156.51,54.9,10
+ORD-53463,2024-03-29,Pen Set,Office Supplies,East,225.11,76.84,10
+ORD-75779,2024-03-29,Sticky Notes Pack,Office Supplies,West,69.8,15.16,6
+ORD-84588,2024-03-29,Wooden Bookshelf,Furniture,East,2607.88,380.87,10
+ORD-80040,2024-03-31,Sony Headphones,Technology,Central,1600.02,415.68,10
+ORD-19120,2024-03-31,Herman Miller Chair,Furniture,West,2803.34,272.83,3
+ORD-82102,2024-03-31,Filing Cabinet,Furniture,Central,773.24,66.84,5
+ORD-87405,2024-03-31,Binder Clips Box,Office Supplies,East,17.37,-1.67,2
+ORD-93637,2024-04-01,Whiteboard Markers,Office Supplies,Central,89.74,24.28,8
+ORD-15028,2024-04-01,Binder Clips Box,Office Supplies,West,32.86,-2.6,4
+ORD-22560,2024-04-02,Apple MacBook Pro,Technology,South,7507.61,1612.57,7
+ORD-15083,2024-04-02,Samsung Galaxy Tab,Technology,Central,1424.23,219.66,3
+ORD-39607,2024-04-03,Herman Miller Chair,Furniture,South,8254.16,1080.14,10
+ORD-52498,2024-04-03,A4 Paper Ream,Office Supplies,East,39.09,8.96,4
+ORD-95720,2024-04-03,Wooden Bookshelf,Furniture,West,266.61,22.06,1
+ORD-87101,2024-04-04,Herman Miller Chair,Furniture,South,6028.2,995.82,9
+ORD-14850,2024-04-04,Stapler Set,Office Supplies,Central,68.67,-4.88,5
+ORD-51697,2024-04-05,IKEA Standing Desk,Furniture,Central,995.27,88.68,3
+ORD-12506,2024-04-06,Wooden Bookshelf,Furniture,West,703.55,65.2,3
+ORD-75459,2024-04-08,Samsung Galaxy Tab,Technology,East,556.03,66.13,1
+ORD-41890,2024-04-08,Dell XPS 15,Technology,South,3107.32,608.46,4
+ORD-93904,2024-04-08,Logitech Wireless Mouse,Technology,Central,375.83,102.01,10
+ORD-35859,2024-04-08,Highlighter Pack,Office Supplies,Central,92.12,29.22,6
+ORD-61368,2024-04-08,Dell XPS 15,Technology,South,2958.55,348.08,4
+ORD-59868,2024-04-09,Pen Set,Office Supplies,East,208.34,58.73,8
+ORD-66059,2024-04-10,Binder Clips Box,Office Supplies,West,25.39,8.55,3
+ORD-70161,2024-04-11,Leather Sofa,Furniture,East,7524.39,1147.68,6
+ORD-74038,2024-04-12,Canon DSLR Camera,Technology,East,3395.94,565.24,4
+ORD-45918,2024-04-13,Binder Clips Box,Office Supplies,East,55.75,11.87,6
+ORD-18579,2024-04-13,Herman Miller Chair,Furniture,South,6525.03,1048.36,8
+ORD-78809,2024-04-14,Dell XPS 15,Technology,East,8801.92,1486.04,7
+ORD-48088,2024-04-14,Binder Clips Box,Office Supplies,South,53.1,12.4,8
+ORD-95456,2024-04-15,Glass Coffee Table,Furniture,South,1545.13,197.45,6
+ORD-65184,2024-04-16,Wooden Bookshelf,Furniture,East,497.46,62.94,2
+ORD-25292,2024-04-16,Dell XPS 15,Technology,Central,5241.45,609.74,5
+ORD-11967,2024-04-16,Canon DSLR Camera,Technology,West,769.71,124.53,1
+ORD-13133,2024-04-19,Pen Set,Office Supplies,West,65.6,-5.77,3
+ORD-57432,2024-04-19,Stapler Set,Office Supplies,West,136.1,45.17,8
+ORD-38869,2024-04-20,Filing Cabinet,Furniture,East,563.66,47.87,3
+ORD-56101,2024-04-20,Sony Headphones,Technology,Central,1175.17,266.96,7
+ORD-51864,2024-04-20,Canon DSLR Camera,Technology,West,7221.61,1495.85,10
+ORD-71213,2024-04-21,SanDisk SSD 1TB,Technology,South,494.63,131.04,7
+ORD-21648,2024-04-22,Pen Set,Office Supplies,Central,195.36,47.35,10
+ORD-20740,2024-04-23,Herman Miller Chair,Furniture,West,5915.67,563.34,7
+ORD-44987,2024-04-24,Wooden Bookshelf,Furniture,East,934.39,149.53,4
+ORD-56281,2024-04-24,Highlighter Pack,Office Supplies,West,70.61,13.76,4
+ORD-28021,2024-04-24,Dell XPS 15,Technology,East,1305.82,272.99,1
+ORD-60222,2024-04-25,HP LaserJet Printer,Technology,West,2610.14,368.49,8
+ORD-58823,2024-04-25,Apple MacBook Pro,Technology,West,10949.0,1519.82,9
+ORD-63648,2024-04-26,Sticky Notes Pack,Office Supplies,West,35.79,10.59,3
+ORD-52396,2024-04-26,HP LaserJet Printer,Technology,West,2471.33,381.14,7
+ORD-87296,2024-04-27,Binder Clips Box,Office Supplies,East,17.47,5.79,2
+ORD-78766,2024-04-27,Samsung Galaxy Tab,Technology,South,3455.75,423.5,9
+ORD-63903,2024-04-27,IKEA Standing Desk,Furniture,East,2854.97,242.89,6
+ORD-17342,2024-04-27,Sticky Notes Pack,Office Supplies,South,73.31,21.16,8
+ORD-58182,2024-04-28,Wooden Bookshelf,Furniture,West,429.52,63.05,2
+ORD-28293,2024-04-28,Wooden Bookshelf,Furniture,West,1492.87,169.11,7
+ORD-14282,2024-04-29,Filing Cabinet,Furniture,West,178.25,17.04,1
+ORD-28590,2024-04-30,Whiteboard Markers,Office Supplies,East,137.23,37.95,9
+ORD-23829,2024-04-30,Canon DSLR Camera,Technology,West,6937.49,873.82,9
+ORD-61727,2024-05-01,Binder Clips Box,Office Supplies,South,52.99,14.83,8
+ORD-74713,2024-05-01,HP LaserJet Printer,Technology,Central,574.84,73.03,2
+ORD-69772,2024-05-01,Sticky Notes Pack,Office Supplies,Central,33.93,-1.93,3
+ORD-74972,2024-05-01,Herman Miller Chair,Furniture,East,6259.16,843.13,7
+ORD-88400,2024-05-02,Pen Set,Office Supplies,East,137.56,33.74,6
+ORD-87430,2024-05-02,Apple MacBook Pro,Technology,West,2683.85,576.76,2
+ORD-83044,2024-05-03,A4 Paper Ream,Office Supplies,Central,8.47,1.96,1
+ORD-91016,2024-05-03,Samsung Galaxy Tab,Technology,West,4481.51,578.1,10
+ORD-86507,2024-05-03,Logitech Wireless Mouse,Technology,South,55.47,10.96,2
+ORD-48691,2024-05-05,HP LaserJet Printer,Technology,East,1911.91,220.35,5
+ORD-70003,2024-05-06,Binder Clips Box,Office Supplies,South,27.91,8.37,4
+ORD-32439,2024-05-06,Dell XPS 15,Technology,Central,8042.66,1383.06,8
+ORD-42370,2024-05-06,Wooden Bookshelf,Furniture,South,1314.51,202.47,6
+ORD-80190,2024-05-07,Apple MacBook Pro,Technology,Central,9512.13,2303.4,9
+ORD-62691,2024-05-08,A4 Paper Ream,Office Supplies,East,78.85,16.19,9
+ORD-65799,2024-05-08,Stapler Set,Office Supplies,Central,76.5,21.67,6
+ORD-58799,2024-05-08,Sony Headphones,Technology,Central,569.94,133.21,4
+ORD-31802,2024-05-09,Stapler Set,Office Supplies,East,133.88,49.19,7
+ORD-59081,2024-05-10,Leather Sofa,Furniture,West,3212.8,679.89,3
+ORD-37770,2024-05-11,Glass Coffee Table,Furniture,East,1470.89,196.53,5
+ORD-78955,2024-05-12,Samsung Galaxy Tab,Technology,East,1622.55,316.11,3
+ORD-74103,2024-05-12,Sony Headphones,Technology,South,256.81,41.09,2
+ORD-79067,2024-05-13,Pen Set,Office Supplies,West,132.46,-13.44,7
+ORD-13662,2024-05-13,Canon DSLR Camera,Technology,East,833.13,144.16,1
+ORD-58265,2024-05-15,Wooden Bookshelf,Furniture,Central,383.55,61.35,2
+ORD-11673,2024-05-15,Binder Clips Box,Office Supplies,Central,71.88,17.91,9
+ORD-35419,2024-05-15,Herman Miller Chair,Furniture,East,5773.41,625.84,7
+ORD-45369,2024-05-16,Apple MacBook Pro,Technology,West,1315.44,230.51,1
+ORD-59412,2024-05-16,Whiteboard Markers,Office Supplies,West,58.07,14.44,5
+ORD-59345,2024-05-17,Glass Coffee Table,Furniture,South,1436.98,164.27,5
+ORD-67682,2024-05-17,Pen Set,Office Supplies,Central,85.44,21.21,5
+ORD-82764,2024-05-17,Logitech Wireless Mouse,Technology,West,139.95,27.37,4
+ORD-19757,2024-05-17,Highlighter Pack,Office Supplies,East,68.6,14.81,4
+ORD-55158,2024-05-17,Canon DSLR Camera,Technology,East,752.83,128.72,1
+ORD-75419,2024-05-19,SanDisk SSD 1TB,Technology,East,484.16,68.84,4
+ORD-20345,2024-05-19,Glass Coffee Table,Furniture,South,565.11,73.47,2
+ORD-58717,2024-05-19,HP LaserJet Printer,Technology,Central,336.09,67.09,1
+ORD-59425,2024-05-20,SanDisk SSD 1TB,Technology,West,553.29,104.72,5
+ORD-38683,2024-05-20,HP LaserJet Printer,Technology,East,748.84,115.01,2
+ORD-32650,2024-05-23,Sticky Notes Pack,Office Supplies,Central,86.71,-6.32,8
+ORD-60512,2024-05-24,Canon DSLR Camera,Technology,East,3421.23,628.9,4
+ORD-23644,2024-05-24,Pen Set,Office Supplies,South,145.53,31.83,8
+ORD-83519,2024-05-25,IKEA Standing Desk,Furniture,Central,3276.07,420.41,9
+ORD-58448,2024-05-25,Whiteboard Markers,Office Supplies,Central,37.16,12.12,3
+ORD-53785,2024-05-26,IKEA Standing Desk,Furniture,East,3586.4,273.37,8
+ORD-72406,2024-05-26,Leather Sofa,Furniture,East,8397.91,1539.21,6
+ORD-88694,2024-05-28,Highlighter Pack,Office Supplies,West,15.23,5.17,1
+ORD-72573,2024-05-28,Filing Cabinet,Furniture,Central,1124.86,140.5,7
+ORD-50026,2024-05-28,Leather Sofa,Furniture,Central,5689.76,1235.23,5
+ORD-93380,2024-05-29,SanDisk SSD 1TB,Technology,South,418.35,65.55,6
+ORD-54112,2024-05-29,Leather Sofa,Furniture,South,10513.69,1846.59,10
+ORD-41697,2024-05-30,Wooden Bookshelf,Furniture,West,2759.59,325.07,10
+ORD-72050,2024-05-30,SanDisk SSD 1TB,Technology,East,737.6,151.05,6
+ORD-95332,2024-05-31,Wooden Bookshelf,Furniture,Central,1132.05,107.09,6
+ORD-33028,2024-05-31,Herman Miller Chair,Furniture,East,6554.16,866.33,8
+ORD-32365,2024-06-01,SanDisk SSD 1TB,Technology,Central,418.75,71.88,5
+ORD-57109,2024-06-01,A4 Paper Ream,Office Supplies,South,63.25,-4.34,8
+ORD-74493,2024-06-01,A4 Paper Ream,Office Supplies,Central,49.67,-3.48,6
+ORD-38624,2024-06-02,Sticky Notes Pack,Office Supplies,West,82.38,-7.98,8
+ORD-22656,2024-06-03,Dell XPS 15,Technology,East,1977.37,348.33,2
+ORD-63602,2024-06-04,Pen Set,Office Supplies,South,129.44,27.64,7
+ORD-86692,2024-06-05,Herman Miller Chair,Furniture,East,9558.57,1283.76,9
+ORD-96960,2024-06-05,Highlighter Pack,Office Supplies,South,113.59,38.24,9
+ORD-59668,2024-06-07,SanDisk SSD 1TB,Technology,West,568.5,102.62,6
+ORD-79275,2024-06-07,IKEA Standing Desk,Furniture,West,992.99,112.94,3
+ORD-80041,2024-06-07,Dell XPS 15,Technology,South,1955.72,356.51,2
+ORD-30591,2024-06-08,Filing Cabinet,Furniture,West,1882.06,273.45,10
+ORD-25202,2024-06-08,Sticky Notes Pack,Office Supplies,West,12.19,4.05,1
+ORD-78610,2024-06-09,Pen Set,Office Supplies,West,213.2,55.54,10
+ORD-33086,2024-06-10,Filing Cabinet,Furniture,Central,564.24,86.95,3
+ORD-28997,2024-06-11,Sony Headphones,Technology,Central,158.38,23.72,1
+ORD-36444,2024-06-11,IKEA Standing Desk,Furniture,South,1990.43,219.17,6
+ORD-18874,2024-06-12,Wooden Bookshelf,Furniture,Central,403.05,44.54,2
+ORD-65314,2024-06-12,Leather Sofa,Furniture,Central,11337.52,1593.53,9
+ORD-43804,2024-06-12,Binder Clips Box,Office Supplies,South,62.66,12.85,10
+ORD-62431,2024-06-13,Wooden Bookshelf,Furniture,East,1513.0,196.82,6
+ORD-23875,2024-06-13,Sony Headphones,Technology,South,252.64,66.09,2
+ORD-61740,2024-06-14,Whiteboard Markers,Office Supplies,West,89.09,33.46,7
+ORD-11512,2024-06-14,Dell XPS 15,Technology,East,1199.51,144.9,1
+ORD-93113,2024-06-14,A4 Paper Ream,Office Supplies,Central,53.23,8.52,7
+ORD-34833,2024-06-15,Sticky Notes Pack,Office Supplies,East,75.33,15.62,6
+ORD-67595,2024-06-15,Binder Clips Box,Office Supplies,West,7.19,1.46,1
+ORD-98978,2024-06-15,Pen Set,Office Supplies,West,90.5,28.33,4
+ORD-78506,2024-06-16,Sony Headphones,Technology,East,1311.44,351.28,7
+ORD-66034,2024-06-17,Wooden Bookshelf,Furniture,West,530.28,86.06,2
+ORD-68978,2024-06-17,SanDisk SSD 1TB,Technology,Central,351.92,48.69,4
+ORD-22539,2024-06-17,Logitech Wireless Mouse,Technology,West,83.76,27.39,2
+ORD-11403,2024-06-18,Pen Set,Office Supplies,East,78.06,17.91,3
+ORD-23069,2024-06-20,HP LaserJet Printer,Technology,South,613.69,106.65,2
+ORD-56935,2024-06-21,Apple MacBook Pro,Technology,South,3020.4,682.26,3
+ORD-70513,2024-06-21,Leather Sofa,Furniture,West,8321.29,1044.32,6
+ORD-33567,2024-06-21,Samsung Galaxy Tab,Technology,South,871.33,142.32,2
+ORD-45728,2024-06-22,Glass Coffee Table,Furniture,South,276.76,31.24,1
+ORD-69836,2024-06-22,Herman Miller Chair,Furniture,East,2736.79,436.19,3
+ORD-25235,2024-06-23,A4 Paper Ream,Office Supplies,West,51.84,10.71,6
+ORD-56729,2024-06-23,Herman Miller Chair,Furniture,Central,873.06,100.48,1
+ORD-95979,2024-06-24,Samsung Galaxy Tab,Technology,East,3501.95,443.41,6
+ORD-51059,2024-06-24,Herman Miller Chair,Furniture,West,6878.86,676.28,9
+ORD-92546,2024-06-24,Glass Coffee Table,Furniture,South,772.27,136.49,3
+ORD-29082,2024-06-25,Glass Coffee Table,Furniture,South,217.84,28.57,1
+ORD-19632,2024-06-27,Filing Cabinet,Furniture,East,1634.33,265.59,8
+ORD-53082,2024-06-27,IKEA Standing Desk,Furniture,East,1507.27,135.37,4
+ORD-59840,2024-06-28,Apple MacBook Pro,Technology,East,10492.57,2238.16,7
+ORD-20077,2024-06-28,Sony Headphones,Technology,South,842.42,146.26,6
+ORD-64474,2024-06-28,Leather Sofa,Furniture,East,4864.09,802.5,4
+ORD-16870,2024-06-28,Stapler Set,Office Supplies,East,119.79,47.4,7
+ORD-90031,2024-06-28,SanDisk SSD 1TB,Technology,South,279.8,38.29,4
+ORD-66657,2024-06-29,Wooden Bookshelf,Furniture,East,491.8,76.62,2
+ORD-98112,2024-06-30,Stapler Set,Office Supplies,East,168.36,-14.62,9
+ORD-27709,2024-06-30,Leather Sofa,Furniture,South,9053.81,1289.45,9
+ORD-33091,2024-06-30,Pen Set,Office Supplies,Central,136.44,26.25,6
+ORD-28331,2024-06-30,Herman Miller Chair,Furniture,South,6994.07,887.34,9
+ORD-57020,2024-07-01,Logitech Wireless Mouse,Technology,Central,265.47,75.89,8
+ORD-98744,2024-07-01,A4 Paper Ream,Office Supplies,South,31.17,-2.25,4
+ORD-73806,2024-07-01,Highlighter Pack,Office Supplies,South,96.56,32.31,9
+ORD-17292,2024-07-01,A4 Paper Ream,Office Supplies,Central,15.82,3.09,2
+ORD-60867,2024-07-01,Stapler Set,Office Supplies,South,132.74,51.71,9
+ORD-47851,2024-07-02,Stapler Set,Office Supplies,Central,63.96,15.95,5
+ORD-72709,2024-07-03,Logitech Wireless Mouse,Technology,West,294.96,89.91,7
+ORD-28373,2024-07-07,Canon DSLR Camera,Technology,West,5480.41,1102.1,9
+ORD-80761,2024-07-07,Wooden Bookshelf,Furniture,West,1261.92,189.09,6
+ORD-32659,2024-07-08,Pen Set,Office Supplies,West,38.29,10.9,2
+ORD-83005,2024-07-08,Dell XPS 15,Technology,West,6297.96,1053.97,7
+ORD-86706,2024-07-09,Binder Clips Box,Office Supplies,Central,56.88,14.82,8
+ORD-42495,2024-07-09,Sony Headphones,Technology,East,903.15,193.72,5
+ORD-87832,2024-07-11,HP LaserJet Printer,Technology,East,2668.94,454.38,7
+ORD-91187,2024-07-12,IKEA Standing Desk,Furniture,West,1976.24,259.41,6
+ORD-31116,2024-07-12,Sticky Notes Pack,Office Supplies,Central,55.93,14.98,6
+ORD-92603,2024-07-12,Samsung Galaxy Tab,Technology,Central,3594.07,419.37,7
+ORD-42547,2024-07-12,Wooden Bookshelf,Furniture,West,2476.1,377.95,10
+ORD-19661,2024-07-13,Glass Coffee Table,Furniture,West,956.88,161.72,3
+ORD-65013,2024-07-13,Leather Sofa,Furniture,East,6158.48,1290.8,5
+ORD-93755,2024-07-13,Herman Miller Chair,Furniture,South,6617.7,596.47,10
+ORD-49666,2024-07-14,Sony Headphones,Technology,West,1074.61,256.91,6
+ORD-51800,2024-07-15,Leather Sofa,Furniture,East,9797.85,1474.69,8
+ORD-54279,2024-07-15,Leather Sofa,Furniture,South,9963.25,2147.73,10
+ORD-24945,2024-07-15,Wooden Bookshelf,Furniture,Central,1231.62,160.46,6
+ORD-45669,2024-07-16,Samsung Galaxy Tab,Technology,East,3896.89,704.54,8
+ORD-45784,2024-07-16,Logitech Wireless Mouse,Technology,South,177.23,39.21,5
+ORD-52587,2024-07-16,Stapler Set,Office Supplies,South,14.14,5.0,1
+ORD-47122,2024-07-17,A4 Paper Ream,Office Supplies,South,53.2,10.63,7
+ORD-73898,2024-07-17,IKEA Standing Desk,Furniture,South,1712.02,211.62,6
+ORD-15677,2024-07-17,SanDisk SSD 1TB,Technology,South,508.04,109.8,6
+ORD-77195,2024-07-18,Logitech Wireless Mouse,Technology,East,308.31,66.12,8
+ORD-45509,2024-07-18,Filing Cabinet,Furniture,South,1014.42,99.51,6
+ORD-12033,2024-07-18,A4 Paper Ream,Office Supplies,Central,31.21,5.43,4
+ORD-58629,2024-07-18,Canon DSLR Camera,Technology,West,4431.67,832.92,7
+ORD-15017,2024-07-19,Sticky Notes Pack,Office Supplies,West,90.9,-8.34,8
+ORD-97852,2024-07-20,SanDisk SSD 1TB,Technology,South,459.97,90.55,6
+ORD-94557,2024-07-20,Dell XPS 15,Technology,Central,3950.93,519.44,4
+ORD-84273,2024-07-20,Logitech Wireless Mouse,Technology,East,332.21,72.07,7
+ORD-76949,2024-07-21,Filing Cabinet,Furniture,East,1644.99,236.44,8
+ORD-51263,2024-07-22,IKEA Standing Desk,Furniture,South,1445.35,101.66,4
+ORD-31805,2024-07-22,HP LaserJet Printer,Technology,South,1179.48,146.2,5
+ORD-90114,2024-07-23,Apple MacBook Pro,Technology,South,2407.49,429.58,2
+ORD-45629,2024-07-23,Dell XPS 15,Technology,Central,6015.83,1223.98,7
+ORD-48800,2024-07-24,Binder Clips Box,Office Supplies,East,42.33,12.57,5
+ORD-49599,2024-07-24,Filing Cabinet,Furniture,Central,866.15,117.35,5
+ORD-18232,2024-07-25,Apple MacBook Pro,Technology,West,10498.63,2107.83,7
+ORD-41552,2024-07-25,Dell XPS 15,Technology,Central,7318.98,1100.04,9
+ORD-28772,2024-07-26,Logitech Wireless Mouse,Technology,Central,370.47,118.14,10
+ORD-42346,2024-07-26,Sony Headphones,Technology,Central,974.64,225.98,6
+ORD-95804,2024-07-26,Logitech Wireless Mouse,Technology,East,229.22,71.63,5
+ORD-24021,2024-07-26,Binder Clips Box,Office Supplies,Central,67.34,14.67,10
+ORD-14847,2024-07-26,A4 Paper Ream,Office Supplies,West,15.67,2.42,2
+ORD-21443,2024-07-26,Highlighter Pack,Office Supplies,East,71.31,18.83,4
+ORD-98877,2024-07-27,Herman Miller Chair,Furniture,West,9029.89,1152.2,9
+ORD-29331,2024-07-28,Highlighter Pack,Office Supplies,South,14.04,4.53,1
+ORD-38848,2024-07-28,Herman Miller Chair,Furniture,Central,3395.55,602.11,4
+ORD-94972,2024-07-28,Dell XPS 15,Technology,South,2543.13,408.18,3
+ORD-46102,2024-07-28,Whiteboard Markers,Office Supplies,West,129.73,51.5,9
+ORD-80284,2024-07-29,Glass Coffee Table,Furniture,South,277.13,32.4,1
+ORD-88579,2024-07-30,Logitech Wireless Mouse,Technology,South,124.87,40.46,4
+ORD-55830,2024-07-31,Sony Headphones,Technology,West,562.38,118.95,4
+ORD-28892,2024-07-31,Wooden Bookshelf,Furniture,West,1145.76,177.92,5
+ORD-86916,2024-08-01,IKEA Standing Desk,Furniture,South,2317.35,221.02,8
+ORD-27759,2024-08-02,Apple MacBook Pro,Technology,West,7223.81,1369.43,6
+ORD-93611,2024-08-02,A4 Paper Ream,Office Supplies,Central,72.16,-4.66,10
+ORD-24047,2024-08-02,Samsung Galaxy Tab,Technology,East,1746.64,215.09,3
+ORD-25396,2024-08-03,Herman Miller Chair,Furniture,West,1879.38,334.2,2
+ORD-59958,2024-08-03,Stapler Set,Office Supplies,Central,15.06,-1.36,1
+ORD-23357,2024-08-04,Leather Sofa,Furniture,West,2776.59,373.07,2
+ORD-64165,2024-08-04,SanDisk SSD 1TB,Technology,East,863.25,175.21,9
+ORD-99070,2024-08-06,Binder Clips Box,Office Supplies,West,56.2,9.89,8
+ORD-44735,2024-08-06,IKEA Standing Desk,Furniture,Central,1900.33,141.96,5
+ORD-29420,2024-08-07,Highlighter Pack,Office Supplies,West,28.42,8.35,2
+ORD-39428,2024-08-07,Glass Coffee Table,Furniture,South,1867.46,245.24,8
+ORD-72722,2024-08-09,Logitech Wireless Mouse,Technology,South,105.18,25.31,3
+ORD-36741,2024-08-09,Sony Headphones,Technology,Central,1186.51,290.28,8
+ORD-91980,2024-08-10,Apple MacBook Pro,Technology,East,1393.14,246.0,1
+ORD-47700,2024-08-10,Leather Sofa,Furniture,South,959.86,169.2,1
+ORD-71675,2024-08-11,Sticky Notes Pack,Office Supplies,East,89.07,22.92,8
+ORD-24459,2024-08-12,Herman Miller Chair,Furniture,South,1548.51,149.26,2
+ORD-64496,2024-08-12,Leather Sofa,Furniture,South,10077.38,1250.53,9
+ORD-14850,2024-08-13,Herman Miller Chair,Furniture,Central,899.94,132.46,1
+ORD-65116,2024-08-13,Binder Clips Box,Office Supplies,South,45.3,12.39,8
+ORD-49602,2024-08-13,Leather Sofa,Furniture,South,4397.92,852.36,4
+ORD-60470,2024-08-16,Canon DSLR Camera,Technology,East,2739.77,451.01,4
+ORD-45761,2024-08-16,Pen Set,Office Supplies,Central,64.68,18.58,3
+ORD-95140,2024-08-18,Sony Headphones,Technology,West,1645.99,425.51,9
+ORD-68799,2024-08-18,Samsung Galaxy Tab,Technology,Central,1458.94,302.64,3
+ORD-67961,2024-08-18,IKEA Standing Desk,Furniture,Central,727.17,84.56,2
+ORD-51973,2024-08-19,Sticky Notes Pack,Office Supplies,Central,22.59,6.36,2
+ORD-28364,2024-08-20,SanDisk SSD 1TB,Technology,West,258.44,37.73,3
+ORD-23237,2024-08-20,Dell XPS 15,Technology,Central,4281.08,690.2,5
+ORD-33803,2024-08-20,Leather Sofa,Furniture,East,10721.12,1757.37,9
+ORD-55607,2024-08-20,Filing Cabinet,Furniture,Central,356.28,45.8,2
+ORD-61820,2024-08-21,HP LaserJet Printer,Technology,South,1093.25,185.46,4
+ORD-12540,2024-08-21,Leather Sofa,Furniture,South,2114.22,437.55,2
+ORD-67852,2024-08-22,Leather Sofa,Furniture,Central,3530.37,540.93,3
+ORD-74106,2024-08-22,Herman Miller Chair,Furniture,South,5242.62,726.62,7
+ORD-98538,2024-08-22,Whiteboard Markers,Office Supplies,Central,11.4,-0.7,1
+ORD-27635,2024-08-22,Glass Coffee Table,Furniture,East,1910.87,252.06,5
+ORD-79393,2024-08-24,Apple MacBook Pro,Technology,South,990.52,190.3,1
+ORD-14159,2024-08-24,Stapler Set,Office Supplies,East,40.39,13.12,2
+ORD-23178,2024-08-25,A4 Paper Ream,Office Supplies,East,17.98,4.27,2
+ORD-14910,2024-08-26,Leather Sofa,Furniture,Central,10962.52,2117.25,10
+ORD-43202,2024-08-27,Glass Coffee Table,Furniture,Central,2674.28,312.8,9
+ORD-32241,2024-08-27,Leather Sofa,Furniture,West,9729.87,1580.97,9
+ORD-75647,2024-08-28,Sony Headphones,Technology,West,619.68,168.16,4
+ORD-28024,2024-08-28,IKEA Standing Desk,Furniture,Central,3151.9,270.65,8
+ORD-75210,2024-08-29,Canon DSLR Camera,Technology,East,2088.66,311.86,3
+ORD-44803,2024-08-29,Filing Cabinet,Furniture,East,1995.38,193.0,10
+ORD-28228,2024-08-30,Leather Sofa,Furniture,West,3463.76,717.88,3
+ORD-99487,2024-08-30,Whiteboard Markers,Office Supplies,East,80.44,31.64,6
+ORD-78852,2024-08-30,Pen Set,Office Supplies,East,71.73,21.33,3
+ORD-58033,2024-08-30,Dell XPS 15,Technology,West,8317.28,1308.48,9
+ORD-77490,2024-08-31,Stapler Set,Office Supplies,South,48.41,18.83,4
+ORD-45532,2024-08-31,Canon DSLR Camera,Technology,West,6379.64,831.31,10
+ORD-58200,2024-08-31,Samsung Galaxy Tab,Technology,West,3021.42,434.21,6
+ORD-45203,2024-08-31,Wooden Bookshelf,Furniture,West,225.57,36.86,1
+ORD-75881,2024-09-01,Pen Set,Office Supplies,East,229.06,56.56,10
+ORD-69472,2024-09-01,Sony Headphones,Technology,West,719.41,121.27,4
+ORD-71263,2024-09-01,Dell XPS 15,Technology,South,3400.39,642.65,4
+ORD-10560,2024-09-02,Herman Miller Chair,Furniture,West,934.84,89.37,1
+ORD-38152,2024-09-02,Apple MacBook Pro,Technology,Central,3180.43,602.64,3
+ORD-49171,2024-09-02,Highlighter Pack,Office Supplies,Central,147.89,27.07,10
+ORD-49270,2024-09-04,Leather Sofa,Furniture,East,9636.56,2029.56,8
+ORD-10089,2024-09-05,Canon DSLR Camera,Technology,East,6150.19,959.51,9
+ORD-78903,2024-09-07,Dell XPS 15,Technology,South,5303.85,880.8,7
+ORD-62640,2024-09-07,Whiteboard Markers,Office Supplies,Central,13.46,-0.88,1
+ORD-41797,2024-09-07,Canon DSLR Camera,Technology,West,1281.29,225.13,2
+ORD-22844,2024-09-08,Highlighter Pack,Office Supplies,East,109.14,35.68,7
+ORD-86389,2024-09-10,Logitech Wireless Mouse,Technology,East,272.67,52.86,6
+ORD-36171,2024-09-10,SanDisk SSD 1TB,Technology,East,558.94,147.65,5
+ORD-53452,2024-09-11,Glass Coffee Table,Furniture,West,1328.47,175.72,4
+ORD-38016,2024-09-12,HP LaserJet Printer,Technology,Central,2298.1,256.44,8
+ORD-20487,2024-09-12,Filing Cabinet,Furniture,West,1026.02,114.06,5
+ORD-91376,2024-09-12,Samsung Galaxy Tab,Technology,South,2417.44,349.92,7
+ORD-48684,2024-09-13,Whiteboard Markers,Office Supplies,South,36.69,10.17,3
+ORD-30366,2024-09-13,Leather Sofa,Furniture,East,4055.02,690.75,3
+ORD-89195,2024-09-14,Wooden Bookshelf,Furniture,South,1358.59,149.09,8
+ORD-12596,2024-09-14,Glass Coffee Table,Furniture,Central,731.23,125.77,3
+ORD-58653,2024-09-14,Sticky Notes Pack,Office Supplies,East,94.58,32.25,9
+ORD-23703,2024-09-15,Binder Clips Box,Office Supplies,West,41.78,11.34,6
+ORD-14062,2024-09-15,Stapler Set,Office Supplies,South,148.2,33.46,10
+ORD-58310,2024-09-16,Pen Set,Office Supplies,South,16.37,4.61,1
+ORD-70931,2024-09-17,Pen Set,Office Supplies,South,188.51,53.22,10
+ORD-79528,2024-09-18,Filing Cabinet,Furniture,West,1185.34,142.45,6
+ORD-24779,2024-09-18,Filing Cabinet,Furniture,South,1645.71,190.26,9
+ORD-89327,2024-09-18,Logitech Wireless Mouse,Technology,East,266.22,51.13,6
+ORD-46241,2024-09-18,HP LaserJet Printer,Technology,West,1484.29,203.37,4
+ORD-66524,2024-09-18,Highlighter Pack,Office Supplies,East,32.81,-2.38,2
+ORD-20814,2024-09-19,Samsung Galaxy Tab,Technology,East,2349.81,428.06,5
+ORD-74254,2024-09-20,A4 Paper Ream,Office Supplies,South,27.37,5.73,4
+ORD-89570,2024-09-21,Samsung Galaxy Tab,Technology,Central,3609.27,675.03,7
+ORD-77286,2024-09-22,Pen Set,Office Supplies,South,16.84,3.44,1
+ORD-46671,2024-09-22,Logitech Wireless Mouse,Technology,Central,361.84,120.24,10
+ORD-35166,2024-09-22,IKEA Standing Desk,Furniture,West,2594.77,324.28,6
+ORD-12609,2024-09-22,Filing Cabinet,Furniture,West,191.2,21.36,1
+ORD-24984,2024-09-23,A4 Paper Ream,Office Supplies,West,18.93,4.7,2
+ORD-30289,2024-09-23,Leather Sofa,Furniture,South,6578.44,763.26,7
+ORD-79066,2024-09-23,Leather Sofa,Furniture,East,7148.75,1215.34,5
+ORD-49688,2024-09-23,Sticky Notes Pack,Office Supplies,Central,62.08,21.11,7
+ORD-37802,2024-09-25,Sony Headphones,Technology,South,462.47,90.2,3
+ORD-53598,2024-09-25,Filing Cabinet,Furniture,West,429.25,37.19,2
+ORD-61815,2024-09-26,A4 Paper Ream,Office Supplies,West,70.66,17.81,8
+ORD-80912,2024-09-26,Logitech Wireless Mouse,Technology,Central,200.93,60.55,6
+ORD-66815,2024-09-26,Samsung Galaxy Tab,Technology,West,2211.37,323.5,4
+ORD-52898,2024-09-26,Binder Clips Box,Office Supplies,South,39.66,13.17,6
+ORD-94108,2024-09-27,Sony Headphones,Technology,South,659.64,160.36,5
+ORD-93228,2024-09-27,Wooden Bookshelf,Furniture,South,1663.24,173.69,9
+ORD-61483,2024-09-28,HP LaserJet Printer,Technology,Central,2414.32,243.32,9
+ORD-87862,2024-09-28,Apple MacBook Pro,Technology,West,7676.68,1222.72,6
+ORD-29476,2024-09-29,Samsung Galaxy Tab,Technology,South,4458.22,806.51,10
+ORD-72670,2024-10-01,Whiteboard Markers,Office Supplies,Central,107.69,-10.96,10
+ORD-96517,2024-10-01,Sticky Notes Pack,Office Supplies,Central,21.93,7.33,2
+ORD-76164,2024-10-01,IKEA Standing Desk,Furniture,South,2635.13,333.49,8
+ORD-15535,2024-10-01,SanDisk SSD 1TB,Technology,South,758.33,108.28,9
+ORD-55977,2024-10-01,Samsung Galaxy Tab,Technology,South,3505.13,462.47,8
+ORD-33969,2024-10-02,Whiteboard Markers,Office Supplies,Central,108.91,28.82,10
+ORD-68743,2024-10-02,Highlighter Pack,Office Supplies,West,126.04,32.25,8
+ORD-70319,2024-10-02,Highlighter Pack,Office Supplies,West,142.37,40.54,9
+ORD-52026,2024-10-03,Leather Sofa,Furniture,West,2596.2,403.73,2
+ORD-57655,2024-10-03,SanDisk SSD 1TB,Technology,West,554.66,89.0,5
+ORD-29826,2024-10-03,Leather Sofa,Furniture,West,7668.86,1441.22,6
+ORD-19710,2024-10-04,Herman Miller Chair,Furniture,East,6053.7,848.2,7
+ORD-36302,2024-10-04,IKEA Standing Desk,Furniture,Central,637.79,66.62,2
+ORD-94513,2024-10-04,Sticky Notes Pack,Office Supplies,East,53.52,12.3,5
+ORD-64477,2024-10-04,Glass Coffee Table,Furniture,Central,1827.14,273.83,7
+ORD-81057,2024-10-05,Pen Set,Office Supplies,West,243.9,79.44,10
+ORD-25220,2024-10-05,Apple MacBook Pro,Technology,East,7879.25,1262.51,5
+ORD-18745,2024-10-06,Apple MacBook Pro,Technology,East,8218.51,1367.71,5
+ORD-58147,2024-10-06,Wooden Bookshelf,Furniture,South,387.68,58.08,2
+ORD-38467,2024-10-07,Stapler Set,Office Supplies,West,29.36,10.93,2
+ORD-35614,2024-10-07,Sony Headphones,Technology,South,1458.21,286.2,10
+ORD-19556,2024-10-07,Logitech Wireless Mouse,Technology,East,184.16,46.64,4
+ORD-67377,2024-10-08,Whiteboard Markers,Office Supplies,Central,63.64,22.86,5
+ORD-70811,2024-10-08,HP LaserJet Printer,Technology,East,941.91,146.36,3
+ORD-25533,2024-10-09,Apple MacBook Pro,Technology,Central,9855.55,1694.33,8
+ORD-62383,2024-10-09,Filing Cabinet,Furniture,West,1331.02,181.05,7
+ORD-48206,2024-10-10,Filing Cabinet,Furniture,Central,665.65,67.36,4
+ORD-45197,2024-10-10,Sticky Notes Pack,Office Supplies,West,66.17,15.03,7
+ORD-60578,2024-10-10,Filing Cabinet,Furniture,East,791.74,131.14,4
+ORD-36962,2024-10-11,Herman Miller Chair,Furniture,West,4467.53,578.26,5
+ORD-79111,2024-10-11,Filing Cabinet,Furniture,West,518.6,64.85,3
+ORD-27878,2024-10-11,A4 Paper Ream,Office Supplies,West,85.31,13.51,9
+ORD-67155,2024-10-12,Pen Set,Office Supplies,South,135.96,37.64,8
+ORD-29726,2024-10-13,Samsung Galaxy Tab,Technology,East,1383.03,216.68,3
+ORD-55443,2024-10-13,HP LaserJet Printer,Technology,East,929.99,148.45,3
+ORD-75211,2024-10-13,Sticky Notes Pack,Office Supplies,Central,58.06,15.02,6
+ORD-28434,2024-10-13,Whiteboard Markers,Office Supplies,West,139.05,-13.06,10
+ORD-37222,2024-10-13,Sticky Notes Pack,Office Supplies,South,23.6,-2.42,3
+ORD-78118,2024-10-13,Pen Set,Office Supplies,South,53.17,16.48,3
+ORD-48745,2024-10-15,Sticky Notes Pack,Office Supplies,South,29.4,7.84,3
+ORD-22767,2024-10-15,Dell XPS 15,Technology,West,11958.3,2242.46,10
+ORD-40254,2024-10-15,Dell XPS 15,Technology,South,6419.42,1084.46,8
+ORD-87984,2024-10-15,Dell XPS 15,Technology,East,2048.97,235.87,2
+ORD-82281,2024-10-15,Stapler Set,Office Supplies,Central,65.65,21.21,4
+ORD-68598,2024-10-17,Glass Coffee Table,Furniture,Central,621.66,94.64,2
+ORD-91973,2024-10-17,Canon DSLR Camera,Technology,South,6323.84,851.67,10
+ORD-64000,2024-10-18,Apple MacBook Pro,Technology,West,7359.9,1773.51,5
+ORD-99853,2024-10-18,Wooden Bookshelf,Furniture,East,272.83,37.47,1
+ORD-81237,2024-10-18,Herman Miller Chair,Furniture,Central,5630.42,710.19,8
+ORD-28242,2024-10-19,Filing Cabinet,Furniture,East,1581.29,163.16,7
+ORD-96734,2024-10-19,Wooden Bookshelf,Furniture,East,1208.61,157.75,5
+ORD-90222,2024-10-20,Binder Clips Box,Office Supplies,East,83.85,26.28,10
+ORD-35543,2024-10-21,Logitech Wireless Mouse,Technology,South,244.61,66.54,7
+ORD-36667,2024-10-21,Sticky Notes Pack,Office Supplies,Central,19.19,4.23,2
+ORD-25704,2024-10-21,Dell XPS 15,Technology,Central,3677.44,618.71,4
+ORD-79033,2024-10-23,Wooden Bookshelf,Furniture,Central,1933.92,202.77,8
+ORD-90147,2024-10-24,SanDisk SSD 1TB,Technology,West,674.37,178.25,7
+ORD-66949,2024-10-24,Wooden Bookshelf,Furniture,East,1654.05,235.13,7
+ORD-26182,2024-10-25,Binder Clips Box,Office Supplies,East,90.02,15.64,10
+ORD-47594,2024-10-25,Sony Headphones,Technology,South,1060.3,239.07,8
+ORD-52153,2024-10-25,Highlighter Pack,Office Supplies,Central,88.94,17.59,6
+ORD-97475,2024-10-26,Canon DSLR Camera,Technology,South,4553.12,661.31,8
+ORD-50760,2024-10-26,Stapler Set,Office Supplies,Central,66.89,24.02,5
+ORD-25403,2024-10-27,Glass Coffee Table,Furniture,East,2852.82,442.99,9
+ORD-23681,2024-10-28,Samsung Galaxy Tab,Technology,South,3554.97,423.32,9
+ORD-27647,2024-10-29,Pen Set,Office Supplies,East,219.15,46.59,8
+ORD-21807,2024-10-30,Binder Clips Box,Office Supplies,Central,58.68,19.06,8
+ORD-93422,2024-10-30,Leather Sofa,Furniture,West,3222.22,357.47,3
+ORD-30889,2024-10-31,Whiteboard Markers,Office Supplies,West,39.97,15.48,3
+ORD-69770,2024-11-01,A4 Paper Ream,Office Supplies,East,25.56,-2.21,3
+ORD-49135,2024-11-02,Herman Miller Chair,Furniture,East,1664.36,223.35,2
+ORD-68994,2024-11-02,Whiteboard Markers,Office Supplies,South,22.88,7.54,2
+ORD-94874,2024-11-02,Filing Cabinet,Furniture,South,344.62,35.53,2
+ORD-59681,2024-11-02,Whiteboard Markers,Office Supplies,Central,12.69,2.7,1
+ORD-62872,2024-11-03,HP LaserJet Printer,Technology,East,1883.44,239.81,5
+ORD-82088,2024-11-03,Herman Miller Chair,Furniture,South,3917.73,385.38,5
+ORD-39190,2024-11-04,Logitech Wireless Mouse,Technology,South,30.04,7.06,1
+ORD-60394,2024-11-04,Herman Miller Chair,Furniture,East,8290.89,955.83,10
+ORD-45018,2024-11-05,Samsung Galaxy Tab,Technology,Central,2315.53,484.76,6
+ORD-19724,2024-11-05,Whiteboard Markers,Office Supplies,South,106.53,-10.4,10
+ORD-56461,2024-11-05,Stapler Set,Office Supplies,East,96.23,31.79,6
+ORD-86216,2024-11-06,A4 Paper Ream,Office Supplies,South,73.85,15.46,9
+ORD-27892,2024-11-06,A4 Paper Ream,Office Supplies,Central,31.41,5.08,4
+ORD-20982,2024-11-09,A4 Paper Ream,Office Supplies,West,75.43,20.76,10
+ORD-60351,2024-11-09,Pen Set,Office Supplies,East,76.81,22.91,3
+ORD-65590,2024-11-09,Pen Set,Office Supplies,Central,195.13,44.26,10
+ORD-77608,2024-11-11,Samsung Galaxy Tab,Technology,West,542.91,82.45,1
+ORD-62978,2024-11-11,Whiteboard Markers,Office Supplies,East,125.22,-11.18,10
+ORD-21869,2024-11-11,Highlighter Pack,Office Supplies,South,35.81,8.39,3
+ORD-20151,2024-11-12,Dell XPS 15,Technology,Central,2136.58,303.9,2
+ORD-24838,2024-11-12,Glass Coffee Table,Furniture,Central,2245.49,411.41,9
+ORD-16949,2024-11-12,Sticky Notes Pack,Office Supplies,South,10.09,-0.99,1
+ORD-19836,2024-11-13,Binder Clips Box,Office Supplies,Central,20.7,5.83,3
+ORD-82918,2024-11-13,Herman Miller Chair,Furniture,South,5799.69,691.44,9
+ORD-17346,2024-11-13,Stapler Set,Office Supplies,Central,67.07,19.36,4
+ORD-89291,2024-11-13,Binder Clips Box,Office Supplies,South,25.31,6.66,4
+ORD-96816,2024-11-13,Pen Set,Office Supplies,Central,216.26,-21.54,10
+ORD-58904,2024-11-14,HP LaserJet Printer,Technology,South,1062.74,159.57,4
+ORD-49179,2024-11-15,IKEA Standing Desk,Furniture,West,2422.96,231.12,7
+ORD-24918,2024-11-15,Leather Sofa,Furniture,South,3813.0,450.7,4
+ORD-98091,2024-11-16,Logitech Wireless Mouse,Technology,South,277.13,85.78,8
+ORD-87748,2024-11-17,Canon DSLR Camera,Technology,East,875.38,166.2,1
+ORD-54793,2024-11-17,A4 Paper Ream,Office Supplies,Central,56.38,-3.3,7
+ORD-20793,2024-11-18,Samsung Galaxy Tab,Technology,West,3093.96,616.45,6
+ORD-39825,2024-11-19,Leather Sofa,Furniture,Central,3899.75,603.66,4
+ORD-99037,2024-11-19,Whiteboard Markers,Office Supplies,South,94.48,30.29,10
+ORD-65203,2024-11-20,Herman Miller Chair,Furniture,Central,5019.49,463.25,7
+ORD-14643,2024-11-21,Binder Clips Box,Office Supplies,Central,25.86,4.69,4
+ORD-89205,2024-11-21,Herman Miller Chair,Furniture,South,1893.86,287.55,3
+ORD-69405,2024-11-21,Whiteboard Markers,Office Supplies,West,89.19,18.53,7
+ORD-59009,2024-11-23,IKEA Standing Desk,Furniture,Central,2449.2,282.23,8
+ORD-34450,2024-11-23,Highlighter Pack,Office Supplies,West,13.23,3.15,1
+ORD-89788,2024-11-23,HP LaserJet Printer,Technology,West,3351.51,646.55,9
+ORD-84905,2024-11-24,SanDisk SSD 1TB,Technology,East,913.96,208.16,9
+ORD-69177,2024-11-25,Filing Cabinet,Furniture,South,1136.01,113.22,8
+ORD-15697,2024-11-25,Sony Headphones,Technology,Central,1024.37,171.65,6
+ORD-49089,2024-11-25,Sticky Notes Pack,Office Supplies,East,111.35,-11.84,10
+ORD-78838,2024-11-26,Wooden Bookshelf,Furniture,East,2977.76,345.87,10
+ORD-60723,2024-11-26,Apple MacBook Pro,Technology,West,9381.65,1350.84,8
+ORD-46885,2024-11-27,Pen Set,Office Supplies,South,54.21,-3.79,3
+ORD-44091,2024-11-28,Glass Coffee Table,Furniture,Central,1690.65,231.36,7
+ORD-88636,2024-11-28,Apple MacBook Pro,Technology,West,9044.03,1988.89,6
+ORD-37176,2024-11-28,Filing Cabinet,Furniture,East,572.58,66.7,3
+ORD-46471,2024-11-29,Apple MacBook Pro,Technology,West,9444.99,1644.48,7
+ORD-54224,2024-11-30,Binder Clips Box,Office Supplies,West,70.18,22.59,10
+ORD-74512,2024-11-30,Glass Coffee Table,Furniture,East,640.38,106.78,2
+ORD-44843,2024-12-01,Apple MacBook Pro,Technology,Central,11103.21,2326.16,10
+ORD-45386,2024-12-01,Stapler Set,Office Supplies,South,81.8,25.22,7
+ORD-64380,2024-12-02,Samsung Galaxy Tab,Technology,South,379.49,75.75,1
+ORD-26538,2024-12-02,Samsung Galaxy Tab,Technology,Central,3357.26,612.16,8
+ORD-47548,2024-12-03,Stapler Set,Office Supplies,Central,100.38,24.83,7
+ORD-32227,2024-12-03,Herman Miller Chair,Furniture,West,8864.39,1149.43,10
+ORD-73298,2024-12-03,Wooden Bookshelf,Furniture,Central,963.81,105.81,4
+ORD-73517,2024-12-03,Wooden Bookshelf,Furniture,West,1274.46,106.0,5
+ORD-79152,2024-12-04,Filing Cabinet,Furniture,Central,306.07,47.71,2
+ORD-74122,2024-12-04,A4 Paper Ream,Office Supplies,West,15.14,2.96,2
+ORD-25182,2024-12-05,Stapler Set,Office Supplies,Central,108.09,37.52,7
+ORD-64997,2024-12-06,Wooden Bookshelf,Furniture,Central,236.48,21.87,1
+ORD-51467,2024-12-06,Stapler Set,Office Supplies,East,135.86,42.42,7
+ORD-50679,2024-12-08,A4 Paper Ream,Office Supplies,West,50.08,10.77,6
+ORD-60343,2024-12-08,Sony Headphones,Technology,South,285.3,74.82,2
+ORD-18371,2024-12-08,Logitech Wireless Mouse,Technology,Central,152.79,44.43,5
+ORD-19172,2024-12-09,IKEA Standing Desk,Furniture,West,2064.7,261.7,5
+ORD-42275,2024-12-09,Pen Set,Office Supplies,West,170.78,33.35,9
+ORD-61199,2024-12-11,Glass Coffee Table,Furniture,West,1873.89,343.76,6
+ORD-79742,2024-12-12,HP LaserJet Printer,Technology,West,1156.49,187.01,4
+ORD-46624,2024-12-14,Sony Headphones,Technology,East,534.16,147.47,3
+ORD-16741,2024-12-16,Pen Set,Office Supplies,Central,204.12,51.45,9
+ORD-47098,2024-12-17,Sticky Notes Pack,Office Supplies,South,66.27,12.9,7
+ORD-12492,2024-12-17,Binder Clips Box,Office Supplies,Central,29.09,5.26,4
+ORD-21491,2024-12-19,Canon DSLR Camera,Technology,East,1469.02,305.37,2
+ORD-55731,2024-12-19,Samsung Galaxy Tab,Technology,Central,1019.1,203.96,2
+ORD-66224,2024-12-21,Sticky Notes Pack,Office Supplies,Central,58.44,11.8,6
+ORD-81888,2024-12-21,Whiteboard Markers,Office Supplies,South,96.84,35.88,8
+ORD-74036,2024-12-21,Stapler Set,Office Supplies,Central,152.67,32.49,9
+ORD-56170,2024-12-22,Glass Coffee Table,Furniture,Central,1341.79,240.63,5
+ORD-48652,2024-12-22,Binder Clips Box,Office Supplies,South,45.84,11.38,7
+ORD-53888,2024-12-22,HP LaserJet Printer,Technology,West,2188.39,277.82,7
+ORD-55056,2024-12-23,Filing Cabinet,Furniture,South,1210.76,103.35,8
+ORD-64008,2024-12-23,Leather Sofa,Furniture,West,4802.5,575.17,4
+ORD-39579,2024-12-23,Pen Set,Office Supplies,West,77.83,-6.77,4
+ORD-30635,2024-12-23,Apple MacBook Pro,Technology,Central,11543.92,2362.98,9
+ORD-21537,2024-12-24,Stapler Set,Office Supplies,South,111.73,39.65,8
+ORD-68833,2024-12-26,A4 Paper Ream,Office Supplies,East,54.5,16.31,5
+ORD-16849,2024-12-26,SanDisk SSD 1TB,Technology,West,674.95,150.81,7
+ORD-90533,2024-12-27,Sticky Notes Pack,Office Supplies,West,79.02,14.56,8
+ORD-41223,2024-12-28,Whiteboard Markers,Office Supplies,East,47.15,16.72,3
+ORD-88059,2024-12-28,Stapler Set,Office Supplies,Central,93.91,26.2,6
+ORD-26591,2024-12-29,IKEA Standing Desk,Furniture,South,308.21,41.56,1
+ORD-74566,2024-12-29,A4 Paper Ream,Office Supplies,Central,48.12,9.09,7
+ORD-41348,2024-12-29,Filing Cabinet,Furniture,Central,693.32,104.61,4
+ORD-68891,2024-12-29,Herman Miller Chair,Furniture,South,5040.23,853.9,8
+ORD-70929,2024-12-31,Stapler Set,Office Supplies,South,106.55,35.54,8
