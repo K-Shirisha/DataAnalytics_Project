@@ -1,0 +1,77 @@
+====================================================
+  SALES & REVENUE ANALYSIS — BUSINESS INSIGHTS
+====================================================
+
+Dataset: Superstore-style sales data (2022–2024)
+Records: 2,000 orders across 3 categories, 4 regions
+
+----------------------------------------------------
+1. HIGHEST REVENUE GENERATING CATEGORY
+----------------------------------------------------
+Technology leads all categories in total revenue.
+High-value items like MacBooks, Dell laptops, and
+cameras generate significantly higher per-order sales
+compared to Furniture and Office Supplies.
+
+----------------------------------------------------
+2. BEST-SELLING PRODUCTS
+----------------------------------------------------
+The top revenue-generating products are:
+  - Apple MacBook Pro
+  - Leather Sofa
+  - Dell XPS 15
+  - Herman Miller Chair
+  - Canon DSLR Camera
+
+These products have high unit prices and consistent
+demand throughout the year.
+
+----------------------------------------------------
+3. MOST PROFITABLE REGION
+----------------------------------------------------
+The East region consistently delivers the highest
+profit margins, driven by a higher regional sales
+multiplier and strong Technology purchases.
+
+----------------------------------------------------
+4. MONTHLY SALES TRENDS
+----------------------------------------------------
+- Sales show a seasonal uptick towards Q4 (Oct–Dec)
+  corresponding to year-end spending and holiday deals.
+- Q1 tends to be slightly slower across all categories.
+- Technology purchases spike during back-to-school
+  months (Aug–Sep) and the festive season.
+
+----------------------------------------------------
+5. LOSS-MAKING AREAS
+----------------------------------------------------
+- Some Office Supplies sub-categories (Binder Clips,
+  Sticky Notes) operate at thin or negative margins
+  due to high competition and low pricing pressure.
+- Discounting in Office Supplies should be reviewed —
+  15% of rows in this category record negative profit.
+
+----------------------------------------------------
+6. REGIONAL OBSERVATIONS
+----------------------------------------------------
+- East & West together account for ~55% of total sales.
+- Central and South regions present growth opportunities
+  with targeted marketing campaigns.
+
+----------------------------------------------------
+7. RECOMMENDATIONS
+----------------------------------------------------
+a) Increase Technology category promotions — highest
+   margin and revenue driver.
+b) Bundle Office Supplies with high-margin items to
+   improve blended margins.
+c) Invest in East region infrastructure to sustain
+   its leading performance.
+d) Launch Q1 promotional campaigns to offset the
+   seasonal sales dip.
+e) Audit loss-making Office Supplies SKUs and
+   consider rationalising the product mix.
+
+====================================================
+Generated: 2024 | Sales & Revenue Analysis Project
+====================================================
